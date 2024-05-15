@@ -1,0 +1,22 @@
+[
+  {
+    "id": null,
+    "name": "Sanción y control de medios adversos",
+    "type": "processTitle"
+  },
+  {
+    "id": 8,
+    "name": "Validación de correo electrónico",
+    "type": null
+  },
+  {
+    "id": 9,
+    "name": "Validación de dominios",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "Sanción y control de medios adversos",
+    "type": null
+  }
+]
