@@ -1,0 +1,599 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Cuestionario de diligencia debida a terceros",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 130,
+    "fieldName": null,
+    "name": "Introducción",
+    "description": "Grünenthal considera que la diligencia debida es un elemento clave para gestionar los riesgos de cumplimiento, éticos y de reputación asociados a terceros. Como posible socio comercial de Grünenthal le rogamos que nos facilite toda la información requerida a continuación. Los datos que nos facilite a través de este cuestionario sólo se utilizarán para evaluar los riesgos a los que esta relación puede exponer a Grünenthal y llevar a cabo nuestros procesos operativos y contables habituales. \n\n\n\nPor favor, facilite la información en formato digital.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Datos de la empresa y del país",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Información complementaria",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 56,
+    "fieldName": null,
+    "name": "Información financiera y jurídica",
+    "description": "Facilite la siguiente información financiera de los tres últimos ejercicios.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 108,
+    "fieldName": null,
+    "name": "Cumplimiento y responsabilidad",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 194,
+    "fieldName": null,
+    "name": "Medioambiente y derechos humanos",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 235,
+    "fieldName": null,
+    "name": "Código de conducta para los socios comerciales de Grünenthal",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 305,
+    "fieldName": "permitLessReason",
+    "name": "Enumere los motivos por los que no dispone de los registros/autorizaciones/permisos/licencias, etc.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 255,
+    "fieldName": "employeeNumber",
+    "name": "¿Cuántos empleados tiene su empresa, incluidos los destinados en el extranjero?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 275,
+    "fieldName": "conflictInterestExt",
+    "name": "Por favor, explique la situación de conflicto de intereses.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 285,
+    "fieldName": "notAbidingReason",
+    "name": "Describa brevemente los motivos por los que no se cumplen las leyes mencionadas o por los que no se dispone de las licencias o registros necesarios.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 253,
+    "fieldName": "country",
+    "name": "País Proveedor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 346,
+    "fieldName": "q346__p_Will_your_company_use_subco",
+    "name": "<p>¿Su empresa utilizará subcontratistas en relación con el servicio a prestar?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 349,
+    "fieldName": "q349__p_Please_select_country_of_in",
+    "name": "<p>Seleccione el país de constitución o de actividad del subcontratista <span style=\"color: rgb(62, 68, 86);\">.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 311,
+    "fieldName": "codeOfConductCertificate",
+    "name": "Adjunte una copia/certificado/política del código de conducta del sector aplicable.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 317,
+    "fieldName": "whistleblowingPolicyCopy",
+    "name": "Adjunte una copia de su política de denuncia de irregularidades.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 337,
+    "fieldName": "acknowledgeOnBehalf",
+    "name": "<p><span style=\"color: rgb(255, 255, 255);\">ABC</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "We hereby acknowledge on behalf of the Business Partner that it recognises all obligations arising out of or in connection with this Code of Conduct and that it will comply with it as long as the business relationship lasts.": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 355,
+    "fieldName": "q355__p_TPDD_Type_Custom_is_ESG__Hi",
+    "name": "<p>TPDD Tipo Personalizado es ESG (Oculto)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 384,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(187, 187, 187);\\\">¡Código de conducta reconocido!</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 386,
+    "fieldName": "null_2_",
+    "name": "nula(2)",
+    "description": "\"<p><span style=\\\"color: rgb(187, 187, 187);\\\">¡Código de conducta no reconocido!</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 376,
+    "fieldName": "isTPDDfillByGRT",
+    "name": "<p>¿Está el formulario cumplimentado por Grupo - Oro_Proveedor Sin Respuesta_Centro de Adquisición en GRT</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 238,
+    "fieldName": "q238__p__span_style__color__rgb_31_",
+    "name": "Seleccione la región de Brasil",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 267,
+    "fieldName": "preferredLanguage",
+    "name": "Seleccione el idioma preferido",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 251,
+    "fieldName": "legalEntity",
+    "name": "¿Cuál es el nombre legal de la empresa para la que responde?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 167,
+    "fieldName": "whistleblowingPolicyMediumRisk",
+    "name": "<p>Riesgo medio si el vendedor no tiene política de denuncia de irregularidades y si el número de empleados es &gt;50 (Oculto, para el cálculo del riesgo)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 293,
+    "fieldName": "turnoverLastYear",
+    "name": "Facturación del ejercicio - último año",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 295,
+    "fieldName": "turnoverTwoYears",
+    "name": "Facturación del ejercicio: dos añosaños",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 297,
+    "fieldName": "turnoverThreeYears",
+    "name": "Facturación del ejercicio - tres añosaños",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 309,
+    "fieldName": "codeOfConductDetails",
+    "name": "Indique el código de conducta del sector aplicable si es público.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 315,
+    "fieldName": "whistleblowingPolicyDetails",
+    "name": "Facilite información detallada sobre su política de denuncia de irregularidades.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 259,
+    "fieldName": "manufacServCountry",
+    "name": "<p>Seleccione los países en los que se suministrarán/fabricarán los servicios/productos.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 361,
+    "fieldName": "q361__p_Medium_Risk__span_style__co",
+    "name": "<p>Riesgo medio <span style=\"color: rgb(62, 68, 86);\">si el vendedor no tiene una política de denuncia de irregularidades y c</span>ompañía está en el ámbito del proceso ESG DD</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 289,
+    "fieldName": "lightToEnhanced",
+    "name": "Convertir TPDD leve en TPDD aumentada (Oculto, por condición)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 291,
+    "fieldName": "isEnhanced",
+    "name": "¿La TPDD es aumentada? (Oculto por condición)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 343,
+    "fieldName": "governmentPublic",
+    "name": "A su leal saber y entender, ¿su empresao cualquiera de sus filiales o subcontratistas es directa o indirectamente propiedad, está gestionada o relacionada con funcionarios del gobierno opúblicos o con cualquier tipo de autoridad pública?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Denied party list": "",
+      "Subject to an embargo": "",
+      "EU, US or other applicable local sanction list": "",
+      "None of the above": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 269,
+    "fieldName": "governmentPublicContact",
+    "name": "<p>¿Su empresa o alguna de sus filiales o subcontratistas&nbsp;entrará en contacto con funcionarios gubernamentales o públicos&nbsp;en el transcurso de&nbsp;la realización de trabajos para nuestra organización?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 339,
+    "fieldName": "subsidiarySubconSanc",
+    "name": "A su leal saber y entender, ¿está su empresa, alguno de sus accionistas (incluidos los propietarios beneficiarios finales), o alguna filial o subcontratista que participe en esta relación comercial, incluido en alguna lista de sanciones o partes denegadas de la UE, EE.UU. u otra lista local aplicable, o sujeto a embargo?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 273,
+    "fieldName": "conflictInterest",
+    "name": "A su leal saber y entender, ¿existe alguna situación que sea o pueda percibirse como un conflicto de intereses que implique a su empresa, a los propietarios beneficiarios finales, a los miembros del consejo de administración, a sus directivos o a cualquier filial o subcontratista utilizado y a Grünenthal o a cualquiera de sus empleados?",
+    "description": null,
+    "helpText": "<p><em style=\"color: rgb(102, 163, 224);\">El término \"conflicto de intereses\" se refiere a una situación en la que: </em></p><p><em style=\"color: rgb(102, 163, 224);\">- Los intereses privados y empresariales interfieren</em></p><p><em style=\"color: rgb(102, 163, 224);\">- La toma de decisiones profesionales puede verse influida por intereses privados, también de familiares o amigos</em></p><p><em style=\"color: rgb(102, 163, 224);\">- Una decisión profesional puede verse afectada por una relación con una empresa o un particular </em></p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 277,
+    "fieldName": "prosecutedConvicted",
+    "name": "A su leal saber y entender, ¿ha sido su empresa, filiales o subcontratistas que se vayan a utilizar en relación con este servicio, o alguno de sus directores,miembros del consejo de administración o propietarios beneficiarios finales, alguna vezinvestigado, procesado o condenado por un delitopor una autoridad encargada de hacer cumplir la ley o cualquier autoridad gubernamental central/regional/local, o ha sido multado o sancionado alguna vez en relación con infracciones de los derechos humanos orelacionadas con el medioambiente?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 283,
+    "fieldName": "antiCorruption",
+    "name": "<p>¿Su empresa conoce y&nbsp;se compromete a cumplir las disposiciones de todas las leyes aplicables, incluyendo asuntos tales como (pero no limitados a) la lucha contra la corrupción, la lucha contra el blanqueo de dinero, las leyes de protección de datos y los derechos humanos y la protección del medio ambiente, y está en posesión de todos los&nbsp;registros, autorizaciones, permisos y licencias&nbsp;comerciales válidos para&nbsp;realizar trabajos para nuestra organización?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 303,
+    "fieldName": "validPermits",
+    "name": "¿Está su empresa en posesión de todos los registros comerciales, registros fiscales, autorizaciones, permisos, licencias, etc. válidos en todos los países en los que se prestarán los servicios a Grünenthal?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 307,
+    "fieldName": "codeOfConduct",
+    "name": "¿Su empresa sigue un código de conducta o un código de buenas prácticas corporativo o sectorial que cubra temas comunes de Cumplimiento como integridad, salud  seguridad, confidencialidad, anticorrupción, conflictos de intereses, competencia leal, protección de datos, protección del medioambiente, derechos humanos, etc.?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Human rights": "",
+      "Fair competition": "",
+      "Confidentiality": "",
+      "Data protection": "",
+      "Conflicts of interest": "",
+      "Health & safety": "",
+      "Environment protection": "",
+      "Anti-corruption": "",
+      "Integrity": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 352,
+    "fieldName": "q352__p_If_subcontractors__subsidia",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">A su leal saber y entender, ¿es el subcontratista directa o indirectamente propiedad o está gestionado por o relacionado con la Administración o funcionarios públicos o cualquier tipo de autoridad pública, o entrará en contacto con la Administración o funcionarios públicos en el transcurso de la realización de trabajos para nuestra organización? </span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 363,
+    "fieldName": "subconSanction",
+    "name": "A su leal saber y entender, ¿está su empresa, alguno de sus accionistas (incluidos los propietarios beneficiarios finales), o alguna filial o subcontratista que participe en esta relación comercial, incluido en alguna lista de sanciones o partes denegadas de la UE, EE.UU. u otra lista local aplicable, o sujeto a embargo?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 365,
+    "fieldName": "subconConflictInterest",
+    "name": "<p><span style=\"color: rgb(31, 31, 31);\">Según su leal saber y entender, ¿existe alguna situación que suponga o pueda suponer un conflicto de intereses en el que estén implicados el subcontratista, los propietarios beneficiarios finales, los miembros del consejo de administración o sus directivos y Grünenthal o cualquiera de sus empleados? </span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 313,
+    "fieldName": "whistleblowingPolicyExist",
+    "name": "¿Dispone su empresa de una política de denuncia de irregularidades que permita informar (interna y externamente) presuntas infracciones?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 319,
+    "fieldName": "legalDepartment",
+    "name": "¿Cuenta su empresa con un departamento jurídico?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 321,
+    "fieldName": "complianceDepartment",
+    "name": "¿Cuenta su empresa con el apoyo de un departamento de Cumplimiento?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 325,
+    "fieldName": "humanRightsAndEnviron",
+    "name": "<p>A su leal saber y entender, ¿tiene conocimiento de la existencia de alertas rojas o riesgos relacionados con los derechos humanos o el medio ambiente en su empresa o en su cadena de suministro (incluido cualquier proveedor indirecto cuyos suministros sean necesarios para la producción del producto o para la prestación y el uso del servicio en cuestión)?</p>",
+    "description": null,
+    "helpText": "El término \"derechos humanos\" se refiere a las normas que reconocen y protegen la dignidad de todos los seres humanos. Los derechos humanos rigen la forma en que los seres humanosindividuales viven en sociedad y entre sí (en el contexto empresarial abarcan la ética,el trabajo, la salud y la seguridad). Entre ellas se incluyen la prohibición del trabajo infantil, la protección contra la esclavitud y el trabajo forzoso, la no discriminación, la protección contra la confiscación ilegal de tierras, la seguridad y la salud en el trabajo y los riesgos sanitarios relacionados, la prohibición de retener un salario adecuado, el derecho a formar sindicatos u órganos representativos de los trabajadores, la prohibición de contaminar el suelo o el agua y la protección contra la tortura.​El término \"riesgos medioambientales\" se refiere a una situación en la que cualquier residuo, agua residual o emisión repercute negativamente en la salud humana o medioambientalo que contribuye al cambio climático, utiliza sustancias nocivas o desperdicia recursos preciosos).",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 327,
+    "fieldName": "rmsHumanRightsAndEnv",
+    "name": "¿Ha establecido su empresa un sistema de gestión de riesgos específico para hacerles frente a los riesgos relacionados con los derechos humanos y el medioambiente?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 329,
+    "fieldName": "policyHumanRightsAndEnv",
+    "name": "<p>¿Dispone su organización de una declaración de política en materia de medio ambiente y derechos humanos que vaya más allá de un código de conducta estándar? (por ejemplo, sobre temas como la prohibición del trabajo infantil, el trabajo forzoso o la esclavitud, la libertad de asociación, la no discriminación, el no acoso, los salarios y prestaciones, los horarios de trabajo y las horas extraordinarias, la lucha contra la trata de seres humanos, los accidentes y emergencias médicas en el trabajo, las normas de salud y seguridad en el trabajo, la manipulación y eliminación de residuos, la manipulación de contaminantes orgánicos persistentes, la manipulación de mercurio, etc.).</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 331,
+    "fieldName": "rmsHumanAndEnvReport",
+    "name": "<p>¿Incluye su sistema de gestión de riesgos medioambientales y de derechos humanos un proceso que garantice el cumplimiento de las obligaciones de diligencia debida para el proveedor indirecto, la aplicación de medidas preventivas, un proceso para adoptar y documentar medidas correctoras y la elaboración de informes sobre todos estos esfuerzos?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 333,
+    "fieldName": "offiHumanAndEnvRights",
+    "name": "<p>¿Ha designado su organización a un responsable que&nbsp;se encargue de&nbsp;los derechos humanos y medioambientales en su empresa?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 271,
+    "fieldName": "publicRelationship",
+    "name": "<p>Por favor, amplíe su respuesta anterior.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 279,
+    "fieldName": "humanRightsBreaches",
+    "name": "<p>Por favor, explique con más detalle los casos mencionados.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 390,
+    "fieldName": "enhancedToESG",
+    "name": "<p>Convertir TDD mejorada en TDD ESG (oculta)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 335,
+    "fieldName": "codeOfConductIntro",
+    "name": "Código de conducta para los socios comerciales de Grünenthal",
+    "description": "\"<p class=\\\"ql-align-center\\\">Presentación del Código de Conducta para los Socios Comerciales de Grünenthal</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">\\tGrünenthal se compromete a llevar a cabo sus negocios globales en cumplimiento de todas las leyes y reglamentos aplicables, actuando en línea con los más altos estándares éticos y tratando a los demás con respeto e integridad.</p><p class=\\\"ql-align-justify\\\">\\tSe espera que nuestros Socios Comerciales actúen de la misma manera. Este Código de Conducta (\"Código\") no constituye una lista exhaustiva de los marcos legales aplicables que nuestros socios comerciales deben cumplir, sino que pretende hacer hincapié en los temas más importantes para el Grupo Grünenthal.</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-justify\\\">\\tExpectativas</p><p class=\\\"ql-align-justify\\\">Grünenthal exige firmemente a todos sus proveedores, distribuidores, revendedores, agentes de ventas, consultores y otros socios comerciales en todo el mundo (cada uno, un \"Socio Comercial\" y en conjunto, los \"Socios Comerciales\") que lean detenidamente este Código y lo cumplan.</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">Grünenthal tomará las medidas apropiadas tan pronto como tenga conocimiento de cualquier infracción supuesta o real.</p><p class=\\\"ql-align-justify\\\">Todos los socios comerciales deben asegurarse contractualmente y de hecho de que sus subproveedores y subcontratistas están vinculados por</p><p class=\\\"ql-align-justify\\\">y se adhieren a las mismas obligaciones establecidas en este Código.</p><p class=\\\"ql-align-justify\\\"><br></p><p>Se espera y anima a los socios comerciales a que se pongan en contacto con la Organización de Cumplimiento de Grünenthal para cualquier pregunta o duda relacionada con este Código. La comunicación también puede realizarse de forma anónima a través de nuestra <a href=\\\"https://ethicshelpline.grunenthal.com/frontpage\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\">Línea de Ayuda Ética</a> o por correo electrónico <a href=\\\"mailto:compliance@gunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\">cumplimiento</a>.</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-justify\\\">\\tIntegridad</p><p class=\\\"ql-align-justify\\\">&nbsp;Esperamos que todos los Socios Comerciales actúen con integridad y cumplan con todas las leyes y reglamentos aplicables cuando realicen negocios con y en nombre de Grünenthal. Los Socios Comerciales deben respetar las leyes aplicables y el marco normativo y obtener y mantener los documentos necesarios, como admisiones, certificados y aprobaciones de las autoridades locales.</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">Se debe animar a todos los empleados de un Socio Comercial a que informen de preocupaciones o actividades ilegales en el lugar de trabajo y cualquier informe de este tipo debe realizarse sin ninguna amenaza por parte de los Socios Comerciales de represalias, intimidación o acoso.</p><p class=\\\"ql-align-justify\\\">Los Socios Comerciales investigarán y tomarán medidas correctivas si es necesario.</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-justify\\\">\\tSalud y seguridad</p><p class=\\\"ql-align-justify\\\">Grünenthal tiene un enfoque sistemático de la salud y la seguridad. Grünenthal espera que todos sus socios comerciales también garanticen el cumplimiento de las normas más recientes mediante la aplicación de un sólido sistema interno de gestión e información para proteger la vida y la salud de sus empleados, vecinos y el medio ambiente.</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-center\\\">Respeto y equidad</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-justify\\\">Grünenthal espera que todos sus socios comerciales traten a sus empleados y a todas las personas que actúan en su nombre de acuerdo con las normas éticas más estrictas. </p><p class=\\\"ql-align-justify\\\">Deben cumplir todos los convenios y leyes internacionales y nacionales en materia de derechos fundamentales.</p><p class=\\\"ql-align-justify\\\">Los Socios comerciales deben ofrecer un lugar de trabajo libre de acoso y discriminación por motivos de género, raza, nacionalidad, edad, religión, orientación sexual, identidad de género, apariencia física, origen social, discapacidad, afiliación sindical, situación familiar u opiniones políticas.</p><p class=\\\"ql-align-justify\\\">Declaran que no emplean a menores de edad en su plantilla, de conformidad con la normativa local e internacional y los tratados internacionales relativos al trabajo infantil.</p><p class=\\\"ql-align-justify\\\">Los Socios Comerciales deben garantizar que sus empleados tienen derecho a unas condiciones de trabajo razonables, salario y beneficios, horas de trabajo y descansos, libertad de asociación y negociación colectiva, medidas disciplinarias proporcionales y privacidad.</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-justify\\\">Protección de activos y confidencialidad</p><p class=\\\"ql-align-justify\\\">Todos los Socios Comerciales y todos los subcontratistas y/o personas que actúen en su nombre deben respetar los</p><p class=\\\"ql-align-justify\\\">activos, la información relacionada con el negocio y los derechos de propiedad intelectual de Grünenthal. Deben tratar toda la información recibida en el curso de la relación comercial como estrictamente confidencial en la medida en que dicha información no sea ya de dominio público o esté legalmente disponible para terceros.</p><p class=\\\"ql-align-justify\\\">Asimismo, se espera que los Socios comerciales protejan la información confidencial contra el acceso y uso no autorizados y la destruyan o devuelvan a Grünenthal una vez que ya no sea necesaria en la relación comercial.</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">Anticorrupción y cumplimiento</p><p class=\\\"ql-align-justify\\\">Todas las formas de corrupción están estrictamente prohibidas; es decir, la oferta, concesión o aceptación directa o indirecta de ventajas ilegítimas para generar, mantener o acelerar negocios, incluidos los pagos de facilitación. Todos los socios comerciales deben asegurarse de que no se intercambien ventajas en el curso de sus relaciones comerciales. Los socios comerciales sólo pueden ofrecer remuneración, regalos, hospitalidad, patrocinio y donaciones lícitos, adecuados, documentados y transparentes. Se debe actuar con especial diligencia y realizar controles internos más estrictos cuando</p><p class=\\\"ql-align-justify\\\">interactúe con funcionarios públicos. Grünenthal espera que sus socios comerciales adopten las medidas internas adecuadas para la prevención de delitos relacionados con la actividad empresarial e infracciones administrativas, en función de la exposición al riesgo, el tamaño y los recursos financieros del socio comercial.</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">Conflictos de intereses</p><p class=\\\"ql-align-justify\\\">Todos los socios comerciales y todos los subcontratistas y/o personas que actúen en su nombre deben evitar conflictos de intereses con respecto a:</p><p class=\\\"ql-align-justify\\\">- sus actividades privadas.</p><p class=\\\"ql-align-justify\\\">-</p><p class=\\\"ql-align-justify\\\">- sus actividades comerciales con otras partes y su participación en la relación comercial con Grünenthal.</p><p class=\\\"ql-align-justify\\\">Los conflictos de intereses existentes deben comunicarse inmediatamente a Grünenthal.</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">Competencia leal</p><p class=\\\"ql-align-justify\\\">Todos los socios comerciales y todos los subcontratistas y/o personas que actúen en su nombre deben cumplir las leyes antimonopolio y de competencia aplicables para garantizar una competencia leal. Ningún socio comercial podrá, directa o indirectamente, celebrar acuerdos ilegales con sus competidores ni intercambiar información sensible, por ejemplo, sobre mercados, clientes, estrategias, precios y similares. Todos los Socios comerciales y todas las personas que actúen en su nombre sólo podrán participar en licitaciones públicas y procedimientos de licitación del sector privado cuando cumplan estrictamente las leyes y reglamentos aplicables de la organización licitadora</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">Libros, registros y declaraciones fiscales precisos</p><p class=\\\"ql-align-justify\\\">Los Socios comerciales están obligados a llevar libros y registros precisos, así como a declarar verazmente todos los asuntos de relevancia fiscal. Se trata de elementos indispensables para dirigir una empresa legal y transparente de forma sostenible. Grünenthal espera que todos sus socios comerciales sean actores fiables en el mercado y actúen con la máxima diligencia a este respecto.</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-justify\\\">Derechos de aduana y controles/sanciones a la exportación</p><p class=\\\"ql-align-justify\\\">Todos los socios comerciales deben asegurarse de que sus asuntos aduaneros son gestionados por personal competente y de que cumplen con todos los derechos de aduana aplicables. Los Socios comerciales deben supervisar constantemente los desarrollos más recientes para garantizar el estricto cumplimiento de la normativa vigente en materia de control de exportaciones y sanciones.</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">Medio ambiente</p><p class=\\\"ql-align-justify\\\">Los Socios comerciales deben cumplir toda la normativa medioambiental aplicable. Todos los permisos, licencias, registros de información y restricciones medioambientales requeridos deben obtenerse, mantenerse y seguirse sus requisitos operativos</p><p class=\\\"ql-align-justify\\\">y de información.</p><p class=\\\"ql-align-justify\\\">Los socios comerciales deben disponer de sistemas que garanticen un uso responsable y sostenible de los recursos naturales y la manipulación, movimiento, almacenamiento, reciclaje, reutilización o gestión seguros de los residuos, las emisiones a la atmósfera y los vertidos de aguas residuales.</p><p class=\\\"ql-align-justify\\\">Cualquier residuo, agua residual o emisión con potencial para afectar negativamente a la salud humana o medioambiental debe gestionarse, controlarse y tratarse adecuadamente antes de verterse al medio ambiente. Los empleados deben estar protegidos frente a la sobreexposición a riesgos químicos, biológicos y físicos.</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">Derechos humanos y normas sociales de los proveedores</p><p class=\\\"ql-align-justify\\\">Todos los socios comerciales deben respetar los derechos humanos reconocidos en las convenciones acordadas internacionalmente, incluida la Declaración Universal de los Derechos Humanos. Todas las formas de esclavitud, tortura, trabajo infantil o trato inhumano o degradante, así como las condiciones de trabajo que supongan una amenaza para la vida, la salud u otros derechos humanos, son inaceptables y deben evitarse en toda la cadena de suministro.</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-justify\\\">Protección de datos</p><p class=\\\"ql-align-justify\\\">Todos los Socios Comerciales deben cumplir estrictamente todas las leyes de protección de datos aplicables a la hora de recopilar, procesar, almacenar o tratar de cualquier otro modo los datos personales de sus propios empleados, de sus clientes,</p><p class=\\\"ql-align-justify\\\">proveedores, socios comerciales y otros interesados.</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">Deber de informar</p><p class=\\\"ql-align-justify\\\">Todos los socios comerciales deben informar de cualquier sospecha de incumplimiento material de cualquier obligación que surja en relación con este Código, incluso en relación con sus propios subproveedores y subcontratistas, a su contacto comercial de Grünenthal o a la Organización de Cumplimiento de Grünenthal.</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">Derechos de auditoría</p><p class=\\\"ql-align-justify\\\">Grünenthal tiene derecho a auditar a los socios comerciales y a tener acceso a todos los documentos relevantes con respecto a las obligaciones de un socio comercial en virtud de este Código. Grünenthal informará previamente al socio comercial sobre la fecha, hora, lugar y modalidades de la auditoría, teniendo debidamente en cuenta los intereses comerciales del socio comercial.</p><p class=\\\"ql-align-justify\\\">Grünenthal se reserva el derecho a que dicha auditoría sea realizada por un tercero independiente. Los costes de la auditoría correrán a cargo del Socio Comercial si las sospechas de un incumplimiento material de este Código resultan fundadas.</p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\">Derecho de rescisión y daños y perjuicios</p><p class=\\\"ql-align-justify\\\">Si se produce un incumplimiento material de este Código por parte de cualquier Socio Comercial, Grünenthal tendrá derecho a rescindir la relación comercial con dicho Socio Comercial sin previo aviso y con efecto inmediato. Grünenthal, a su entera discreción, podrá (a) advertir por escrito a un Socio Comercial de su intención de hacer uso de este derecho de rescisión diez días antes de ejercer su derecho de rescisión; y (b) permitir al Socio Comercial emitir una declaración escrita</p><p class=\\\"ql-align-justify\\\">sobre el asunto en cuestión, que podrá ser considerada por Grünenthal.</p><p class=\\\"ql-align-justify\\\">Grünenthal tiene derecho a recuperar todos los daños y perjuicios que se produzcan como consecuencia del ejercicio de este derecho de rescisión y de todo incumplimiento de este Código.</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-justify\\\">\\t</p><p class=\\\"ql-align-justify\\\">&nbsp; Por la presente, reconocemos en nombre del Socio Comercial que reconoce todas las obligaciones derivadas o relacionadas con este Código de Conducta y que lo cumplirá mientras dure la relación comercial.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
