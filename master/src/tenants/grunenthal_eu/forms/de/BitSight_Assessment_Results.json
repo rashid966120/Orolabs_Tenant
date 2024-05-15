@@ -1,0 +1,123 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "IT-Bewertungsergebnisse 2. aktualisiert",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "IT-Bewertungsergebnisse",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Bitte wählen Sie das Abschlussdatum der BitSight </span>Bewertung aus.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p__span_style__color__rgb_62_",
+    "name": "Bitte wählen Sie das Erneuerungsdatum für die nächste Bewertung",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": "q34__p_Hidden_question_for__On_Hol",
+    "name": "Versteckte Frage für \"Zurückgestellt\", die eine IT-Bewertungsbestätigung auslöst, damit der Prozess fortgesetzt werden kann.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "_p_IT_Demand____p_",
+    "name": "IT-Bedarf #",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "_p_Please_add_comments___p_",
+    "name": "Bitte Kommentare hinzufügen",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p__span_style__color__rgb_62_",
+    "name": "<p>Bitte wählen Sie die dem Anbieter innewohnende Risikostufe für die Informationssicherheit aus.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "High": "",
+      "Low": "",
+      "Medium": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "q16__p__span_style__color__rgb_62_",
+    "name": "Sind Sanierungsmaßnahmen definiert?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No": "",
+      "Yes": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Approval_Status_of_IT_Suppl",
+    "name": "Genehmigungsstatus von IT-Lieferanten auf der Grundlage des Ergebnisses der Informationssicherheitsbewertung",
+    "description": null,
+    "helpText": "#\tGenehmigt = genehmigt ohne Feststellungen oder Feststellungen mit geringem Risiko, die innerhalb des nächsten Prüfungsintervalls abgeschlossen werden können</p><p>-\tGenehmigt mit Beanstandungen = Beanstandungen mit mittlerem Risiko wurden identifiziert, und die Abhilfemaßnahmen müssen innerhalb der Projekt-Einführungsphase abgeschlossen werden; der Lieferant kann bereits in das Projekt eingebunden werden</p><p>-\tIn der Warteschleife = Hochrisikofunde wurden identifiziert und ein CAPA-Plan muss erstellt werden; CAPA-Abschluss muss erfolgen, bevor ein Lieferant in SAP erstellt werden kann; bitte geben Sie Kommentare ab; der Vorgang wird im ORO-System in der Warteschleife gehalten; gehen Sie zurück zu ORO, sobald die Ergebnisse vorliegen, und aktualisieren Sie den Status auf \"Genehmigt\", \"Genehmigt mit Feststellungen\" oder \"Abgelehnt\".</p><p>-\tAbgelehnt = Es wurden risikoreiche Feststellungen getroffen und der Lieferant ist nicht in der Lage oder bereit, diese zu beseitigen; bitte geben Sie einen Kommentar ab und klicken Sie auf \"Ablehnen\"; der Prozess wird gestoppt; der Anforderer und die Beschaffung werden informiert; der Lieferant wird nicht in SAP angelegt. </p>",
+    "listItemPrefix": null,
+    "choices": {
+      "Approved with findings": "",
+      "On Hold": "",
+      "Approved": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "q28__p__span_style__color__rgb_62_",
+    "name": "Wenn Sie die Bitsight-Bewertung ablehnen möchten, verwenden Sie bitte die Option Ablehnen.",
+    "description": "Wenn Sie die Bitsight-Bewertung ablehnen möchten, verwenden Sie bitte die Option Ablehnen.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
