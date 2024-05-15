@@ -1,0 +1,44 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Revisión de datos maestros de proveedores",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : El proveedor será <strong style=\\\"color: rgb(0, 138, 0);\\\">actualizado</strong><strong style=\\\"color: rgb(102, 185, 102);\\\"> </strong>una vez que se envíen los detalles. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Is_all_the_information_corr",
+    "name": "<p>Por favor, confirme que la información es correcta</p>",
+    "description": "Nota: Si la información es incorrecta, solicite información a la persona adecuada antes de confirmar.",
+    "helpText": "<p>Nota: Si la información es incorrecta, solicite información a la persona adecuada antes de confirmar.</p>",
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": ""
+    },
+    "type": "field"
+  }
+]
