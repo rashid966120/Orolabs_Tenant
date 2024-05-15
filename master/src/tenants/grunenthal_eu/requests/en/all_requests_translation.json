@@ -1,0 +1,193 @@
+[
+  {
+    "name": "Supplier Onboarding Workflow",
+    "requestName": "New supplier onboarding",
+    "shortDescription": "New supplier onboarding",
+    "languageCode": "en",
+    "stepTitles": {
+      "Procurement": "",
+      "Need": "",
+      "Details": "",
+      "Compliance": "",
+      "Quality": "",
+      "Documents": "",
+      "Review Process": "",
+      "Supplier": "",
+      "IT": ""
+    }
+  },
+  {
+    "name": "Test supplier notification",
+    "requestName": "Test supplier notification",
+    "shortDescription": "test supplier notification email content",
+    "languageCode": "en",
+    "stepTitles": {
+      "Procurement": "",
+      "Compliance": "",
+      "Quality": "",
+      "Documents": "",
+      "Legal": "",
+      "Review Process": "",
+      "Supplier": "",
+      "Onboarding details": "",
+      "IT": ""
+    }
+  },
+  {
+    "name": "TPDD Renewal",
+    "requestName": "TPDD Renewal",
+    "shortDescription": "TPDD Renewal",
+    "languageCode": "en",
+    "stepTitles": {
+      "Details": "",
+      "Compliance": "",
+      "Review Process": "",
+      "Info": ""
+    }
+  },
+  {
+    "name": "Supplier Extension Workflow",
+    "requestName": "Supplier Extension",
+    "shortDescription": "Supplier Extension",
+    "languageCode": "en",
+    "stepTitles": {
+      "Procurement": "",
+      "Need": "",
+      "Details": "",
+      "Compliance": "",
+      "Quality": "",
+      "Legal": "",
+      "Review Process": "",
+      "Supplier": "",
+      "IT": ""
+    }
+  },
+  {
+    "name": "Supplier Data Maintenance",
+    "requestName": "Supplier Data Maintenance",
+    "shortDescription": "Supplier Data Maintenance",
+    "languageCode": "en",
+    "stepTitles": {
+      "Details": "",
+      "Review Process": "",
+      "Type of Update": "",
+      "Supplier": ""
+    }
+  },
+  {
+    "name": "Supplier data update",
+    "requestName": "Supplier Update",
+    "shortDescription": "Supplier data update",
+    "languageCode": "en",
+    "stepTitles": {
+      "Procurement": "",
+      "Company": "",
+      "Details": "",
+      "Contacts": "",
+      "Quality": "",
+      "Legal": "",
+      "Supplier": "",
+      "IT": "",
+      "Review": ""
+    }
+  },
+  {
+    "name": "Ask ORO AI",
+    "requestName": "Ask ORO AI",
+    "shortDescription": "Guiding users to the right buying channel",
+    "languageCode": "en",
+    "stepTitles": {
+      "Procurement": "",
+      "Basic": "",
+      "Details": "",
+      "Compliance": "",
+      "Quality": "",
+      "Documents": "",
+      "Legal": "",
+      "Supplier": "",
+      "Budget": "",
+      "IT": ""
+    }
+  },
+  {
+    "name": "Test TPDD form",
+    "requestName": "Test TPDD form",
+    "shortDescription": "",
+    "languageCode": "en",
+    "stepTitles": {
+      "Procurement": "",
+      "Compliance": "",
+      "Quality": "",
+      "Documents": "",
+      "Legal": "",
+      "Review Process": "",
+      "Supplier": "",
+      "Onboarding details": "",
+      "IT": ""
+    }
+  },
+  {
+    "name": "Test category suggestion",
+    "requestName": "Test category suggestion",
+    "shortDescription": "",
+    "languageCode": "en",
+    "stepTitles": {
+      "Procurement": "",
+      "Choose category": "",
+      "Compliance": "",
+      "Quality": "",
+      "Documents": "",
+      "Legal": "",
+      "Review Process": "",
+      "Onboarding details": "",
+      "IT": ""
+    }
+  },
+  {
+    "name": "Supplier onboarding request",
+    "requestName": "Supplier request",
+    "shortDescription": "For new and existing suppliers (extension)",
+    "languageCode": "en",
+    "stepTitles": {
+      "Guidance": "",
+      "Procurement": "",
+      "Basic": "",
+      "Compliance": "",
+      "Individual": "",
+      "Old": "",
+      "Quality": "",
+      "Legal": "",
+      "Supplier": "",
+      "IT": ""
+    }
+  },
+  {
+    "name": "Supplier Updates",
+    "requestName": "Update Supplier Info",
+    "shortDescription": "Supplier Updates",
+    "languageCode": "en",
+    "stepTitles": {
+      "Procurement": "",
+      "Compliance": "",
+      "Quality": "",
+      "Documents": "",
+      "Legal": "",
+      "Review Process": "",
+      "Supplier": "",
+      "Onboarding details": "",
+      "IT": ""
+    }
+  },
+  {
+    "name": "Sanction and Adverse Media Check",
+    "requestName": "Sanction and Adverse Media Check",
+    "shortDescription": "Sanction and Adverse Media Check through lexisnexis",
+    "languageCode": "en",
+    "stepTitles": {
+      "Compliance": "",
+      "Documents": "",
+      "Review Process": "",
+      "Info": ""
+    }
+  }
+]
