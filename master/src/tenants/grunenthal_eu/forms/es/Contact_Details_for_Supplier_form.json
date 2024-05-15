@@ -1,0 +1,102 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Datos de contacto",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 50,
+    "fieldName": null,
+    "name": "Persona de contacto principal",
+    "description": "Contacto principal para todas las consultas sobre adquisiciones.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Contacto del equipo de entrega de pedidos (EP)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 21,
+    "fieldName": null,
+    "name": "Contacto específico en materia ambiental, social y de gobernanza (ASG)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 64,
+    "fieldName": "environmentContact",
+    "name": "Nombre de contacto (Ambiental, Social y de Gobernanza)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contacto",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 66,
+    "fieldName": "subcontractorContacts",
+    "name": "﻿﻿Por favor, proporcione los siguientes datos para cada subcontratista en el siguiente formato: Nombre de la empresa/particular <strong>Detalles del servicio prestado</strong></p><p>Dirección: Dirección completa o país",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contacto",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "orderDeliveryContacts",
+    "name": "Nombre de contacto (EP)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contacto",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "mainContact",
+    "name": "<p>Contacto(s) general(es)</p><p><br></p><p><span style=\"color: rgb(31, 31, 31);\">Por favor, mencione el '</span><strong style=\"color: rgb(31, 31, 31);\">Departamento' </strong><span style=\"color: rgb(31, 31, 31);\">en las Notas.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contacto",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "primaryContact",
+    "name": "<p>Contacto principal</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contacto",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "accountPayableContactList",
+    "name": "<p>Contactos del equipo de cuentas por cobrar (AR)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
