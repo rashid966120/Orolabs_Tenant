@@ -1,0 +1,102 @@
+[
+  {
+    "id": null,
+    "name": "Renovación TPDD",
+    "type": "processTitle"
+  },
+  {
+    "id": 10,
+    "name": "Cargar proveedor existente",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Revisión del director de compras",
+    "type": null
+  },
+  {
+    "id": 32,
+    "name": "Revisión del Centro de Adquisiciones",
+    "type": null
+  },
+  {
+    "id": 94,
+    "name": "Cargar contactos",
+    "type": null
+  },
+  {
+    "id": 73,
+    "name": "Buscar TPDD aplicable",
+    "type": null
+  },
+  {
+    "id": 57,
+    "name": "Recopilación de documentos de proveedores",
+    "type": null
+  },
+  {
+    "id": 100,
+    "name": "Información de la empresa",
+    "type": null
+  },
+  {
+    "id": 122,
+    "name": "Datos de pago",
+    "type": null
+  },
+  {
+    "id": 124,
+    "name": "Datos de contacto",
+    "type": null
+  },
+  {
+    "id": 126,
+    "name": "Información para los accionistas",
+    "type": null
+  },
+  {
+    "id": 128,
+    "name": "Cuestionario de diligencia debida a terceros",
+    "type": null
+  },
+  {
+    "id": 130,
+    "name": "Declaración",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "Diligencia debida y calificación de riesgos",
+    "type": null
+  },
+  {
+    "id": 55,
+    "name": "Gestión de proveedores de riesgo alto o medio",
+    "type": null
+  },
+  {
+    "id": 78,
+    "name": "proveedor en bloque",
+    "type": null
+  },
+  {
+    "id": 111,
+    "name": "Denegar la solicitud por riesgo",
+    "type": null
+  },
+  {
+    "id": 120,
+    "name": "Recopilar resumen",
+    "type": null
+  },
+  {
+    "id": 76,
+    "name": "Revisión de datos maestros de proveedores",
+    "type": null
+  },
+  {
+    "id": 83,
+    "name": "Actualización de la evaluación",
+    "type": null
+  }
+]
