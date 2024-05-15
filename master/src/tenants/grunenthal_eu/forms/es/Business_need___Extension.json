@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Necesidad empresarial - Prórroga",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 54,
+    "fieldName": null,
+    "name": "Datos del solicitante",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 72,
+    "fieldName": "q72__p__span_style__color__rgb_62_",
+    "name": "Empresario",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 78,
+    "fieldName": "q78__p__span_style__color__rgb_62_",
+    "name": "Indique la persona en nombre de la cual realiza la solicitud",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 75,
+    "fieldName": "q75__p__span_style__color__rgb_62_",
+    "name": "¿Lo solicita en nombre de alguien más?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
