@@ -1,0 +1,77 @@
+[
+  {
+    "id": null,
+    "name": "Flujo de trabajo de incorporación de proveedores",
+    "type": "processTitle"
+  },
+  {
+    "id": 109,
+    "name": "Revisión del Centro de Adquisiciones",
+    "type": null
+  },
+  {
+    "id": 136,
+    "name": "Notificar al solicitante para que complete los pasos correspondientes",
+    "type": null
+  },
+  {
+    "id": 144,
+    "name": "Notificar al equipo de suministro externo global sobre el proceso GxP",
+    "type": null
+  },
+  {
+    "id": 122,
+    "name": "Cuestionario para proveedores, comprobación del cumplimiento y aprobación de condiciones de pago (no estándar)",
+    "type": null
+  },
+  {
+    "id": 120,
+    "name": "Diligencia debida de terceros",
+    "type": null
+  },
+  {
+    "id": 129,
+    "name": "Aprobación de plazos de pago no estándar",
+    "type": null
+  },
+  {
+    "id": 140,
+    "name": "Resultados de la evaluación de TI",
+    "type": null
+  },
+  {
+    "id": 127,
+    "name": "Confirmación del solicitante para otros procesos de incorporación",
+    "type": null
+  },
+  {
+    "id": 162,
+    "name": "La incorporación de proveedores queda en suspenso al no aprobarse el resultado de la evaluación de la seguridad de la información",
+    "type": null
+  },
+  {
+    "id": 163,
+    "name": "Recopilar resumen",
+    "type": null
+  },
+  {
+    "id": 164,
+    "name": null,
+    "type": null
+  },
+  {
+    "id": 155,
+    "name": "Revisión de datos maestros de proveedores",
+    "type": null
+  },
+  {
+    "id": 156,
+    "name": "Confirmación de la evaluación de TI",
+    "type": null
+  },
+  {
+    "id": 56,
+    "name": "Creación de proveedores ",
+    "type": null
+  }
+]
