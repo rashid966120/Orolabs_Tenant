@@ -1,0 +1,17 @@
+[
+  {
+    "id": null,
+    "name": "Actualización de proveedores",
+    "type": "processTitle"
+  },
+  {
+    "id": 4,
+    "name": "Revisar las actualizaciones de los proveedores",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Actualizar proveedor en Syniti",
+    "type": null
+  }
+]
