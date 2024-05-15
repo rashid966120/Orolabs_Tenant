@@ -1,0 +1,37 @@
+[
+  {
+    "id": null,
+    "name": "Mantenimiento de datos de proveedores",
+    "type": "processTitle"
+  },
+  {
+    "id": 4,
+    "name": "Cuestionarios para proveedores ",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Datos de pago",
+    "type": null
+  },
+  {
+    "id": 8,
+    "name": "Información de la empresa",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Datos de contacto de la prórroga del proveedor",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Revisión del Centro de Adquisiciones",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Revisión de datos maestros de proveedores",
+    "type": null
+  }
+]
