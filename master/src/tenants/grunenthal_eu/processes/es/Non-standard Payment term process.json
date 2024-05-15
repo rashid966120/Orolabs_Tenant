@@ -1,0 +1,22 @@
+[
+  {
+    "id": null,
+    "name": "Proceso de plazos de pago no estándar",
+    "type": "processTitle"
+  },
+  {
+    "id": 4,
+    "name": "Aprobación de plazos de pago no estándar",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "Jefe del Área de Adquisiciones",
+    "type": null
+  },
+  {
+    "id": 9,
+    "name": "Jefe del Área de Facturación",
+    "type": null
+  }
+]
