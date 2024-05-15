@@ -1,0 +1,102 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Kontaktdetails",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 50,
+    "fieldName": null,
+    "name": "Hauptansprechpartner",
+    "description": "Hauptansprechpartner für alle Fragen der Beschaffung.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 11,
+    "fieldName": null,
+    "name": "Kontakt Team Auftragsabwicklung (OD)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 21,
+    "fieldName": null,
+    "name": "Spezifischer Kontakt Umwelt, Soziales, Unternehmensführung (ESG)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 64,
+    "fieldName": "environmentContact",
+    "name": "Name der Kontaktperson (Umwelt, Soziales, Unternehmensführung)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 66,
+    "fieldName": "subcontractorContacts",
+    "name": "﻿﻿Bitte fügen Sie für jedes Subunternehmen die folgenden Angaben im nachstehenden Format hinzu: <strong>Name des Unternehmens / der Person</strong></p><p>Anmerkungen: Details der angebotenen Dienstleistung Vollständige Adresse oder Land",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "orderDeliveryContacts",
+    "name": "Name der Kontaktperson (OD)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "mainContact",
+    "name": "<p>Allgemeine(r) Kontaktperson(en)</p><p><br></p><p><span style=\"color: rgb(31, 31, 31);\">Bitte geben Sie in den Anmerkungen die '</span><strong style=\"color: rgb(31, 31, 31);\">Abteilung' </strong><span style=\"color: rgb(31, 31, 31);\">an.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "primaryContact",
+    "name": "als primärer Kontakt?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Kontakt",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "accountPayableContactList",
+    "name": "<p>Debitorenbuchhaltung (AR) Team Kontakte</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
