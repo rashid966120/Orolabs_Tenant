@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "name": "Actualización de datos de proveedores",
+    "type": "processTitle"
+  },
+  {
+    "id": 2,
+    "name": "Cuestionarios para proveedores ",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Datos de pago",
+    "type": null
+  },
+  {
+    "id": 21,
+    "name": "Información de la empresa",
+    "type": null
+  },
+  {
+    "id": 9,
+    "name": "Revisión del Centro de Adquisiciones",
+    "type": null
+  },
+  {
+    "id": 17,
+    "name": "Aprobación de condiciones de pago no estándar (proceso de actualización de proveedores)",
+    "type": null
+  },
+  {
+    "id": 15,
+    "name": "Jefe del Área de Adquisiciones",
+    "type": null
+  },
+  {
+    "id": 16,
+    "name": "Jefe del Área de Facturación",
+    "type": null
+  },
+  {
+    "id": 14,
+    "name": "Plazo de pago no estándar process_Prórroga",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Revisión de datos maestros de proveedores",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "Actualizar el registro de proveedores en Syniti",
+    "type": null
+  },
+  {
+    "id": 24,
+    "name": "Actualización de proveedores en la confirmación SAP",
+    "type": null
+  },
+  {
+    "id": 22,
+    "name": "Al Solicitante",
+    "type": null
+  },
+  {
+    "id": 23,
+    "name": "A la Central de Compras",
+    "type": null
+  }
+]
