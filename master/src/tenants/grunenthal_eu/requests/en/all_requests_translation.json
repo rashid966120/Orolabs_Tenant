@@ -1,9 +1,8 @@
 [
   {
-    "name": "Supplier Onboarding Workflow",
+    "id": "Supplier Onboarding Workflow",
     "requestName": "New supplier onboarding",
     "shortDescription": "New supplier onboarding",
-    "languageCode": "en",
     "stepTitles": {
       "Procurement": "",
       "Need": "",
@@ -17,10 +16,9 @@
     }
   },
   {
-    "name": "Test supplier notification",
+    "id": "Test supplier notification",
     "requestName": "Test supplier notification",
     "shortDescription": "test supplier notification email content",
-    "languageCode": "en",
     "stepTitles": {
       "Procurement": "",
       "Compliance": "",
@@ -34,10 +32,9 @@
     }
   },
   {
-    "name": "TPDD Renewal",
+    "id": "TPDD Renewal",
     "requestName": "TPDD Renewal",
     "shortDescription": "TPDD Renewal",
-    "languageCode": "en",
     "stepTitles": {
       "Details": "",
       "Compliance": "",
@@ -46,10 +43,9 @@
     }
   },
   {
-    "name": "Supplier Extension Workflow",
+    "id": "Supplier Extension Workflow",
     "requestName": "Supplier Extension",
     "shortDescription": "Supplier Extension",
-    "languageCode": "en",
     "stepTitles": {
       "Procurement": "",
       "Need": "",
@@ -63,10 +59,9 @@
     }
   },
   {
-    "name": "Supplier Data Maintenance",
+    "id": "Supplier Data Maintenance",
     "requestName": "Supplier Data Maintenance",
     "shortDescription": "Supplier Data Maintenance",
-    "languageCode": "en",
     "stepTitles": {
       "Details": "",
       "Review Process": "",
@@ -75,10 +70,9 @@
     }
   },
   {
-    "name": "Supplier data update",
+    "id": "Supplier data update",
     "requestName": "Supplier Update",
     "shortDescription": "Supplier data update",
-    "languageCode": "en",
     "stepTitles": {
       "Procurement": "",
       "Company": "",
@@ -92,10 +86,9 @@
     }
   },
   {
-    "name": "Ask ORO AI",
+    "id": "Ask ORO AI",
     "requestName": "Ask ORO AI",
     "shortDescription": "Guiding users to the right buying channel",
-    "languageCode": "en",
     "stepTitles": {
       "Procurement": "",
       "Basic": "",
@@ -110,10 +103,9 @@
     }
   },
   {
-    "name": "Test TPDD form",
+    "id": "Test TPDD form",
     "requestName": "Test TPDD form",
     "shortDescription": "",
-    "languageCode": "en",
     "stepTitles": {
       "Procurement": "",
       "Compliance": "",
@@ -127,10 +119,9 @@
     }
   },
   {
-    "name": "Test category suggestion",
+    "id": "Test category suggestion",
     "requestName": "Test category suggestion",
     "shortDescription": "",
-    "languageCode": "en",
     "stepTitles": {
       "Procurement": "",
       "Choose category": "",
@@ -144,10 +135,9 @@
     }
   },
   {
-    "name": "Supplier onboarding request",
+    "id": "Supplier onboarding request",
     "requestName": "Supplier request",
     "shortDescription": "For new and existing suppliers (extension)",
-    "languageCode": "en",
     "stepTitles": {
       "Guidance": "",
       "Procurement": "",
@@ -162,10 +152,9 @@
     }
   },
   {
-    "name": "Supplier Updates",
+    "id": "Supplier Updates",
     "requestName": "Update Supplier Info",
     "shortDescription": "Supplier Updates",
-    "languageCode": "en",
     "stepTitles": {
       "Procurement": "",
       "Compliance": "",
@@ -179,10 +168,9 @@
     }
   },
   {
-    "name": "Sanction and Adverse Media Check",
+    "id": "Sanction and Adverse Media Check",
     "requestName": "Sanction and Adverse Media Check",
     "shortDescription": "Sanction and Adverse Media Check through lexisnexis",
-    "languageCode": "en",
     "stepTitles": {
       "Compliance": "",
       "Documents": "",
