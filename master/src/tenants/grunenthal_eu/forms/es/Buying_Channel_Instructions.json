@@ -1,0 +1,92 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Instrucciones del canal de compra",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Instrucciones",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 9,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": "",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 12,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>PSG</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 43,
+    "fieldName": "q43__p_When_Buying_Channel_is_NULL",
+    "name": "<p>Cuando el Canal de Compra es NULO</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 61,
+    "fieldName": null,
+    "name": null,
+    "description": "N.º",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "_p_Buying_Channel__p_",
+    "name": "<p>Canal de compras</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 94,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Canal de compra aquí</h3><p><br></p><p>Se utiliza mejor para pagos relacionados con viajes de negocios, reserva de billetes de avión, viajes, reservas de hotel, organización de eventos / conferencias y pagos de campañas promocionales</p><p><br></p><p><a href=\\\"https://app.demo.orolabs.ai/request/create/Credit%20Card%20Purchase#tid_entsandbox_demo\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"color: rgb(0, 102, 204);\\\"><strong>Comience con la compra con tarjeta de crédito -&gt;</strong></a></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
