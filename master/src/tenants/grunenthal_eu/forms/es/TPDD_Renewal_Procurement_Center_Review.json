@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "TPDD Renovación_Revisión de Centro de Adquisiciones",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Please_justify_your_answer_",
+    "name": "Justifique su respuesta.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Do_you_want_to_proceed_with",
+    "name": "¿Desea proceder a la renovación de la TPDD?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_TPDD_renewal_denied__Hidden",
+    "name": "Denegada la renovación del TPDD (Oculto)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "Dado que ha optado por \"Detener\" el proceso, no se seguirá adelante. Por favor, considere si es necesario un Bloque de proveedores.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "q19__p_The_Sourcing_Manager_has_st",
+    "name": "El Director de Compras ha detenido el proceso de Renovación de TPDD para este Proveedor por el motivo que se indica a continuación.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
