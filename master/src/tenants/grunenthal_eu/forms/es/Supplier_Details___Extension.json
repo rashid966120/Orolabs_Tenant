@@ -1,0 +1,202 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Detalles del proveedor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Otros detalles",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 27,
+    "fieldName": null,
+    "name": "Detalles del plazo de pago",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": null,
+    "name": "Datos bancarios",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 52,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : “Otros\" (un término de pago no estándar) necesitará la aprobación del Jefe del área de Adquisiciones/Jefe de Cuentas por pagar.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "primaryCategory",
+    "name": "Categoría del servicio ofrecido por el proveedor (rellenado previamente)",
+    "description": null,
+    "helpText": "Categoría que se espera que tenga el mayor gasto anual con el proveedor",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 39,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : Se enviarán al proveedor los formularios para actualizar los datos bancarios",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 81,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : Tendrás la oportunidad de revisar/actualizar los detalles después de enviar</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 78,
+    "fieldName": "q78__p_Would_you_like_to_review_up",
+    "name": "<p>¿Desea revisar/actualizar los datos de contacto del vendedor?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 67,
+    "fieldName": "tpddExpired",
+    "name": "TPDD Expirado",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "isBankDetailsFromRequestor",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">¿Es necesario actualizar los datos bancarios del vendedor?</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 46,
+    "fieldName": "paymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Plazo de pago existente</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 86,
+    "fieldName": "isStandardPaymentTerm",
+    "name": "<p>Quiero utilizar un término de pago estándar</p><p><u>Nota</u>: “Otros\" (un término de pago no estándar) necesitará la aprobación del Jefe del área de Adquisiciones/Jefe de Cuentas por pagar.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 55,
+    "fieldName": "nonStandardPaymentTerm",
+    "name": "Introduzca el plazo de pago aplicable",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 58,
+    "fieldName": "nonStandardPaymentTermReason",
+    "name": "¿Cuál es la razón para elegir un plazo de pago no estándar?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 89,
+    "fieldName": "nonStandardPTYes",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Por defecto Sí para NonStandardPaymentTerm</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 92,
+    "fieldName": "nonStandardPTNo",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">No por defecto para NonStandardPaymentTerm</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 49,
+    "fieldName": "requesterPaymentTerm",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Seleccione el plazo de pago aplicable para las sociedades que solicita</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "tpddExpirationDate",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Fecha de expiración TPDD</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 44,
+    "fieldName": "currency",
+    "name": "Seleccione la moneda",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
