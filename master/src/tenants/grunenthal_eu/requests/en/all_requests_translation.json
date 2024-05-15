@@ -4,15 +4,15 @@
     "requestName": "New supplier onboarding",
     "shortDescription": "New supplier onboarding",
     "stepTitles": {
-      "Procurement": "",
-      "Need": "",
-      "Details": "",
-      "Compliance": "",
-      "Quality": "",
-      "Documents": "",
-      "Review Process": "",
-      "Supplier": "",
-      "IT": ""
+      "Procurement": "Procurement",
+      "Need": "Need",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "IT": "IT"
     }
   },
   {
@@ -20,15 +20,15 @@
     "requestName": "Test supplier notification",
     "shortDescription": "test supplier notification email content",
     "stepTitles": {
-      "Procurement": "",
-      "Compliance": "",
-      "Quality": "",
-      "Documents": "",
-      "Legal": "",
-      "Review Process": "",
-      "Supplier": "",
-      "Onboarding details": "",
-      "IT": ""
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
     }
   },
   {
@@ -36,10 +36,10 @@
     "requestName": "TPDD Renewal",
     "shortDescription": "TPDD Renewal",
     "stepTitles": {
-      "Details": "",
-      "Compliance": "",
-      "Review Process": "",
-      "Info": ""
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Review Process": "Review Process",
+      "Info": "Info"
     }
   },
   {
@@ -47,15 +47,15 @@
     "requestName": "Supplier Extension",
     "shortDescription": "Supplier Extension",
     "stepTitles": {
-      "Procurement": "",
-      "Need": "",
-      "Details": "",
-      "Compliance": "",
-      "Quality": "",
-      "Legal": "",
-      "Review Process": "",
-      "Supplier": "",
-      "IT": ""
+      "Procurement": "Procurement",
+      "Need": "Need",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "IT": "IT"
     }
   },
   {
@@ -63,10 +63,10 @@
     "requestName": "Supplier Data Maintenance",
     "shortDescription": "Supplier Data Maintenance",
     "stepTitles": {
-      "Details": "",
-      "Review Process": "",
-      "Type of Update": "",
-      "Supplier": ""
+      "Details": "Details",
+      "Review Process": "Review Process",
+      "Type of Update": "Type of Update",
+      "Supplier": "Supplier"
     }
   },
   {
@@ -74,15 +74,15 @@
     "requestName": "Supplier Update",
     "shortDescription": "Supplier data update",
     "stepTitles": {
-      "Procurement": "",
-      "Company": "",
-      "Details": "",
-      "Contacts": "",
-      "Quality": "",
-      "Legal": "",
-      "Supplier": "",
-      "IT": "",
-      "Review": ""
+      "Procurement": "Procurement",
+      "Company": "Company",
+      "Details": "Details",
+      "Contacts": "Contacts",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "IT": "IT",
+      "Review": "Review"
     }
   },
   {
@@ -90,16 +90,16 @@
     "requestName": "Ask ORO AI",
     "shortDescription": "Guiding users to the right buying channel",
     "stepTitles": {
-      "Procurement": "",
-      "Basic": "",
-      "Details": "",
-      "Compliance": "",
-      "Quality": "",
-      "Documents": "",
-      "Legal": "",
-      "Supplier": "",
-      "Budget": "",
-      "IT": ""
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT"
     }
   },
   {
@@ -107,15 +107,15 @@
     "requestName": "Test TPDD form",
     "shortDescription": "",
     "stepTitles": {
-      "Procurement": "",
-      "Compliance": "",
-      "Quality": "",
-      "Documents": "",
-      "Legal": "",
-      "Review Process": "",
-      "Supplier": "",
-      "Onboarding details": "",
-      "IT": ""
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
     }
   },
   {
@@ -123,15 +123,15 @@
     "requestName": "Test category suggestion",
     "shortDescription": "",
     "stepTitles": {
-      "Procurement": "",
-      "Choose category": "",
-      "Compliance": "",
-      "Quality": "",
-      "Documents": "",
-      "Legal": "",
-      "Review Process": "",
-      "Onboarding details": "",
-      "IT": ""
+      "Procurement": "Procurement",
+      "Choose category": "Choose category",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
     }
   },
   {
@@ -139,16 +139,16 @@
     "requestName": "Supplier request",
     "shortDescription": "For new and existing suppliers (extension)",
     "stepTitles": {
-      "Guidance": "",
-      "Procurement": "",
-      "Basic": "",
-      "Compliance": "",
-      "Individual": "",
-      "Old": "",
-      "Quality": "",
-      "Legal": "",
-      "Supplier": "",
-      "IT": ""
+      "Guidance": "Guidance",
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Compliance": "Compliance",
+      "Individual": "Individual",
+      "Old": "Old",
+      "Quality": "Quality",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "IT": "IT"
     }
   },
   {
@@ -156,15 +156,15 @@
     "requestName": "Update Supplier Info",
     "shortDescription": "Supplier Updates",
     "stepTitles": {
-      "Procurement": "",
-      "Compliance": "",
-      "Quality": "",
-      "Documents": "",
-      "Legal": "",
-      "Review Process": "",
-      "Supplier": "",
-      "Onboarding details": "",
-      "IT": ""
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
     }
   },
   {
@@ -172,10 +172,10 @@
     "requestName": "Sanction and Adverse Media Check",
     "shortDescription": "Sanction and Adverse Media Check through lexisnexis",
     "stepTitles": {
-      "Compliance": "",
-      "Documents": "",
-      "Review Process": "",
-      "Info": ""
+      "Compliance": "Compliance",
+      "Documents": "Documents",
+      "Review Process": "Review Process",
+      "Info": "Info"
     }
   }
 ]
