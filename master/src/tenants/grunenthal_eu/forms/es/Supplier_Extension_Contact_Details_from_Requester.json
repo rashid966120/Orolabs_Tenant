@@ -1,0 +1,125 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Datos de contacto de la prórroga del proveedor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": "Datos de contacto existentes",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 74,
+    "fieldName": null,
+    "name": "Datos de contacto de la prórroga para proveedores",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 93,
+    "fieldName": "MainContact",
+    "name": "Añada a continuación el /los contacto/s general/es",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contacto general",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 82,
+    "fieldName": "addContactNeeded",
+    "name": "¿Desea facilitar más contactos?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "odContact",
+    "name": "Contacto del equipo de entrega de pedidos (EP)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contacto",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "mainContact",
+    "name": "<p><strong>Persona de contacto principal</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contacto",
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 118,
+    "fieldName": "companyEntitiesEnabled",
+    "name": "<p>¿Solicitar entidades de la empresa ya habilitadas?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 87,
+    "fieldName": "q87__p_Which_of_the_below_contact_",
+    "name": "¿Cuál de los siguientes tipos de contacto desea añadir?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Business Entity/s Specific Contact/s": "",
+      "General Contact/s": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 116,
+    "fieldName": "enabledCompanyEntitiesExist",
+    "name": "<p>¿Existen entidades de la empresa habilitadas?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 120,
+    "fieldName": "accountPayableContactList",
+    "name": "Por favor, añada a continuación el/los contacto/s específico/s de la entidad comercial",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 104,
+    "fieldName": "apContact",
+    "name": "<p><strong>Contactos del equipo de cuentas por cobrar (AR)&nbsp;</strong></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": "Contacto",
+    "choices": null,
+    "type": "field"
+  }
+]
