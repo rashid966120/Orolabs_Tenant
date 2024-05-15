@@ -1,12 +1,12 @@
 [
   {
     "id": "Supplier Onboarding Workflow",
-    "requestName": "New supplier onboarding",
+    "requestName": "New supplier onboarding Updated By Anne",
     "shortDescription": "New supplier onboarding",
     "stepTitles": {
       "Procurement": "Procurement",
       "Need": "Need",
-      "Details": "Details",
+      "Details": "Details Updated By Krishna",
       "Compliance": "Compliance",
       "Quality": "Quality",
       "Documents": "Documents",
@@ -47,7 +47,7 @@
     "requestName": "Supplier Extension",
     "shortDescription": "Supplier Extension",
     "stepTitles": {
-      "Procurement": "Procurement",
+      "Procurement": "Procurement Updated By Raj",
       "Need": "Need",
       "Details": "Details",
       "Compliance": "Compliance",
