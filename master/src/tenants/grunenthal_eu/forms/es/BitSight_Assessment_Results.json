@@ -1,0 +1,123 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Resultados de la evaluación informática 2ª actualización",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Resultados de la evaluación de TI",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Por favor selec2nd Updated2nd Updated2nd Updated t la fecha de finalización del BitSight </span>Assessment</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p__span_style__color__rgb_62_",
+    "name": "Seleccione la fecha de renovación para la próxima evaluación",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": "q34__p_Hidden_question_for__On_Hol",
+    "name": "Pregunta oculta para \"En espera\" que activa la Confirmación de evaluación de TI para que el proceso siga adelante.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "_p_IT_Demand____p_",
+    "name": "Demanda de TI#",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": "_p_Please_add_comments___p_",
+    "name": "Añadir comentarios",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p__span_style__color__rgb_62_",
+    "name": "<p>Seleccione el nivel de riesgo de seguridad de la información inherente al proveedor.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "High": "",
+      "Low": "",
+      "Medium": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": "q16__p__span_style__color__rgb_62_",
+    "name": "¿Se han definido medidas de rehabilitación?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "No": "",
+      "Yes": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Approval_Status_of_IT_Suppl",
+    "name": "Estado de aprobación del proveedor de TI según el resultado de la evaluación de la seguridad de la información",
+    "description": null,
+    "helpText": "N.º\tAprobado = aprobado sin constataciones o constataciones de riesgo menores que pueden cerrarse en el siguiente intervalo de auditoría</p><p>-\tAprobado con hallazgos = se han identificado hallazgos de riesgo medio y la medida correctora debe cerrarse dentro de la fase de incorporación al proyecto; el proveedor puede incorporarse ya</p><p>-\tEn espera = hallazgos de alto riesgo identificados y debe establecerse un plan CAPA; el cierre de CAPA debe tener lugar antes de que el proveedor pueda ser creado en SAP; por favor, proporcione comentarios; el proceso estará en espera en el sistema ORO; vuelva a ORO una vez que los resultados estén disponibles y actualice el estado a \"Aprobado\", \"Aprobado con hallazgos\" o \"Rechazado\".</p><p>-\tRechazado = hallazgos de alto riesgo identificados y el proveedor no puede o no quiere cerrarlos; por favor, proporcione comentarios y haga clic en \"Rechazar\"; el proceso se detiene; el solicitante y aprovisionamiento serán informados; el proveedor no se creará en SAP. </p>",
+    "listItemPrefix": null,
+    "choices": {
+      "Approved with findings": "",
+      "On Hold": "",
+      "Approved": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": "q28__p__span_style__color__rgb_62_",
+    "name": "Si desea rechazar la evaluación de Bitsight, utilice la opción \"Denegar\" .",
+    "description": "Si desea rechazar la evaluación de Bitsight, utilice la opción \"Denegar\" .",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
