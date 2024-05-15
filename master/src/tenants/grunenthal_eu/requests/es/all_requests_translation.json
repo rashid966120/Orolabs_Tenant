@@ -1,0 +1,181 @@
+[
+  {
+    "id": "Supplier Onboarding Workflow",
+    "requestName": "Incorporación de nuevos proveedores Actualizado por Anne",
+    "shortDescription": "Incorporación de nuevos proveedores",
+    "stepTitles": {
+      "Procurement": "Adquisiciones",
+      "Need": "Necesidad",
+      "Details": "Detalles actualizados por Krishna",
+      "Compliance": "Cumplimiento",
+      "Quality": "Calidad",
+      "Documents": "Documentos",
+      "Review Process": "Proceso de revisión",
+      "Supplier": "Proveedor",
+      "IT": "TI"
+    }
+  },
+  {
+    "id": "Test supplier notification",
+    "requestName": "Notificación del proveedor de pruebas",
+    "shortDescription": "contenido del correo electrónico de notificación al proveedor de pruebas",
+    "stepTitles": {
+      "Procurement": "Adquisiciones",
+      "Compliance": "Cumplimiento",
+      "Quality": "Calidad",
+      "Documents": "Documentos",
+      "Legal": "Legal",
+      "Review Process": "Proceso de revisión",
+      "Supplier": "Proveedor",
+      "Onboarding details": "Detalles de la incorporación",
+      "IT": "TI"
+    }
+  },
+  {
+    "id": "TPDD Renewal",
+    "requestName": "Renovación TPDD",
+    "shortDescription": "Renovación TPDD",
+    "stepTitles": {
+      "Details": "Detalles",
+      "Compliance": "Cumplimiento",
+      "Review Process": "Proceso de revisión",
+      "Info": "Información"
+    }
+  },
+  {
+    "id": "Supplier Extension Workflow",
+    "requestName": "Ampliación del proveedor",
+    "shortDescription": "Ampliación del proveedor",
+    "stepTitles": {
+      "Procurement": "Adquisiciones Actualizado por Raj",
+      "Need": "Necesidad",
+      "Details": "Detalles",
+      "Compliance": "Cumplimiento",
+      "Quality": "Calidad",
+      "Legal": "Legal",
+      "Review Process": "Proceso de revisión",
+      "Supplier": "Proveedor",
+      "IT": "TI"
+    }
+  },
+  {
+    "id": "Supplier Data Maintenance",
+    "requestName": "Mantenimiento de datos de proveedores",
+    "shortDescription": "Mantenimiento de datos de proveedores",
+    "stepTitles": {
+      "Details": "Detalles",
+      "Review Process": "Proceso de revisión",
+      "Type of Update": "Tipo de actualización",
+      "Supplier": "Proveedor"
+    }
+  },
+  {
+    "id": "Supplier data update",
+    "requestName": "Actualización de proveedores",
+    "shortDescription": "Actualización de datos de proveedores",
+    "stepTitles": {
+      "Procurement": "Adquisiciones",
+      "Company": "Empresa",
+      "Details": "Detalles",
+      "Contacts": "Contactos",
+      "Quality": "Calidad",
+      "Legal": "Legal",
+      "Supplier": "Proveedor",
+      "IT": "TI",
+      "Review": "Revisar"
+    }
+  },
+  {
+    "id": "Ask ORO AI",
+    "requestName": "Pregunte a la IA de ORO",
+    "shortDescription": "Guiar a los usuarios hacia el canal de compra adecuado",
+    "stepTitles": {
+      "Procurement": "Adquisiciones",
+      "Basic": "Básico",
+      "Details": "Detalles",
+      "Compliance": "Cumplimiento",
+      "Quality": "Calidad",
+      "Documents": "Documentos",
+      "Legal": "Legal",
+      "Supplier": "Proveedor",
+      "Budget": "Presupuesto",
+      "IT": "TI"
+    }
+  },
+  {
+    "id": "Test TPDD form",
+    "requestName": "Formulario de prueba TPDD",
+    "shortDescription": "",
+    "stepTitles": {
+      "Procurement": "Adquisiciones",
+      "Compliance": "Cumplimiento",
+      "Quality": "Calidad",
+      "Documents": "Documentos",
+      "Legal": "Legal",
+      "Review Process": "Proceso de revisión",
+      "Supplier": "Proveedor",
+      "Onboarding details": "Detalles de la incorporación",
+      "IT": "TI"
+    }
+  },
+  {
+    "id": "Test category suggestion",
+    "requestName": "Sugerencia de categoría de prueba",
+    "shortDescription": "",
+    "stepTitles": {
+      "Procurement": "Adquisiciones",
+      "Choose category": "Elegir categoría",
+      "Compliance": "Cumplimiento",
+      "Quality": "Calidad",
+      "Documents": "Documentos",
+      "Legal": "Legal",
+      "Review Process": "Proceso de revisión",
+      "Onboarding details": "Detalles de la incorporación",
+      "IT": "TI"
+    }
+  },
+  {
+    "id": "Supplier onboarding request",
+    "requestName": "Solicitud del proveedor",
+    "shortDescription": "Para proveedores nuevos y existentes (ampliación)",
+    "stepTitles": {
+      "Guidance": "Orientación",
+      "Procurement": "Adquisiciones",
+      "Basic": "Básico",
+      "Compliance": "Cumplimiento",
+      "Individual": "Personal",
+      "Old": "Antiguo",
+      "Quality": "Calidad",
+      "Legal": "Legal",
+      "Supplier": "Proveedor",
+      "IT": "TI"
+    }
+  },
+  {
+    "id": "Supplier Updates",
+    "requestName": "Actualizar la información del proveedor",
+    "shortDescription": "Actualización de proveedores",
+    "stepTitles": {
+      "Procurement": "Adquisiciones",
+      "Compliance": "Cumplimiento",
+      "Quality": "Calidad",
+      "Documents": "Documentos",
+      "Legal": "Legal",
+      "Review Process": "Proceso de revisión",
+      "Supplier": "Proveedor",
+      "Onboarding details": "Detalles de la incorporación",
+      "IT": "TI"
+    }
+  },
+  {
+    "id": "Sanction and Adverse Media Check",
+    "requestName": "Sanción y control de medios adversos",
+    "shortDescription": "Sanción y comprobación de medios adversos a través de lexisnexis",
+    "stepTitles": {
+      "Compliance": "Cumplimiento",
+      "Documents": "Documentos",
+      "Review Process": "Proceso de revisión",
+      "Info": "Información"
+    }
+  }
+]
