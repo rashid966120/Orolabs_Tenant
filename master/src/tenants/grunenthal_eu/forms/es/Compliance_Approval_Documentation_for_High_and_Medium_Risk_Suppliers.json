@@ -1,0 +1,202 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Documentación de aprobación del cumplimiento",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 60,
+    "fieldName": null,
+    "name": "Puntuación de riesgo original",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Documentación de proveedores de riesgo alto",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": "Documentación de proveedores de riesgo medio",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 26,
+    "fieldName": null,
+    "name": null,
+    "description": "El riesgo del proveedor se ha validado como de riesgo alto",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 14,
+    "fieldName": "q14__p_Would_you_like_to_approve_t",
+    "name": "¿Desea aprobar la incorporación de este proveedor de alto riesgo ? Es necesario añadir documentación para aprobar.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "",
+      "Approve": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 40,
+    "fieldName": "null_1_",
+    "name": "nula(1)",
+    "description": "El riesgo del proveedor se ha validado como riesgo medio",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 35,
+    "fieldName": "q35__p_Medium_risk_vendor_denied__",
+    "name": "Proveedor de riesgo medio denegado (oculto)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 38,
+    "fieldName": "q38__p_High_risk_vendor_denied__hi",
+    "name": "Proveedor de riesgo alto denegado (oculto)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 59,
+    "fieldName": "null_2_",
+    "name": "nula(2)",
+    "description": "Este proceso de incorporación de proveedores se detendrá aquí.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p_Please_add_Documentation_of",
+    "name": "<p>Por favor, añada Documentación de aprobación.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": null,
+    "name": null,
+    "description": "Este proceso de incorporación de proveedores se detendrá aquí. Puede hacer clic en la \"X\" de la esquina superior derecha y, a continuación, en \"Denegar\".</strong></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 12,
+    "fieldName": "q12__p_Would_you_like_to_approve_t",
+    "name": "¿Desea aprobar la incorporación de este  proveedorde riesgo medio ? Debe adjuntar la documentación de aprobación para aprobar.",
+    "description": "Nota",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Reject": "",
+      "Approve": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 69,
+    "fieldName": "_p_Please_justify__p_",
+    "name": "<p>Por favor, justifique</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 71,
+    "fieldName": "_p_Please_justify___p_",
+    "name": "<p>¡Por favor, justifíquelo!</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 74,
+    "fieldName": "q74__p_Please_select_the_appropria",
+    "name": "<p>Seleccione la opción adecuada </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Please apply additional mitigation measures": "",
+      "Please ask vendor to sign the Grünenthal Code of Conduct": "",
+      "Please use Grünenthal contract template": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 65,
+    "fieldName": "_p_Comments__p_",
+    "name": "<p>Proporcione detalles sobre las medidas de mitigación adicionales.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 76,
+    "fieldName": "_p_Please_clarify___p_",
+    "name": "<p>Por favor, aclárelo.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 62,
+    "fieldName": "originalRiskScore",
+    "name": "Puntuación de riesgo original",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
