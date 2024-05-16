@@ -1,0 +1,229 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Revisión de la diligencia debida",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Proceso aplicado de diligencia debida a terceros",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 23,
+    "fieldName": null,
+    "name": "Medios adversos",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 82,
+    "fieldName": null,
+    "name": "Comentarios",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 44,
+    "fieldName": null,
+    "name": "Moneda del proveedor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 85,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : Por favor, añada sus comentarios relacionados con los medios adversos (si corresponde)",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 103,
+    "fieldName": "tpddNone",
+    "name": "nula(2)",
+    "description": "A este proveedor se le aplicó la diligencia debida a terceros leve en función de los datos.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 101,
+    "fieldName": "tpddType",
+    "name": "Cuando Leve se cambia a Aumentada, cambia TPDDType(hidden)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Enhanced": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 105,
+    "fieldName": "tpddLight",
+    "name": "nula(1)(1)",
+    "description": "A este proveedor se le aplicó la diligencia debida a terceros leve en función de los datos.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 107,
+    "fieldName": "tpddEnhanced",
+    "name": "nula(1)",
+    "description": "A este proveedor se le aplicó la diligencia debida a terceros aumentada a partir de los siguientes datos",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": "tpddESG",
+    "name": "nula(1)",
+    "description": "La diligencia debida a terceros en materia ambiental, social y de gobernanza se aplicó a este proveedor a partir de los datos",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 111,
+    "fieldName": "tpddLightToEnhanced",
+    "name": "nula(1)",
+    "description": "Nota : La Diligencia Debida a Terceros Leve se cambió a Diligencia Debida a Terceros Aumentada a partir de las respuestas del proveedor al cuestionario.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 113,
+    "fieldName": "adverseMediaMatched",
+    "name": "nula(1)",
+    "description": "Estado de las comprobaciones automatizadas de medios adversos: Se encontraron coincidencias.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "adverseMediaNonMatched",
+    "name": "nula(1)",
+    "description": "Estado de los controles de medios adversos: No se han encontrado  coincidencias.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 119,
+    "fieldName": "IsAdverseMediaRiskMedium",
+    "name": "Afecta, pero no repercute directamente en la relación comercial (Oculto para el cálculo del riesgo)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "IsAdverseMediaRiskHigh",
+    "name": "Afecta con un impacto directo y claro en la relación comercial (Oculto para el cálculo del riesgo)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 123,
+    "fieldName": "adverseMediaComment",
+    "name": "Por favor, añada sus comentarios.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 125,
+    "fieldName": "supplierInvoiceCurrency",
+    "name": "Moneda de facturación facilitada por el proveedor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 127,
+    "fieldName": "isCurrencyAppropriate",
+    "name": "¿Es adecuada la moneda facilitada por el proveedor?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 129,
+    "fieldName": "appropriateCurrency_",
+    "name": "Seleccione la moneda adecuada",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 97,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : </span>El proveedor no respondió.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 117,
+    "fieldName": "adverseMediaManualOptions",
+    "name": "Confirme manualmente si se han encontrado medios adversos.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "False hits": "",
+      "No hits": "",
+      "Hits that are directly impacting the business relationship": "",
+      "Hits that are not impacting the business relationship directly": ""
+    },
+    "type": "field"
+  }
+]
