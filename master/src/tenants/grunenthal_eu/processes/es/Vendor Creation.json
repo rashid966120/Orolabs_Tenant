@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "name": "Creación de proveedores",
+    "type": "processTitle"
+  },
+  {
+    "id": 12,
+    "name": "Gestionar los problemas de datos",
+    "type": null
+  },
+  {
+    "id": 15,
+    "name": "Actualización de proveedores en Syniti",
+    "type": null
+  },
+  {
+    "id": 14,
+    "name": "Crear proveedor en Syniti",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Ampliar proveedor en Syniti",
+    "type": null
+  },
+  {
+    "id": 19,
+    "name": "Actualización de proveedores en la confirmación SAP",
+    "type": null
+  },
+  {
+    "id": 18,
+    "name": "Éxito de la actualización de proveedores ",
+    "type": null
+  },
+  {
+    "id": 13,
+    "name": "Éxito de la actualización de proveedores ",
+    "type": null
+  }
+]
