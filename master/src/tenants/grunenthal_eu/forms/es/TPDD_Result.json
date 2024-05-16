@@ -1,0 +1,72 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Resultado TPDD",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 5,
+    "fieldName": null,
+    "name": "Detalles de la documentación del proveedor",
+    "description": "Validación del nombre del proveedor (identificación del proveedor) frente al nombre del titular de la cuenta bancaria (información de pago) para activar el riesgo medio si no coinciden. \nValidación del país del proveedor (identificación del proveedor) frente al país de la cuenta bancaria (información de pago) para activar el riesgo medio si no coincide. Estas se extraerán para añadir una entrada en el formulario de puntuación de riesgo. Esto se hace mediante la receta Workato.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": "invoiceCurrency",
+    "name": "<p>Moneda de facturación</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Risk_Level__p_",
+    "name": "Nivel de riesgo",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 23,
+    "fieldName": "isVendorCountryMismatched",
+    "name": "<p>¿No coinciden el país del proveedor (formulario de información de la empresa) y el país de la cuenta bancaria (formulario de información de pago)?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 21,
+    "fieldName": "isVendorNameMismatched",
+    "name": "<p>¿No coinciden el nombre del proveedor (formulario de información de la empresa) y el nombre del titular de la cuenta bancaria (formulario de información de pago)?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
