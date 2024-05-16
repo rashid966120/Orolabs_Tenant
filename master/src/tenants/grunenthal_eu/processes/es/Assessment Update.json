@@ -1,0 +1,32 @@
+[
+  {
+    "id": null,
+    "name": "Actualización de la evaluación Actualizada por formularios",
+    "type": "processTitle"
+  },
+  {
+    "id": 2,
+    "name": "Gestionar los problemas de datos",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Actualización del registro de evaluación en Syniti Actualizado por formularios",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Actualización de proveedores en SAP Confirmación actualizada por formularios",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Éxito de la actualización de proveedores ",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "Éxito de la actualización de proveedores ",
+    "type": null
+  }
+]
