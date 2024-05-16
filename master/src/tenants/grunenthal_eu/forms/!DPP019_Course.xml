@@ -1,0 +1,3261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course xmlns="http://lrncontent.lrn.com/schema/lcec/lrncourse" xmlns:math="http://exslt.org/math" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://lrncontent.lrn.com/schemaLocationa/lcec/lrncourse file:///c:/perforce/lcec/tools-internal/CourseAuthoring/LRNCourse.xsd" appType="ajax" hasCert="false" custom="false" hasEOCS="true" eocsId="ALG8KZSodm" hasLandingPage="true" isCustomizeKnowledgeCheck="false" isRandomQuiz="false" isPoolingEnabled="false" isKCPoolOnce="false" isRetryQuizRandomEnabled="false" isKnowledgeCheckRetry="false" hasTileMenu="true" media="video audio" lang="en" systemId="75437" baseCatalogId="DPP019" catalogId="DPP019-a92en" isIPKc="false">
+<modified>2024-05-03 20:12:46.697</modified>
+<title>Data Privacy (Manufacturing Edition)</title>
+<landingPageDesc>
+<text>
+<pageCaption>"Our customer relationships are key to our survival, and these relationships are based on trust – the trust that we will protect their data."</pageCaption>
+</text>
+<!--<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>-->
+</landingPageDesc>
+<description>
+<p>Protecting privacy is not only our ethical obligation but also what the law requires of our company. This Data Privacy training will help protect you, your colleagues, and our company from the consequences of a data privacy breach.</p>
+</description>
+<endOfCourseSurvey>
+<survey id="ALG8KZSodm">
+<buttonLabel> </buttonLabel>
+<description> </description>
+</survey>
+</endOfCourseSurvey>
+<contact>
+<title> </title>
+<text>
+</text>
+</contact>
+<topic catname="Lesson_431134324317320347" lessonId="lesson_431134324317320347" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>What Is Data Privacy?</title>
+<adaptive passingCount="4" randomize="true" poolSize="5">
+<landing lessonId="lesson_431134324317320347" pageid="adapt_000_1">
+<title>Time for a quick assessment.</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_431134324317320347" pageid="adapt_000_2" qId="1" interactionId="QQ-lesson_431134324317320347-1" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Data privacy rules govern when and how personal information is collected, used, or disclosed.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_431134324317320347" pageid="adapt_000_3" qId="2" interactionId="QQ-lesson_431134324317320347-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Personal data or personally identifiable information (PII) is information that can be used on its own, or in combination with other information, clues, or context, to identify, contact, or locate an individual.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_431134324317320347" pageid="adapt_000_4" qId="3" interactionId="QQ-lesson_431134324317320347-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Compliance with our data privacy policy protects you, our customers, and our company from the consequences of a data privacy breach.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_431134324317320347" pageid="adapt_000_5" qId="4" interactionId="QQ-lesson_431134324317320347-4" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Any information an individual provides to a company online may be shared with selected partner companies without the individual's permission or knowledge.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_431134324317320347" pageid="adapt_000_6" qId="5" interactionId="QQ-lesson_431134324317320347-5" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Multiple pieces of unrelated personal information can be combined to help identify an individual.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_431134324317320347" pageid="adapt_000_7" qId="6" interactionId="QQ-lesson_431134324317320347-6" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Something as irrelevant as your former address could not be used to identify you. </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_431134324317320347" pageid="adapt_000_8" qId="7" interactionId="QQ-lesson_431134324317320347-7" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Our company is responsible for our own internal data, but client data is the responsibility of clients only.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_431134324317320347" pageid="adapt_000_9" qId="8" interactionId="QQ-lesson_431134324317320347-8" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Personally identifiable information (PII) is a term used exclusively in the EU.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_431134324317320347" pageid="adapt_000_10" qId="9" interactionId="QQ-lesson_431134324317320347-9" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>A single employee's data being stolen could eventually lead to company-wide reputational damage</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_431134324317320347" pageid="adapt_000_11" qId="10" interactionId="QQ-lesson_431134324317320347-10" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>It is not your responsibility to protect company data outside of your work hours.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_431134324317320347" pageid="adapt_000_12">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>Good job!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>Sorry, you'll need to retake the assessment!</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_431134324317320347" pageid="adapt_000_13">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="videoSlideShow" pageid="368339936313519706" pageTime="0" showTitle="true" hidden="false">
+<title>Data Privacy protects and secures your personal information.</title>
+<text/>
+<panel catname="panel1">
+<text/>
+</panel>
+<!--<audioTranscript>
+<inspireTranscript>
+<p>Let's consider some of the key elements of this topic.</p>
+<p>Trust is a promise.</p>
+<p>When our clients and colleagues put their data in our hands, they trust us to protect that data. To keep the private, private.</p>
+<p>To have a say in how their information is collected, used, or disclosed.</p>
+<p>To guard it from unwanted parties, to follow laws as well as company policy.</p>
+<p>And when the time comes, to dispose of it so no one else can misuse it.</p>
+<p>Our actions mean the difference between total and safe data privacy…</p>
+<p>And an unwanted marketing phone call disturbing dinner.</p>
+<p>Or junk mail clogging a mailbox.</p>
+<p>Or personal information finding its way into more dangerous hands.</p>
+<p>We promise to protect the privacy of our clients and colleagues. We promise to follow our policies and laws.</p>
+<p>When we uphold data privacy, we protect ourselves, our company, our colleagues, and our clients.</p>
+</inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="clickAndReveal" pageid="9188641055665108974" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Data Privacy Rules</title>
+<text>
+<p>Our privacy expert is here to answer some common questions on data privacy rules.</p>
+<p>Select each question to learn what she has to say.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>It's important that you understand the key concepts related to this topic.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+What Are Data Privacy Rules?
+</text>
+</click>
+<reveal>
+<text>
+<p>Data privacy rules apply to any information that can be used on its own, or in combination with other clues, information, or context, to identify, contact, or locate an individual. Data privacy rules include company policies, the EU's General Data Protection Regulation (GDPR), US federal and state law, and other region-specific laws and regulations.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+What Types of Data Are Covered?
+</text>
+</click>
+<reveal>
+<text>
+Data covered by data privacy rules is any information related to a person that could be used to identify that person, either directly or indirectly.<br/><br/>It could be a name, photo, email address, date of birth, ethnicity, religion, financial record, medical information, or employment history. It could even be posts on social networking sites.
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+What Terminology Is Used?
+</text>
+</click>
+<reveal>
+<text>
+Different countries use different terms to describe this kind of data.<br/><br/>For example, in the US, it's known as personally identifiable information (PII).<br/><br/>In Europe, it's known as personal data.
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item4">
+<click>
+<text>
+How Do We Ensure Data Security?
+</text>
+</click>
+<reveal>
+<text>
+<p>To help us protect data privacy, you must know the types of data we hold, who has access to the data, where data is held, what it is used for, and the consequences of a data privacy breach.</p>
+<p>Consequences of a data privacy breach can include heavy fines and significant reputational damage. If private data falls into the wrong hands, it may be possible for criminals to identify an individual and target them for illegal activity.</p>
+<p>Select the Next arrow to continue.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="saq" pageid="8560828788085016979" pageTime="0" showTitle="true" hidden="false">
+<title> Data Privacy </title>
+<text>
+John opened an account with an online retailer last month. Since then, he has received numerous unsolicited calls from a marketing company. Perhaps the retailer passed the data to a direct marketing company.<br/><br/>John is wondering what information may have been used to identify him.
+</text>
+<question type="checkAll">
+<questionText>Select the five pieces of information that could have been used.</questionText>
+<questionDescription/>
+<choice isCorrect="true" catname="choice1">
+<p>Address</p>
+</choice>
+<choice isCorrect="true" catname="choice2">
+<p>Login and password</p>
+</choice>
+<choice isCorrect="true" catname="choice3">
+<p>Name</p>
+</choice>
+<choice isCorrect="false" catname="choice4">
+<p>Time spent on the retail site</p>
+</choice>
+<choice isCorrect="true" catname="choice5">
+<p>Payment details</p>
+</choice>
+<choice isCorrect="true" catname="choice6">
+<p>Telephone number</p>
+</choice>
+<feedback/>
+</question>
+<buttonText/>
+<!--<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="contentPage" pageid="1792254556134492396" pageTime="0" showTitle="true" hidden="false">
+<title>Remember…</title>
+<text>
+<p>
+<p>Your name, address, and telephone number can all be used to uniquely identify you, as can your login and payment details for retail sites. </p>
+<p>All this data is classified as personal data in the EU and personally identifiable information (PII) in the US. Unless you confirm that you are comfortable with your information being shared, a retailer should not pass your personal information to a direct marketing agency.</p>
+<p>But it happens! Most of us have received unsolicited calls from organizations that have no good reason to be in possession of our name and telephone number. It's just one example of why we should maintain data privacy.</p>
+</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Here are some key considerations.</inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="saq" pageid="3317563052115216204" pageTime="0" showTitle="true" hidden="false">
+<title> Data Privacy </title>
+<text>
+John calls the retailer and asks to review any data they hold on him.<br/><br/>Take a look at the data they hold and decide which items could be used to identify John.
+</text>
+<question type="checkAll">
+<questionText>Which four pieces of information could be used to identify John?</questionText>
+<questionDescription/>
+<choice isCorrect="true" catname="choice1">
+<p>The date his account was established with the company</p>
+</choice>
+<choice isCorrect="true" catname="choice2">
+<p>Frequency of purchases</p>
+</choice>
+<choice isCorrect="false" catname="choice3">
+<p>Sign up for newsletter Yes/No</p>
+</choice>
+<choice isCorrect="true" catname="choice4">
+<p>Months/years active with the company</p>
+</choice>
+<choice isCorrect="true" catname="choice5">
+<p>Value of purchases over time</p>
+</choice>
+<feedback/>
+</question>
+<buttonText/>
+<!--<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="contentPage" pageid="9073230446823114260" pageTime="0" showTitle="true" hidden="false">
+<title>Thanks for helping John.</title>
+<text>
+<p>
+<p>A newsletter preference is too generic to offer any reasonable chance of identifying an individual.</p>
+<p>While the frequency of your purchases or the number of years you've been active with the company may seem too non-specific to help identify you, remember this: multiple pieces of personal data can be used to narrow a search to an individual.</p>
+<p>It's important that you know what data qualifies as personally identifiable information (PII) in the US and personal data in the EU, and understand how various pieces of personal information can be combined to identify an individual.</p>
+</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Thanks for helping out.</inspireTranscript>
+</audioTranscript>-->
+</page>
+</topic>
+<topic catname="Lesson_1571947658095219254" lessonId="lesson_1571947658095219254" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>The Consequences of a Data Breach</title>
+<adaptive passingCount="4" randomize="true" poolSize="5">
+<landing lessonId="lesson_1571947658095219254" pageid="adapt_001_1">
+<title>Time for a quick assessment.</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_1571947658095219254" pageid="adapt_001_2" qId="1" interactionId="QQ-lesson_1571947658095219254-1" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Data breaches can lead to legal proceedings.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1571947658095219254" pageid="adapt_001_3" qId="2" interactionId="QQ-lesson_1571947658095219254-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Official sources will never email or text you looking for login or account details.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1571947658095219254" pageid="adapt_001_4" qId="3" interactionId="QQ-lesson_1571947658095219254-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Consumers quickly lose faith in companies with poor IT and online security.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1571947658095219254" pageid="adapt_001_5" qId="4" interactionId="QQ-lesson_1571947658095219254-4" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>You can't trigger malware just by clicking a link.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1571947658095219254" pageid="adapt_001_6" qId="5" interactionId="QQ-lesson_1571947658095219254-5" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>An employee implicated in a data breach may be subject to fines and imprisonment.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1571947658095219254" pageid="adapt_001_7" qId="6" interactionId="QQ-lesson_1571947658095219254-6" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>If you recognize the name of the sender, it is safe to click on the link in the message.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1571947658095219254" pageid="adapt_001_8" qId="7" interactionId="QQ-lesson_1571947658095219254-7" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>It is easy for a company to recover from reputational damage when the cause was an employee's error.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1571947658095219254" pageid="adapt_001_9" qId="8" interactionId="QQ-lesson_1571947658095219254-8" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>There is no inherent risk in using your work email account for both professional and personal correspondence. </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1571947658095219254" pageid="adapt_001_10" qId="9" interactionId="QQ-lesson_1571947658095219254-9" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Malware is capable of stealing login details and using them against us.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1571947658095219254" pageid="adapt_001_11" qId="10" interactionId="QQ-lesson_1571947658095219254-10" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>A best practice for preventing security breaches is to only click on links to websites you recognize.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_1571947658095219254" pageid="adapt_001_12">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>You've passed!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>You're not there yet!</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_1571947658095219254" pageid="adapt_001_13">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="clickAndReveal" pageid="1540550464093318934" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Experiences Shared</title>
+<text>
+<div>
+<p>You would think that the more that businesses invest in security technology, the safer they should be from hackers, right?</p>
+<p>Let's take a look at the impact information security breaches had for these people.</p>
+<p>Select each image panel to learn that person's story.</p>
+</div>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>These people have agreed to share their experiences in this area. </inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Jarrett
+</text>
+</click>
+<reveal>
+<text>
+<p>"My company incurred a hefty fine after a major data breach led to civil and criminal investigations."</p>
+<p>Data breaches can often lead to expensive legal proceedings.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Isla
+</text>
+</click>
+<reveal>
+<text>
+<p>"A cyber-attack on my online business caused massive reputational damage when the credit card details of my customers were leaked."</p>
+<p>Consumers are quick to lose faith in a company with poor online security.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Kareem
+</text>
+</click>
+<reveal>
+<text>
+<p>"I was forced into spending several millions on shielding my company's systems after hackers installed malware."</p>
+<p>According to a 2020 McAfee report, cybercrime incidents cost the global economy just over 1% of global GDP.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item4">
+<click>
+<text>
+Jane
+</text>
+</click>
+<reveal>
+<text>
+<p>"I accidentally installed rogue software on my computer, severely damaging my business."</p>
+<p>According to a 2020 Verizon report, one in five security incidents such as this are the result of a mistake made by an employee, which means human error accounts for 22% of data breaches. The report also found that 17% of all data breaches involved the installation of malware. </p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item5">
+<click>
+<text>
+Hana
+</text>
+</click>
+<reveal>
+<text>
+<p>"After being implicated in an internal data breach, I was fired from my job and narrowly avoided prison."</p>
+<p>Select the Next arrow to continue.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="saq" pageid="600616186315066913" pageTime="0" showTitle="true" hidden="false">
+<title> Suspicious Email </title>
+<text>
+<p>Ella has received an "urgent" email from her bank. When she clicks a link in the email, it merely opens to her bank's home page. The urgency of the email now appears suspicious. She asks you what is the first thing she should do to avoid a possible security breach.</p>
+</text>
+<question type="multipleChoice">
+<questionText>How would you advise her?</questionText>
+<questionDescription/>
+<choice isCorrect="true" catname="choice1">
+<p>Contact the internal IT helpline to discuss the email.</p>
+</choice>
+<choice isCorrect="false" catname="choice2">
+<p>Search the web to check if the email is a known scam.</p>
+</choice>
+<choice isCorrect="false" catname="choice3">
+<p>Contact her bank to verify the email's origin.</p>
+</choice>
+<choice isCorrect="false" catname="choice4">
+<p>Forward the email to her local IT person.</p>
+</choice>
+<feedback/>
+</question>
+<buttonText/>
+<!--<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="contentPage" pageid="743658299665998246" pageTime="0" showTitle="true" hidden="false">
+<title>Remember…</title>
+<text>
+<p>
+<p>Phishing attacks attempt to gain sensitive information by pretending to be from a friendly source. Be aware that official sources will never email or text you looking for login or account details. If you receive something suspicious, report it – even if it appears to be from our CEO!</p>
+<p>Don't delay in reporting technical issues. Interacting with a suspicious web page could likely result in identity theft – and potentially more damage. If you are unsure who to report technical issues to, you can find out in the <span class="inlineComponentBtn" data-type="contacts" onclick="interface.openInterfaceComponent($(this), 'contacts')">Contact Details</span> section.</p>
+<p>In addition, never forward personal emails to your work email, or to any third party. They could contain malware. Suspicious emails should only ever be forwarded to IT if specifically requested.</p>
+</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Here are some key considerations.</inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="saq" pageid="2268966799941689349" pageTime="0" showTitle="true" hidden="false">
+<title> Security Impact </title>
+<text>
+The link Ella clicked installed malware on her device, designed to steal data and post it on public websites. Among other data stolen from her machine was confidential client data.
+</text>
+<question type="checkAll">
+<questionText>Identify five potential consequences of this breach.</questionText>
+<questionDescription/>
+<choice isCorrect="false" catname="choice1">
+<p>There is nothing important on her computer, so there is no loss.</p>
+</choice>
+<choice isCorrect="true" catname="choice2">
+<p>Fines could be imposed on us by the regulator.</p>
+</choice>
+<choice isCorrect="true" catname="choice3">
+<p>Legal action could be taken against our company by affected parties.</p>
+</choice>
+<choice isCorrect="true" catname="choice4">
+<p>Compromised systems may have to be taken offline to halt data theft.</p>
+</choice>
+<choice isCorrect="true" catname="choice5">
+<p>We could be prevented from operating our business.</p>
+</choice>
+<choice isCorrect="true" catname="choice6">
+<p>We could incur damage to our reputation.</p>
+</choice>
+<feedback/>
+</question>
+<buttonText/>
+<!--<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="contentPage" pageid="1480797774657384748" pageTime="0" showTitle="true" hidden="false">
+<title>Thanks for helping Ella.</title>
+<text>
+<p>
+<p>Ella now understands that introducing malware to our network would have huge repercussions. Because malware may steal workplace login details, such breaches place our company and our clients' data at risk.</p>
+<p>Legal, financial, and reputational implications would result from an investigation and the subsequent publicity. Our information security systems would need immediate analysis and maintenance. This small breach could shut the company down!</p>
+<p>Remember, it's important that you:</p>
+<ul>
+<li>Recognize the hidden threats that might breach our company's IT security or compromise the security of your personal information.</li>
+<li>Protect your work email account by limiting correspondence to professional communications.</li>
+<li>React promptly and responsibly to any suspicious email correspondences you may receive by escalating incidents through the correct channels immediately. </li>
+</ul>
+<p>If you are unsure who to contact, you can find out in the <span class="inlineComponentBtn" data-type="contacts" onclick="interface.openInterfaceComponent($(this), 'contacts')">Contact Details</span> section.</p>
+</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>You've been a great help.</inspireTranscript>
+</audioTranscript>-->
+</page>
+</topic>
+<topic catname="Lesson_13392033996784648" lessonId="lesson_13392033996784648" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Protecting Data</title>
+<adaptive passingCount="4" randomize="true" poolSize="5">
+<landing lessonId="lesson_13392033996784648" pageid="adapt_002_1">
+<title>Ready to put what you've learned into practice?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_13392033996784648" pageid="adapt_002_2" qId="1" interactionId="QQ-lesson_13392033996784648-1" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Using unprotected networks to send and receive files can compromise personal data/PII.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_13392033996784648" pageid="adapt_002_3" qId="2" interactionId="QQ-lesson_13392033996784648-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Saving files with encrypted passwords helps prevent breaches of personal data/PII.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_13392033996784648" pageid="adapt_002_4" qId="3" interactionId="QQ-lesson_13392033996784648-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Collecting and storing personal data/PII for purposes other than declared and agreed is acceptable if the situation warrants.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_13392033996784648" pageid="adapt_002_5" qId="4" interactionId="QQ-lesson_13392033996784648-4" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Retaining personal data/PII for longer than is reasonably necessary is a breach of personal data/PII security rules.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_13392033996784648" pageid="adapt_002_6" qId="5" interactionId="QQ-lesson_13392033996784648-5" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Everyone has the right to know why their data is being collected and how it will be used.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_13392033996784648" pageid="adapt_002_7" qId="6" interactionId="QQ-lesson_13392033996784648-6" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Under US laws, there are no official reporting and notification requirements when a data breach has been discovered.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_13392033996784648" pageid="adapt_002_8" qId="7" interactionId="QQ-lesson_13392033996784648-7" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>While a company can suffer reputational damage from a data breach, there are no fines or penalties associated with it.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_13392033996784648" pageid="adapt_002_9" qId="8" interactionId="QQ-lesson_13392033996784648-8" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>In the EU, a company must notify regulators within 72 hours of becoming aware of a breach.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_13392033996784648" pageid="adapt_002_10" qId="9" interactionId="QQ-lesson_13392033996784648-9" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Once a company has your data, you do not retain the right to hold the company accountable for its usage.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_13392033996784648" pageid="adapt_002_11" qId="10" interactionId="QQ-lesson_13392033996784648-10" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Data only has to be anonymized in external circumstances.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_13392033996784648" pageid="adapt_002_12">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>Excellent work!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>Sorry, you'll need to retake the assessment.</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_13392033996784648" pageid="adapt_002_13">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="contentPage" pageid="198470235869785612" pageTime="0" showTitle="true" hidden="false">
+<title>Responsibility and Accountability</title>
+<text>
+<p>
+<p>Have you ever worried about your personal information falling into the wrong hands? Our clients do. They take data privacy very seriously, and so do we.</p>
+<p>We all have a responsibility to protect the data of our clients and employees. Privacy incidents are often caused by people making simple mistakes out of line with our policies. To help avoid any such mistakes, we have created a set of data principles.</p>
+<ol>
+<li>Don't collect data unless you have to.</li>
+<li>Don't use data for purposes other than the purpose about which you have informed the individual.</li>
+<li>Protect data at all costs.</li>
+<li>Destroy data when it's no longer required.</li>
+</ol>
+<p>Select the Next arrow to continue.</p>
+</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Consider this!</inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="clickAndReveal" pageid="889274338057837303" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Data Privacy</title>
+<text>
+<div>
+<p>We all are accountable for protecting the data we hold on our employees, customers, and clients. When in doubt, follow these principles to help protect personal data.</p>
+<p>Select each topic to learn more.</p>
+</div>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Let's review some key principles.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Notice and Purpose
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>Your data should never be collected without your approval, and you should never collect data without approval. Always ask yourself the following:</p>
+<p> </p>
+<ul>
+<li>Is this information I'm about to collect personal?</li>
+<li>Do I need it?</li>
+</ul>
+<p> </p>
+<p>If you don't need the information, don't collect it.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Consent
+</text>
+</click>
+<reveal>
+<text>
+You must provide consent before a company can disclose any of your data. Equally, if you are ever in a position to disclose data, your data subject must provide consent.
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Security and Access
+</text>
+</click>
+<reveal>
+<text>
+Data should always be made anonymous, when possible, to safeguard the subject. No one should have their data abused or misused. You must protect it from loss, theft, unauthorized use, or modification.<br/><br/>There should always be means in place for an individual to access and, if necessary, correct the information we hold on them.
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item4">
+<click>
+<text>
+Disclosure and Accountability
+</text>
+</click>
+<reveal>
+<text>
+<p>Everyone has the right to know why their data is being collected and how it will be used.</p>
+<p>Customers have the right to hold accountable any company that is in possession of their personal data/PII for what happens to their data.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item5">
+<click>
+<text>
+Summary
+</text>
+</click>
+<reveal>
+<text>
+<p>In summary, if at all possible, don't collect personal data/PII. But, if you do, then you must make sure that the individuals from whom you are collecting the data know why it has been collected and give their consent, you must protect the data while you have it, and you must destroy it when it's of no more use. It is smart to follow a retention and destruction schedule and to periodically assess the usefulness of data.</p>
+<p>Select the Next arrow to continue.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="clickAndReveal" pageid="4995696939699127101" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Safe Practices</title>
+<text>
+<p>Select each image to find out how Viktor protects his company's data when working outside of the workplace.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Now we'll look at a real-life example.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Purpose
+</text>
+</click>
+<reveal>
+<text>
+<p>Viktor is working from a café. He is collating employee information into a spreadsheet for his company.</p>
+<p>Viktor wants to update the project on the network, but the café's Wi-Fi is unprotected. Let's see how he handles this.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Protect
+</text>
+</click>
+<reveal>
+<text>
+<p>Viktor decides to use the company Virtual Private Network. He can use the café's unprotected Wi-Fi to create this private connection.</p>
+<p>Viktor has ensured that the personal data/PII remains protected and secure within his company's network.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Responsibility
+</text>
+</click>
+<reveal>
+<text>
+<p>Viktor is getting ready to leave the café, but wants to do some work on his smartphone while commuting on the bus.</p>
+<p>Viktor knows he has to be responsible when sending and saving files.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item4">
+<click>
+<text>
+Security
+</text>
+</click>
+<reveal>
+<text>
+Viktor encrypts the file he wants to work on with a password that only he knows and saves the file onto his phone.<br/><br/>Viktor ensures that the data is protected and is aware that he should only ever work with files on authorized work devices and in accordance with his company's IT security policy.
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item5">
+<click>
+<text>
+Accountability
+</text>
+</click>
+<reveal>
+<text>
+<p>Viktor knows he is liable for any data he works with. Any breach of data can have financial impacts or legal risks, and could harm the company brand and reputation.</p>
+<p>His company could also be subject to significant fines if implicated in a data breach.</p>
+<p>No matter where you work from, personal data/PII must always be protected.</p>
+<p>Select the Next arrow to continue.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="saq" pageid="473828573913209888" pageTime="0" showTitle="true" hidden="false">
+<title> Protecting Customer Information </title>
+<text>
+<p>Imran's company is merging with another organization. Both organizations operate in the US and the EU, and they'll need to share personal data and personally identifiable information (PII).</p>
+<p>He's worried about ensuring this data is protected after the merger. He's compiling a list of questions to ask the other organization.</p>
+</text>
+<question type="checkAll">
+<questionText>What five questions should he ask?</questionText>
+<questionDescription/>
+<choice isCorrect="true" catname="choice1">
+<p>Is data stored securely and accessed only by authorized users?</p>
+</choice>
+<choice isCorrect="true" catname="choice2">
+<p>Are policies in place to protect data providers' anonymity?</p>
+</choice>
+<choice isCorrect="true" catname="choice3">
+<p>Are users trained in data-protection policies?</p>
+</choice>
+<choice isCorrect="true" catname="choice4">
+<p>Are security audits completed on a regular basis?</p>
+</choice>
+<choice isCorrect="true" catname="choice5">
+<p>Are electronic records securely purged?</p>
+</choice>
+<choice isCorrect="false" catname="choice6">
+<p>Are bonuses paid to staff to protect data?</p>
+</choice>
+<feedback/>
+</question>
+<buttonText/>
+<!--<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="contentPage" pageid="5424736285613652020" pageTime="0" showTitle="true" hidden="false">
+<title>Remember…</title>
+<text>
+<p>
+<p>Employees shouldn't need an incentive to maintain data security.</p>
+<p>Data must be stored securely and accessed only by authorized users. Policies must be in place to protect the anonymity of those about whom the data is stored.</p>
+<p>Everyone must be trained in these policies. Security audits need to be completed on a regular basis. Documents containing personal data/PII must be shredded. When destroying electronic data, all electronic records must be securely purged in accordance with our company's retention and destruction schedule.</p>
+<p>Privacy incidents are often the result of people making simple mistakes out of line with our policies. Our data policies exist to protect you, and us.</p>
+<p>Where we operate in the US, there are also federal and state laws that set out the requirements for proper disposal of certain categories of PII.</p>
+</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>You play a vital role in ensuring we remain compliant.</inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="saq" pageid="9205685364505655979" pageTime="0" showTitle="true" hidden="false">
+<title> Ensuring Security of Personal Information </title>
+<text>
+Imran needs to create a spreadsheet for the marketing department with details of customer purchasing trends.
+</text>
+<question type="multipleChoice">
+<questionText>What must he do to ensure the security of any personal information?</questionText>
+<questionDescription/>
+<choice isCorrect="false" catname="choice1">
+<p>Print out the spreadsheet and hand-deliver it to his contact in the marketing department.</p>
+</choice>
+<choice isCorrect="true" catname="choice2">
+<p>Make anonymous any personal information before emailing it to the marketing department.</p>
+</choice>
+<choice isCorrect="false" catname="choice3">
+<p>Send the spreadsheet as an attachment in an email to the marketing department.</p>
+</choice>
+<feedback/>
+</question>
+<buttonText/>
+<!--<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="contentPage" pageid="2144621478647989149" pageTime="0" showTitle="true" hidden="false">
+<title>Remember…</title>
+<text>
+<p><span>When using data outside</span> of its normal intended environment, the data must be anonymized so as to remove any trace of personal data/PII by which the customer can be identified.<br/><br/><span>Data should always</span> be made anonymous when possible to safeguard the subject.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>It's important that you remember these key points to help you remain compliant.</inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="saq" pageid="8837181443976338178" pageTime="0" showTitle="true" hidden="false">
+<title> Identifying Data Breaches </title>
+<text>
+An audit of the other organization's network highlights major security vulnerabilities. Research identifies a possible data breach.
+</text>
+<question type="checkAll">
+<questionText>What are the three possible consequences?</questionText>
+<questionDescription/>
+<choice isCorrect="true" catname="choice1">
+<p>Any customers whose information was compromised could take legal action against Imran's company.</p>
+</choice>
+<choice isCorrect="true" catname="choice2">
+<p>Imran's company could be liable for huge fines and possible criminal charges.</p>
+</choice>
+<choice isCorrect="false" catname="choice3">
+<p>Imran will lose his job, but the company will face no other consequences.</p>
+</choice>
+<choice isCorrect="true" catname="choice4">
+<p>Imran's company could suffer bad publicity.</p>
+</choice>
+<feedback/>
+</question>
+<buttonText/>
+<!--<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="contentPage" pageid="6322166701342875678" pageTime="0" showTitle="true" hidden="false">
+<title>Thanks for helping Imran.</title>
+<text>
+<p>
+<p>Imran now understands the importance of protecting personal data/PII and that data breaches can have severe consequences, including loss of reputation, fines, and even criminal charges.</p>
+<p>Individuals may take action against any company, should it be identified that the company caused a data breach.</p>
+<p>You have the right to hold accountable any company that is in possession of your personal information. Not following principles of proper protection of personal data/PII can have huge ramifications.</p>
+<p>Under certain US laws, there are also reporting and notification requirements when a data breach has been discovered, including laws recently enacted in some states.</p>
+<p>In the EU, under the GDPR, if a data breach occurs, the company responsible for the breach must notify the relevant regulator within 72 hours of becoming aware of the breach. Generally speaking, organizations must also notify individuals impacted, including their customers, without undue delay after first becoming aware of the breach.</p>
+<p>Be sure to notify Legal if you discover or suspect that we have had a data breach, so that proper reporting can be done swiftly.</p>
+</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Your help was appreciated.</inspireTranscript>
+</audioTranscript>-->
+</page>
+</topic>
+<topic catname="Lesson_7870609975242079166" lessonId="lesson_7870609975242079166" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Protecting Confidential Information</title>
+<adaptive passingCount="4" randomize="true" poolSize="5">
+<landing lessonId="lesson_7870609975242079166" pageid="adapt_003_1">
+<title>Ready to show what you know?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_7870609975242079166" pageid="adapt_003_2" qId="1" interactionId="QQ-lesson_7870609975242079166-1" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>The classification level of data identifies the security controls required to help you protect the data.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_7870609975242079166" pageid="adapt_003_3" qId="2" interactionId="QQ-lesson_7870609975242079166-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Restricted information is information that we have a regulatory or legal obligation to maintain and protect.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_7870609975242079166" pageid="adapt_003_4" qId="3" interactionId="QQ-lesson_7870609975242079166-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Business plans, marketing strategy, manufacturing techniques, and details of litigations a company may be involved in are all examples of confidential information.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_7870609975242079166" pageid="adapt_003_5" qId="4" interactionId="QQ-lesson_7870609975242079166-4" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>It's okay to discuss internal information with work colleagues on social media, as long as you have set your privacy settings to only include known parties.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_7870609975242079166" pageid="adapt_003_6" qId="5" interactionId="QQ-lesson_7870609975242079166-5" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Assigning a classification level to information is a business decision, based on how sensitive the information is.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_7870609975242079166" pageid="adapt_003_7" qId="6" interactionId="QQ-lesson_7870609975242079166-6" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Internal information is information that may adversely affect employees, individuals, or our business if disclosed to unauthorized parties.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_7870609975242079166" pageid="adapt_003_8" qId="7" interactionId="QQ-lesson_7870609975242079166-7" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Confidential information is potentially sensitive information that should not be shared outside our organization.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_7870609975242079166" pageid="adapt_003_9" qId="8" interactionId="QQ-lesson_7870609975242079166-8" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>It is not necessary to have an NDA in place before discussing company information with a third party.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_7870609975242079166" pageid="adapt_003_10" qId="9" interactionId="QQ-lesson_7870609975242079166-9" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Being able to show how we classified and protected information can be essential to how we defend ourselves in the event of legal action.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_7870609975242079166" pageid="adapt_003_11" qId="10" interactionId="QQ-lesson_7870609975242079166-10" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>As long as you have permissions, social media is an appropriate place to share certain company information.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_7870609975242079166" pageid="adapt_003_12">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>You've got it!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>Sorry, you didn't pass!</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_7870609975242079166" pageid="adapt_003_13">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="clickAndReveal" pageid="7885482328487203614" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Key Points</title>
+<text>
+<p>Select each topic to learn more.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Consider this.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Protecting Our Information
+</text>
+</click>
+<reveal>
+<text>
+<p>You wouldn't leave your credit card details lying around an open area would you? Or post your bank details on your Facebook page? No, because you know that you need to protect that kind of confidential, sensitive information.</p>
+<p>Like you, our company needs to protect our confidential information and sensitive data. Any information you receive in the course of your work is private company information, and you are responsible for protecting it.</p>
+<p>However, some information is particularly sensitive – such as information that is not generally known in the industry, our intellectual property, or even our trade secrets!</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Protecting Confidential Information and Sensitive Data
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>Accidents happen… laptops are stolen, mobile devices are lost, emails are sent to the wrong recipients – but if you follow the correct procedures, then accidents don't have to become security incidents.</p>
+<p>Here's what you need to do to protect our confidential information and sensitive data:</p>
+<ul>
+<li>Identify the classification of the data you handle.</li>
+<li>Use the handling protocols for that class of data to:</li>
+<li class="ql-indent-1">Share data appropriately.</li>
+<li class="ql-indent-1">Store data securely.</li>
+<li class="ql-indent-1">Properly dispose of data.</li>
+</ul>
+<p> </p>
+<p>Please also note that in some circumstances disclosure of confidential information is required by law.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Classifying Information
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>Assigning a classification level to information is the first step in protecting our information appropriately. Classification is a business decision based on how sensitive the information is. Once information has been classified, it must be correctly labeled so that everyone who works with it is aware of its sensitivity level.</p>
+<p>It's up to you to know the classification of the information you are handling and to treat it appropriately. The classification identifies the security controls you need to adhere to so that you can protect the information.</p>
+<p>There are four main classes of information:</p>
+<ul>
+<li>Public – information that can be freely shared with any individual or group.</li>
+<li>Internal – potentially sensitive information that should not be shared outside our organization.</li>
+<li>Confidential – information (whether in oral, written, or electronic form) that may adversely affect employees, individuals, or our business if disclosed to unauthorized parties. For example, business strategies, marketing plans, manufacturing techniques, etc.</li>
+<li>Restricted – information that we have a regulatory or legal obligation to maintain and protect. Trade secrets are also sometimes classified as restricted information.</li>
+</ul>
+<p> </p>
+<p>Select the Next arrow to continue.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="clickAndReveal" pageid="1506170325137662435" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Communication</title>
+<text>
+<p>Our policy governs external communications across all forms of media including print, online platforms, and public forums.</p>
+<p>When using the firm's electronic communications system, including the Internet, or engaging in social media activities, you must not send or otherwise disclose confidential information, trade secrets, or other confidential data of the company. If you are unsure of our policy, you can find out who to contact with questions in the <span class="inlineComponentBtn" data-type="contacts" onclick="interface.openInterfaceComponent($(this), 'contacts')">Contact Details</span> section.</p>
+<p>Never discuss sensitive, confidential, or restricted information in public areas or social conversation, and always use project "code names" in your discussions.</p>
+<p>Select each numbered panel to learn how to protect confidential information in online communications. </p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Let's examine some key concepts in this area.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Email
+</text>
+</click>
+<reveal>
+<text>
+<p>Before sending an email, you should double-check the recipient before pressing the send button – not only can it be embarrassing if a message is sent to the wrong person, but it can also result in the unintentional disclosure of confidential information about the company – this may also be an infringement of data-protection law.</p>
+<p>If you have to send an attachment that contains sensitive, confidential, or restricted information, you must ensure that the file is password-protected. Consider inserting the recipient's email address only once you are ready to send the email. You should never assume that internal or external messages are private and confidential, even if marked as such.</p>
+<p>The Internet is not a secure means of communication, and third parties may be able to access or alter messages that have been sent or received. Do not send any information in an email that you would not be happy being publicly available. Matters of a sensitive or personal nature should not be transmitted by email unless absolutely unavoidable, and if they are, they should be clearly marked in the message header as highly confidential.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Social Media Use
+</text>
+</click>
+<reveal>
+<text>
+<p>Be careful when using social media – even when you are chatting with your colleagues; always remember the potential risks to you and to our company.</p>
+<p>When you post a message using social media, you should assume you are making a public statement, even if you have set your "privacy settings" to only include known parties. Your messages will not be private and can be forwarded to third parties without your consent.</p>
+<p>Once sensitive or confidential information (or offensive or defamatory information) has been posted, it cannot be recovered, and this may result in damage or liability both for the company and also you personally.</p>
+<p>Never discuss internal, confidential, or restricted information on social media.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Ensuring Confidentiality
+</text>
+</click>
+<reveal>
+<text>
+<p>The confidentiality of internal communications can only be ensured if they are sent by internal company mail in a properly marked and sealed envelope, delivered personally by hand, or included in a password-protected online document, such as WINZIP.</p>
+<p>Under no circumstances, should information of a confidential or sensitive nature be placed on the Internet. You should exercise the same care when using the telephone or fax, as when using email or other forms of written communication.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item4">
+<click>
+<text>
+Consult and Report
+</text>
+</click>
+<reveal>
+<text>
+<p>If you are uncertain about a particular confidentiality issue, or you become aware of a confidentiality problem (including where this involves other members of staff), you can find out who to contact in the <span class="inlineComponentBtn" data-type="contacts" onclick="interface.openInterfaceComponent($(this), 'contacts')">Contact Details</span> section.</p>
+<p>If there is an incident such as the loss or theft of a laptop, tablet, or smartphone, this may constitute a data breach under data-protection rules, which may, in turn, need to be reported to a regulator – in such an instance you must immediately report the incident. You can find out who to report to in the <span class="inlineComponentBtn" data-type="contacts" onclick="interface.openInterfaceComponent($(this), 'contacts')">Contact Details</span> section.</p>
+<p>The loss of a device may also be a breach of a Confidential Disclosure Agreement (CDA) or Non-Disclosure Agreement (NDA) applicable to another party's information on the device, which may need to be reported to the other party.</p>
+<p>Select the Next arrow to continue.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="saq" pageid="6195985568342928048" pageTime="0" showTitle="true" hidden="false">
+<title> Classifying Information </title>
+<text>
+Arthur is working on a new project and needs to share company information with a marketing consultant. He knows he needs to classify the information before sharing it, but he's not sure what classification he needs to assign to the information. The information he needs to share relates to an upcoming marketing plan.
+</text>
+<question type="multipleChoice">
+<questionText>How should Arthur classify the information?</questionText>
+<questionDescription/>
+<choice isCorrect="false" catname="choice1">
+<p>Public – information that can be freely shared with any individual or group.</p>
+</choice>
+<choice isCorrect="false" catname="choice2">
+<p>Internal – potentially sensitive information that should not be shared outside our organization.</p>
+</choice>
+<choice isCorrect="true" catname="choice3">
+<p>Confidential – information that may adversely affect employees, individuals, or our business if disclosed to unauthorized parties.</p>
+</choice>
+<choice isCorrect="false" catname="choice4">
+<p>Restricted – information that we have a regulatory or legal obligation to maintain and protect.</p>
+</choice>
+<feedback/>
+</question>
+<buttonText/>
+<!--<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="contentPage" pageid="8787146211531317002" pageTime="0" showTitle="true" hidden="false">
+<title>Thanks for helping Arthur.</title>
+<text>
+<p>
+<p>Choosing a classification level to apply your data is a business decision, based on how sensitive the data is. The more sensitive the information is, the higher the classification level and the more protection required.</p>
+<p>When you classify information and then follow the rules that apply, you help protect our company in the event of a security incident. By following the rules, we will be able to prove to a customer, a regulator, or in a court of law that we have taken reasonable precautions to protect our data.</p>
+<p>It's vital to ensure that there is a valid NDA in place before discussing information with a third party.</p>
+<p>The Legal department can advise you if an NDA is already in place.</p>
+</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Thanks for your help.</inspireTranscript>
+</audioTranscript>-->
+</page>
+</topic>
+<topic catname="Lesson_2207020964853537090" lessonId="lesson_2207020964853537090" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Handling Sensitive Information</title>
+<adaptive passingCount="4" randomize="true" poolSize="5">
+<landing lessonId="lesson_2207020964853537090" pageid="adapt_004_1">
+<title>Ready for a quick assessment?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_2207020964853537090" pageid="adapt_004_2" qId="1" interactionId="QQ-lesson_2207020964853537090-1" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>We are responsible for ensuring that our contractors, agents, or anyone else acting on our behalf is handling information carefully, in accordance with any NDA or CDA.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_2207020964853537090" pageid="adapt_004_3" qId="2" interactionId="QQ-lesson_2207020964853537090-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Devices used to store confidential information do not need password-protection if the data is encrypted.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_2207020964853537090" pageid="adapt_004_4" qId="3" interactionId="QQ-lesson_2207020964853537090-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Audrey is working on a new project and needs to share confidential information with a supplier she's worked with in the past. There isn't a NDA or CDA in place with the supplier for the new project, and the project isn't covered by any previous NDAs or CDAs. However, as Audrey has worked with the supplier in the past, she is considering sharing the confidential information, as she trusts the supplier.</p>
+<br/>Is this an acceptable action?</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_2207020964853537090" pageid="adapt_004_5" qId="4" interactionId="QQ-lesson_2207020964853537090-4" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>A valid NDA must be in place before you can discuss confidential information with a third party.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_2207020964853537090" pageid="adapt_004_6" qId="5" interactionId="QQ-lesson_2207020964853537090-5" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Special care is required when disposing of confidential information, as there is the risk that information may be leaked, which may, in turn, constitute a breach of contract or a violation of data-protection law.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_2207020964853537090" pageid="adapt_004_7" qId="6" interactionId="QQ-lesson_2207020964853537090-6" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>As long as confidential or restricted data is clearly labeled as such in the subject of the email, it can be sent as an attachment.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_2207020964853537090" pageid="adapt_004_8" qId="7" interactionId="QQ-lesson_2207020964853537090-7" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>If you need to encrypt a document, you must use the encryption software approved of, or provided by, our IT department.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_2207020964853537090" pageid="adapt_004_9" qId="8" interactionId="QQ-lesson_2207020964853537090-8" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Hareem needs to dispose of some confidential information, which is in hard copy. The company has a retention and destruction schedule which he normally adheres to, but the CDA states different terms when disposing of confidential information, so he follows the terms in the CDA as opposed to the company policy. </p>
+<br/><p>Is this an acceptable action?</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>Yes</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>No</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_2207020964853537090" pageid="adapt_004_10" qId="9" interactionId="QQ-lesson_2207020964853537090-9" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>Paper documents do not need to be shredded if they are anything other than restricted information.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_2207020964853537090" pageid="adapt_004_11" qId="10" interactionId="QQ-lesson_2207020964853537090-10" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p>It is not your responsibility to dispose of digital information beyond placing it in your computer's "trash" folder.</p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p>True</p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p>False</p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_2207020964853537090" pageid="adapt_004_12">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>You've passed!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>You'll need to review this assessment.</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_2207020964853537090" pageid="adapt_004_13">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="clickAndReveal" pageid="2226850772043681219" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Sharing Information</title>
+<text>
+<p>Our privacy expert is here with some advice on the guidelines around sharing information.</p>
+<p>Select each question to learn what she has to say.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Let's review some key principles.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+What Should I Know About Sharing Information?
+</text>
+</click>
+<reveal>
+<text>
+<p>It's up to you to know the classification of the information you are handling and to treat it appropriately. Internal, restricted, or confidential information should only be shared on a need-to-know basis with authorized individuals or groups. When transferring data, always use the most secure and reliable path. Never transmit sensitive or confidential information by any method in an unprotected format – use the encryption software authorized by the IT department.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Where Are NDAs and CDAs Required?
+</text>
+</click>
+<reveal>
+<text>
+<p>When sharing data with a third party, you may need to do so within the terms of a Confidential Disclosure Agreement (CDA) or a Non-Disclosure Agreement (NDA), in order to protect our company's information appropriately.</p>
+<p>Therefore, make sure that a CDA or an NDA is in place before you start discussing our potentially sensitive or confidential information with a third party – speak to the Legal department about this.</p>
+<p>Here, "third party" means any outside individual or organization that you may come into contact with during the course of your work with the company, including potential, current, and previous clients, suppliers, distributors, business contacts, agents, advisors, and government and public bodies.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+What Are Mutual CDAs and NDAs?
+</text>
+</click>
+<reveal>
+<text>
+Sometimes, the other party may want us to sign an NDA before they share their company's information with us, so this would be referred to as a "mutual" or "two-way" CDA or NDA.<br/><br/>Failure to observe the terms of an NDA or CDA may constitute a breach of contract, so be sure that you are carefully following its terms.
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item4">
+<click>
+<text>
+What Are Our Responsibilities When Working with Contractors or Agents?
+</text>
+</click>
+<reveal>
+<text>
+We are also responsible for ensuring that our contractors, agents, or anyone else acting on our behalf is handling information carefully, in accordance with any NDA or CDA.<br/><br/>You should only outsource services when you are satisfied that the provider has taken all appropriate steps to ensure that our company's confidential information will be protected and that our obligations under applicable CDAs or NDAs will be fulfilled.
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item5">
+<click>
+<text>
+When May Disclosure of Confidential Information Be Required?
+</text>
+</click>
+<reveal>
+<text>
+<p>Disclosure of confidential information may be required (or permitted) by law for a number of reasons. For example, some laws empower governments and other bodies, such as tax authorities, to require the disclosure of documents and/or information – always consult the Legal department first before dealing with such an issue.</p>
+<p>Select the Next arrow to continue.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="clickAndReveal" pageid="7420673623970872572" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Storing and Disposing of Information</title>
+<text>
+<p>Select each numbered panel to learn more about our data responsibilities.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Let's examine some key concepts in this area.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Storing Data
+</text>
+</click>
+<reveal>
+<text>
+<p>Always store sensitive data, like restricted and confidential information, in secure files. Documents containing sensitive data must be kept in a secure location – such as a locked cabinet – and never left in open areas. All laptops and mobile phones must be locked away if left unattended overnight. However, in order to comply with data-protection legislation, do not store data for longer than necessary, i.e., data should be deleted when no longer necessary. For further information, you can find out who to contact in the <span class="inlineComponentBtn" data-type="contacts" onclick="interface.openInterfaceComponent($(this), 'contacts')">Contact Details</span> section.</p>
+<p>Any devices you use to store sensitive data – such as a laptop, tablet, or USB drive – must always be password-protected and the data encrypted to an approved standard. You must not allow other members of staff to use your password. If you anticipate that someone may need access to one of your folders in a device in your absence, do not share your password. You should instead arrange for the folder to be copied or give shared access to the relevant folder.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Disposing of Data
+</text>
+</click>
+<reveal>
+<text>
+Dispose of data according to the rules applicable to its classification. If you're unsure about the classification, always treat it as if it requires the highest level of protection.
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Special Considerations
+</text>
+</click>
+<reveal>
+<text>
+<p>Take special care when getting rid of confidential information, as this may lead to information being leaked, which may in turn constitute a breach of contract or a violation of data-protection law.</p>
+<p>Too often, mistakes are made especially when throwing away hard copies of documents. Documents you are considering disposing of should be carefully checked for confidential information, subject to disposal terms under another party's CDA or NDA, as some require return of the information, rather than disposal; so improper disposal could be a breach of contract.</p>
+<p>Also check for personal data – destroying information earlier than necessary may also be a breach of data-protection law, so please check our policy before destroying confidential information. If you are unsure of our policy, you can find out who to contact with questions in the <span class="inlineComponentBtn" data-type="contacts" onclick="interface.openInterfaceComponent($(this), 'contacts')">Contact Details</span> section.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item4">
+<click>
+<text>
+Disposing of Confidential Information
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>When you dispose of confidential information, please ensure that you apply the following practical steps:</p>
+<ul>
+<li>First check the content of paper/hard copy waste that you intend to throw away (anything that contains confidential, personal, or sensitive information must be treated as confidential waste) – dispose of it in accordance with the appropriate retention and destruction schedule or, if applicable, the terms of any CDAs or NDAs.</li>
+<li>Shred hard copy information and place it in confidential waste bins.</li>
+<li>Delete electronic data files and material held on USBs, DVDs, CDs, laptops, and PCs when they are no longer needed, in accordance with the appropriate retention and destruction schedule or applicable CDAs or NDAs. Where necessary, consider if this should best be destroyed by the IT department, such as ensuring the removal of confidential information from hard drives.</li>
+<li>Always empty the recycle bin on your computer after deleting files.</li>
+<li>Do not leave confidential waste bagged up where the public has access to it.</li>
+</ul>
+<p> </p>
+<p>Select the Next arrow to continue.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="clickAndReveal" pageid="5891467808859401458" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Handling Our Information</title>
+<text>
+<p>Select each person to find out how they protect confidential information.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>These people have agreed to share their experiences in this area.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Imani
+</text>
+</click>
+<reveal>
+<text>
+<p>"When I'm sharing confidential information internally with my colleagues, I always make sure that the data is secured.</p>
+<p>I only use authorized company equipment, and I use the approved encryption tools. By setting the proper permissions for handling or sharing data, I can ensure the information is only shared with authorized recipients."</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Larry
+</text>
+</click>
+<reveal>
+<text>
+<p>"Before sharing our information with third parties, there are some additional questions I always ask..."</p>
+<ul>
+<li>What is the classification level of the information? Remember, if the information is confidential or sensitive, I may need to get the information owner's permission before sharing.</li>
+<li>Does the third party have a legitimate business need to know the information, and are they authorized to view the information?</li>
+<li>Is there legal protection in place, such as a Non-Disclosure Agreement (NDA), to protect the information and our company?</li>
+</ul>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Song
+</text>
+</click>
+<reveal>
+<text>
+<p>"Even though I don't need to classify third-party information, I do need to ensure it's handled and protected properly, and in accordance with any legal agreements that might apply to it, such as a CDA or NDA.</p>
+<p>Information belonging to third parties must only be used for business purposes, so I make sure that it's only disclosed to authorized persons (even inside the company) who have a business need to know.</p>
+<p>Like our company, the third party may require an NDA is put in place before sharing information. If I'm unsure of the requirements, I check with my manager or the Legal department."</p>
+<p>Select the Next arrow to continue.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="saq" pageid="7353981912541357328" pageTime="0" showTitle="true" hidden="false">
+<title> Sharing Data </title>
+<text>
+<p>Sayo's business partners have asked for some project-related data that is contained in a confidential report.</p>
+<p>They need the data immediately and have asked Sayo to email it to them.</p>
+<p>Sayo has already taken steps to ensure that no personal data is involved, so the data-protection rules are not applicable.</p>
+</text>
+<question type="multipleChoice">
+<questionText>Does Sayo need to do anything before emailing the report?</questionText>
+<questionDescription/>
+<choice isCorrect="true" catname="choice1">
+<p>Yes. She must encrypt the report using the approved encryption tools before she sends it.</p>
+</choice>
+<choice isCorrect="false" catname="choice2">
+<p>No. She's already labeled and marked the report as confidential, so she can go ahead and email it to the supplier.</p>
+</choice>
+<choice isCorrect="false" catname="choice3">
+<p>Yes. She must send the report to the IT security team so that they can encrypt it and return it to her before she sends it.</p>
+</choice>
+<feedback/>
+</question>
+<buttonText/>
+<!--<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="contentPage" pageid="7955551886668727737" pageTime="0" showTitle="true" hidden="false">
+<title>Thanks for helping Sayo.</title>
+<text>
+<p>
+<p>You have a responsibility to keep all sensitive, confidential, and restricted information you handle secure at all times.</p>
+<p>Don't disclose sensitive, confidential, or restricted information unless you have received prior approval from the appropriate department.</p>
+<p>Never transmit sensitive, confidential, or restricted information by any method in an unprotected format – use the encryption software authorized by the IT department.</p>
+<p>If you have any questions on how to classify information or how to handle confidential information, you can find out who to contact in the <span class="inlineComponentBtn" data-type="contacts" onclick="interface.openInterfaceComponent($(this), 'contacts')">Contact Details</span> section.</p>
+</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Thanks for helping out.</inspireTranscript>
+</audioTranscript>-->
+</page>
+</topic>
+<topic catname="Lesson_103014004798420754" lessonId="lesson_103014004798420754" lessonType="lesson" lessonTime="0">
+<title>Data Privacy Laws in Brazil</title>
+<text/>
+<page type="clickAndReveal" pageid="121191328771880754" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Data Protection in Brazil</title>
+<text>
+<p>As someone who works with Brazilian data, you need to understand the unique policies in place in Brazil to keep people's information secure and make sure it's used appropriately. </p>
+<p>Select each heading to learn what you need to know about how personal data is protected in Brazil.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Here are some key considerations.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Brazilian Data Protection Act (LGPD)
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>The LGPD is Brazil's main data protection law. In a nutshell, the LGPD:</p>
+<ul>
+<li>Is concerned with personal data that can be linked to individual people, especially sensitive personal data about people's health, religious beliefs, political opinions, and so on.</li>
+<li>Focuses on when and how companies process personal data in Brazil, which includes collecting, handling, storing, analyzing, using, or sharing that data.</li>
+</ul>
+<p> </p>
+<p>If you are a processor who processes personal data or a controller who makes decisions about data processing, you need to do your part to keep people's data safe. By doing so, you can avoid fines or other penalties, and more importantly, you can help us preserve our most valuable asset – people's trust.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+When Can You Process Personal Data?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>According to the LGPD, you can only process personal data if:</p>
+<ul>
+<li>You have consent from the data subject (the person whose data you're processing), preferably in writing. You must explain what you will use the data for, and people need to opt in actively, not by default.</li>
+<li>You have a legitimate interest in the data. You must have a good reason for processing personal data.</li>
+</ul>
+<p> </p>
+<p>Special rules apply when processing children's personal data – you need informed, unambiguous, and specific consent from at least one parent/guardian.</p>
+<p>We have policies in place to make sure we get the consent we need and only collect necessary data. However, if you have any concerns, please talk to your Data Protection Officer (DPO).</p>
+<p>Select the Next arrow to continue.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="clickAndReveal" pageid="423661707535437812" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Using Personal Data in Brazil</title>
+<text>
+<div>
+<p>Data processing can be complicated, but you can make sure you always do the right thing by:</p>
+<ul>
+<li>Understanding our privacy policies.</li>
+<li>Checking that you have consent and a legitimate interest.</li>
+<li>Asking for help whenever you need it.</li>
+</ul>
+<p> </p>
+<p>Select each panel to find out about special situations where you should always ask for help.</p>
+</div>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Here are some key points you need to remember.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Transferring Data
+</text>
+</click>
+<reveal>
+<text>
+<p>From time to time, someone may ask you to transfer personal data from Brazil to another country or share access to data across countries. You should never do this without clearing it with your DPO or confirming that it's in line with company policy.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Requests from Data Subjects
+</text>
+</click>
+<reveal>
+<text>
+<p>Sometimes, our data subjects may contact us asking about the information we have about them and how it is protected. When that happens, we must respond right away to acknowledge we've received the request. We then have 15 days to send a full response. </p>
+<p>If you ever receive a data protection request from a data subject, contact your DPO immediately. </p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Unfair Discrimination
+</text>
+</click>
+<reveal>
+<text>
+<p>It's important that we never use personal data in a way that may result in unfair discrimination. If you think that might be happening, talk to your DPO.</p>
+<p>Select the Next arrow to continue.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_1375558273923698725" lessonId="lesson_1375558273923698725" lessonType="lesson" lessonTime="0">
+<title>Data Privacy Laws in Canada</title>
+<text/>
+<page type="clickAndReveal" pageid="1299544011596490467" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Data Protection in Canada</title>
+<text>
+<div>
+<p>You work with Canadian data, so you need to know what to do to protect it, respect it, and use it appropriately.</p>
+<p>Select each item to discover how Canada protects people's personal data and why it's important.</p>
+</div>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Let's examine some key concepts in this area.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Personal Information Protection and Electronic Documents Act (PIPEDA)
+</text>
+</click>
+<reveal>
+<text>
+<p>The PIPEDA applies to private businesses like ours. It focuses on personal information, which is information about an identifiable individual. We need to protect people's personal information from accidental exposure or misuse by putting appropriate safeguards in place. We must be especially careful with information that might be sensitive and when we have multiple pieces of information about people. If we transfer personal information to a third party, we are responsible for how they handle it – so we must make sure they know what to do too.</p>
+<p>Your job is to help us keep Canadians' personal information secure. We have policies in place to help, but if you see any issues, please tell your team leader so that we can do better. </p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Provincial Laws
+</text>
+</click>
+<reveal>
+<text>
+<p>British Columbia, Alberta, and Quebec have their own data protection laws in place. </p>
+<p>If you're located in one of those provinces, then PIPEDA doesn't apply to you – instead, the relevant provincial law applies. However, if you transfer information from one of those provinces to a different Canadian province or another country, then PIPEDA does apply. </p>
+<p>While the details of the provincial laws vary, they all focus on protecting personal information and making sure that it is used appropriately and respectfully. Remember, if in doubt, ask your team leader. </p>
+<p>Select the Next arrow to continue.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="clickAndReveal" pageid="5977067885654837234" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Key Points</title>
+<text>
+<p>Select each heading for guidance on what you need to do when using personal information in Canada.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Here are some good points to keep in mind.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Using Personal Information in Canada
+</text>
+</click>
+<reveal>
+<text>
+<p>If you're using personal information in Canada, there are a few practical things you need to keep in mind. </p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Key Steps
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>We can use Canadians' personal data if we follow a few simple steps:</p>
+<ul>
+<li>We have privacy policies that lay out how we will collect, use, and disclose this information.</li>
+<li>In our privacy policies, we disclose how long we will store information, when we will share it with third parties, and how people can access their information.</li>
+<li>We appoint a person – often called the Data Privacy Officer (DPO) – who will be responsible for making sure we do the right thing when it comes to personal information.</li>
+</ul>
+<p> </p>
+<p>Our main responsibility is to keep private information private – that means avoiding data breaches and ensuring information isn't shared inappropriately. We must also only use the information for the purpose identified in our privacy policies.</p>
+<p>Here's where you come in. You can help us make sure we keep people's information secure and use it correctly by understanding our privacy policies and speaking up if you have any concerns or questions.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Our Customers' Rights
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>Under Canadian law, our customers have the right to:</p>
+<ul>
+<li>Access the personal information we have about them.</li>
+<li>Know who is responsible for collecting their personal information.</li>
+<li>Know why their personal information is being collected.</li>
+<li>Challenge any inaccuracies in their personal information.</li>
+</ul>
+<p> </p>
+<p>If a customer ever asks you about their personal information, talk to your DPO right away.</p>
+<p>Select the Next arrow to continue.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_2409420870137117204" lessonId="lesson_2409420870137117204" lessonType="lesson" lessonTime="0">
+<title>Data Privacy Laws in China</title>
+<text/>
+<page type="clickAndReveal" pageid="2746527596664534685" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Key Points</title>
+<text>
+<p>Select each image to learn how China protects people's personal information.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Let's take a look at some key elements of this topic.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Data Protection in China
+</text>
+</click>
+<reveal>
+<text>
+<p>You work with data in China, so you need to understand how to protect and use that data in the right way.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Personal Information Protection Law (PIPL)
+</text>
+</click>
+<reveal>
+<text>
+<p>The PIPL is China's main privacy law. It's focused on protecting people's personal information and safeguarding China's national security and the public interest.</p>
+<p>The PIPL defines personal information as any recorded information about an identifiable person. The PIPL is particularly concerned with sensitive personal information, which is information that, if leaked or misused, would embarrass a person or endanger their safety or their property.</p>
+<p>The PIPL covers data handling – which means the collection, storage, use, processing, transmission, publishing, and other treatment of information. It applies to any data handling of personal information inside China, as well as outside China when it's aimed at providing products or services to people in China, or analyzing the behavior of Chinese people.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Other Important Guidelines 
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>The PIPL focuses on protecting personal information. There are other laws that cover other aspects of data protection and privacy, most importantly:</p>
+<ul>
+<li>The Chinese Cybersecurity Law, which requires companies operating in China to store certain information within China and allow state agencies access to it.</li>
+<li>The Chinese Data Security Law, which is focused on data safety and security, especially of information that could endanger China's national security or the public interest of Chinese citizens.</li>
+</ul>
+<p> </p>
+<p>Our company has procedures in place to make sure that we treat people's information with respect, protect it, and use it appropriately. However, if you have any concerns, please speak to your team leader – we're counting on you to help us do the right thing when it comes to handling data in China.</p>
+<p>Select the Next arrow to continue.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="clickAndReveal" pageid="2845874079219414381" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Using Personal Information in China</title>
+<text>
+<p>If you're working with personal information in China, there are a few practical things you need to know. However, the most important thing is to pause whenever you're using data. Take a breath and ask yourself what you're doing to make sure the information is used responsibly.</p>
+<p>Select each panel for important guidelines on how to use personal information in China the right way.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Here are some useful tips.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Key Considerations
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>The PIPL allows businesses like ours to use personal data, as long as we have consent, or we need to use the information:</p>
+<ul>
+<li>To enter a contract with the person concerned, or for human resources management, or collective labor contracts purposes.</li>
+<li>To fulfill our legal responsibilities or obligations.</li>
+<li>To respond to a public health or other emergency.</li>
+<li>To carry out news reporting or media monitoring that is in the public interest.</li>
+<li>To process data that individuals disclose themselves, within reason.</li>
+</ul>
+<p> </p>
+<p>We need additional consent if we plan to share the personal information that we collect with a third party, publicly disclose it, or transfer it outside of China. We also need separate consent for handling sensitive personal information.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Our Customers' Rights
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>Under the PIPL, our customers have certain rights as data subjects – people whose information we gather, store, and use. Before we process their personal information, we must give them a privacy notice that tells them who we are, how and why we are collecting their information, how long we will keep the information, and how they can exercise their rights. Those rights include the right to:</p>
+<ul>
+<li>Know what information we collect.</li>
+<li>Limit or refuse permission for others to handle, access, or copy their information.</li>
+<li>Request corrections or deletion of their information.</li>
+<li>Withdraw their consent to handle their information.</li>
+<li>Request an explanation of the rules applied to handing their information.</li>
+</ul>
+<p> </p>
+<p>Select the Next arrow to continue.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_5313749531633408212" lessonId="lesson_5313749531633408212" lessonType="lesson" lessonTime="0">
+<title>Data Privacy Laws in Japan</title>
+<text/>
+<page type="clickAndReveal" pageid="5227820365711127890" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Data Protection in Japan</title>
+<text>
+<p>You work with Japanese data, so you need to know how to keep that data secure and make sure it's used the right way. </p>
+<p>Select each bullet point below for details on how Japan protects people's personal data and why it matters.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Let's review some key principles.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Act on Protection of Personal Information (APPI)
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>In Japan, the main law dealing with data privacy and protection is the APPI, which was recently updated to give people more control over their data.</p>
+<p>The APPI focuses on personal information, which is information about living people in Japan that could be used to identify them. It's also concerned with sensitive personal information, which is information about race, religion, health status, and any other potentially sensitive topics.</p>
+<p>Whenever you work with personal information or sensitive personal information about Japanese customers, you should:</p>
+<ul>
+<li>Make sure that the information is kept confidential and stored securely.</li>
+<li>Use the information only in ways that are specified in our company policy.</li>
+<li>Avoid transferring the information outside Japan without people's consent.</li>
+</ul>
+<p> </p>
+<p>In addition, you must get consent before collecting sensitive personal information.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Our Customers' Rights
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>Under the APPI, people enjoy many rights as data subjects – individuals whose information we gather, store, and use. Before we collect information about data subjects, we must tell them why we are collecting it and how we will use it.</p>
+<p>Data subjects also have the right to:</p>
+<ul>
+<li>Request access to the data we have about them.</li>
+<li>Ask us to make corrections to any errors in their personal information.</li>
+<li>Request that we delete the personal information we have about them.</li>
+<li>Ask us to cease using their personal data.</li>
+<li>Sue us for any loss of privacy associated with noncompliance with the APPI.</li>
+</ul>
+<p> </p>
+<p>If you receive any data subject requests, let your supervisor know right away.</p>
+<p>Select the Next arrow to continue.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_9192195163259448686" lessonId="lesson_9192195163259448686" lessonType="lesson" lessonTime="0">
+<title>Data Privacy Laws in South Korea</title>
+<text/>
+<page type="clickAndReveal" pageid="9210372487232908686" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Key Points</title>
+<text>
+<p>Select each heading to find out how South Korea protects people's personal data.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Consider this!</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Data Protection in South Korea
+</text>
+</click>
+<reveal>
+<text>
+<p>As someone who works with South Korean data, you are on the front line, helping us do the right thing by taking care of people's information.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Personal Information Protection Act (PIPA)
+</text>
+</click>
+<reveal>
+<text>
+<p>The PIPA is South Korea's main privacy law. It gives South Koreans the power to control how their personal information is collected and used.</p>
+<p>The PIPA focuses on personal information – information about living people that identifies or could be used to identify specific individuals. It's especially concerned with sensitive personal information about individuals' beliefs, opinions, health, sexual life, and other private topics.</p>
+<p>The PIPA requires us to keep our customers' personal information safe. To help us do this, the PIPA requires us to appoint a Data Privacy Officer (DPO). The DPO is a valuable resource if you want to learn more about our policies.</p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Network Act
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>In some roles, you may collect information online to use for targeted advertising. South Korea has a special law dealing with online data collection called the Network Act.</p>
+<p>If you collect information online on behalf of our company, you need to be sure that you:</p>
+<ul>
+<li>Tell people what type of information you're collecting.</li>
+<li>Allow people to opt out.</li>
+<li>Let people know how long you'll retain their information.</li>
+<li>Get people's consent before transferring their information outside of South Korea.</li>
+</ul>
+<p> </p>
+<p>Select the Next arrow to continue.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="clickAndReveal" pageid="232493040879471467" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Using Personal Information in South Korea</title>
+<text>
+<p>If you're working with personal information in South Korea, there are a few practical things you need to know about what to do and how to do it.</p>
+<p>Select each image for important insight on how to use personal information in South Korea safely and appropriately.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Here are some key points you need to remember.</inspireTranscript>
+</audioTranscript>-->
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Key Steps
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>The PIPA allows businesses like ours to use personal information if we follow a few simple steps:</p>
+<ul>
+<li>We must disclose what information we are going to collect, what we're going to do with it, and how long we will keep and use it – and we must inform people of their rights under PIPA.</li>
+<li>We must get consent before we collect personal information – people have the right to opt out. We must also get separate consent to collect and use sensitive personal information.</li>
+<li>If we plan to share personal information with a third party, we need separate consent – and we must disclose who we're sharing their information with and why.</li>
+<li>If we want to transfer South Koreans' personal information to another country, we must get their consent first.</li>
+</ul>
+<p> </p>
+<p>We have policies in place to make sure we take all the right steps. However, if you have any concerns, talk to your team leader or DPO. By speaking up, you can help us avoid penalties or other sanctions and take better care of the people who trust us with their information.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Our Customers' Rights
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p>Under the PIPA, people enjoy many rights as data subjects – individuals whose information we gather, store, and use.</p>
+<p>As data subjects, they have the right to:</p>
+<ul>
+<li>Request copies of the personal information we have about them.</li>
+<li>Ask us to correct errors in their personal information.</li>
+<li>Request that we delete the personal information we have about them.</li>
+<li>Ask us to suspend our use of their personal information.</li>
+</ul>
+<p> </p>
+<p>If you receive any data subject requests, let your DPO know right away.</p>
+<p>Select the Next arrow to continue.</p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_6738453955050886303" lessonId="lesson_6738453955050886303" lessonType="lesson" lessonTime="0">
+<title>Speaking Up</title>
+<text/>
+<page type="contentPage" pageid="6754978795807662176" pageTime="0" showTitle="true" hidden="false">
+<title>Speaking Up</title>
+<text>
+<p>
+<p>It is your duty to know what personal and protected information is, how to identify it and keep it safe, and what to do in the event of a disclosure or a security incident.</p>
+<p>You need to:</p>
+<ul>
+<li>Report breaches of data security via the appropriate channels. If you don't know what the appropriate channels are, you can find out in the <span class="inlineComponentBtn" data-type="contacts" onclick="interface.openInterfaceComponent($(this), 'contacts')">Contact Details</span> section.</li>
+<li>Use personal data/personally identifiable information (PII) only in a manner consistent with the purpose for which it is obtained.</li>
+<li>Store data only for as long as is necessary.</li>
+<li>Encrypt personal data/PII whenever it is stored.</li>
+<li>Remember that personal data/PII should only be used and stored in a controlled environment. Taking such data off-premises should be avoided.</li>
+<li>Be aware that failure to protect personal data/PII can result in significant fines and reputational damage.</li>
+</ul>
+</p>
+</text>
+<text>
+<p>
+<p>Remember, it's your responsibility to speak up if you become aware of any potential or actual violations of privacy law or company policy. Make sure you know to whom to direct your questions and to whom to report concerns. Company policy prohibits retaliation for raising concerns and protects you when you speak up, as well as when you cooperate with investigations. If you experience, witness, or suspect retaliation, please report it immediately. We take all claims of retaliation seriously and investigate and take action promptly.</p>
+</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Remember, you have a responsibility to help us remain compliant.</inspireTranscript>
+</audioTranscript>-->
+</page>
+<page type="consent" pageid="8691689976164984847" pageTime="0" showTitle="true" hidden="false">
+<title>Before You Go...</title>
+<text>
+<p>Select each statement to confirm that you will protect our data at all times. Then, select Submit.</p>
+</text>
+<!--<audioTranscript>
+<inspireTranscript>Your role in keeping us compliant is vital.</inspireTranscript>
+</audioTranscript>-->
+<consentText> </consentText>
+<item consentname="item1">
+<text>
+I understand what data privacy is and why it's important.
+</text>
+</item>
+<item consentname="item2">
+<text>
+I understand how and when to seek support or escalate my concerns about data privacy.
+</text>
+</item>
+<bulletin pageid="86916" isMandatory="" type="">
+<bulletinText/>
+</bulletin>
+</page>
+</topic>
+<bulletins>
+<bulletin pageid="368339936313519706" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="9188641055665108974" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="8560828788085016979" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="1792254556134492396" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="3317563052115216204" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="9073230446823114260" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="1540550464093318934" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="600616186315066913" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="743658299665998246" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="2268966799941689349" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="1480797774657384748" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="198470235869785612" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="889274338057837303" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="4995696939699127101" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="473828573913209888" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="5424736285613652020" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="9205685364505655979" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="2144621478647989149" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="8837181443976338178" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="6322166701342875678" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="7885482328487203614" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="1506170325137662435" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="6195985568342928048" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="8787146211531317002" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="2226850772043681219" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="7420673623970872572" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="5891467808859401458" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="7353981912541357328" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="7955551886668727737" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="121191328771880754" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="423661707535437812" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="1299544011596490467" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="5977067885654837234" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="2746527596664534685" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="2845874079219414381" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="5227820365711127890" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="9210372487232908686" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="232493040879471467" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="6754978795807662176" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="8691689976164984847" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+</bulletins>
+<resultFeedback>
+<pass buttonState="show" buttonText="Print Certificate">
+<text/>
+</pass>
+<attemptFail>
+<text/>
+</attemptFail>
+</resultFeedback>
+</course>

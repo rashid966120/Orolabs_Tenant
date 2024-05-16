@@ -1,0 +1,1995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course xmlns="http://lrncontent.lrn.com/schema/lcec/lrncourse" xmlns:math="http://exslt.org/math" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation="http://lrncontent.lrn.com/schemaLocationa/lcec/lrncourse file:///c:/perforce/lcec/tools-internal/CourseAuthoring/LRNCourse.xsd" appType="ajax" hasCert="false" custom="true" hasEOCS="false" hasLandingPage="true" isCustomizeKnowledgeCheck="false" isRandomQuiz="false" isPoolingEnabled="false" isKCPoolOnce="false" isRetryQuizRandomEnabled="false" isKnowledgeCheckRetry="false" hasTileMenu="true" media="video audio" lang="en" systemId="7240400651" baseCatalogId="HSC001" catalogId="HSC001-a92en" isIPKc="false">
+<modified>2024-04-23 05:25:53.385</modified>
+<title>Code of Conduct </title>
+<landingPageDesc>
+<text>
+<pageCaption/>
+</text>
+<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>
+</landingPageDesc>
+<description>
+<p>Enviri Code of Conduct</p>
+</description>
+<topic catname="Lesson_6730289995094341015" lessonId="lesson_6730289995094341015" lessonType="lesson" lessonTime="0">
+<title>Training Tips</title>
+<text/>
+<page type="contentPage" pageid="4887989369388476070" pageTime="0" showTitle="true" hidden="false">
+<title>Tips for Navigating this Training</title>
+<text>
+<div>
+<p> </p>
+<p><span style="font-size:20px"><strong>1. Training Modules</strong></span></p>
+<ul>
+<li><span style="font-size:20px">To progress through the training, click on each lesson shown on the main screen.</span></li>
+<li>
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><span style="font-size:20px"><strong>Note:</strong> You'll find "Previous" and "Next" buttons at the bottom right of each page to move forward or backward.</span></div>
+</li>
+</ul>
+<p> </p>
+<p><span style="font-size:20px"><strong>2. Settings (e.g. Audio):</strong></span></p>
+<ul>
+<li><span style="font-size:20px">Locate the icon on the upper right side of the training. This icon has three dots arranged in a horizontal line <span style="font-family:Courier New,Courier,monospace"><code><span style="background-color:#4e5f70"> </span><span style="color:#ffffff"><span style="background-color:#4e5f70">ooo </span> </span></code></span></span></li>
+<li><span style="font-size:20px">Once you spot the icon, click on it. This will reveal an expanded menu for additional options.</span></li>
+</ul>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript> </inspireTranscript>
+</audioTranscript>
+</page>
+</topic>
+<topic catname="Lesson_9048771066172790359" lessonId="lesson_9048771066172790359" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Commitment to Integrity</title>
+<adaptive passingCount="2" randomize="true">
+<landing lessonId="lesson_9048771066172790359" pageid="adapt_001_1">
+<title>Ready to show what you know?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_9048771066172790359" pageid="adapt_001_3" qId="2" interactionId="QQ-lesson_9048771066172790359-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Ling’s boss misled a customer about the safety specifications of a product. The issue is not serious, but the customer might not have signed the contract if they had known. Ling’s colleague advises her to say nothing – the safety issue is minor, and Ling’s team is in line for a big bonus for completing it.</span></p>
+<p><span style="font-size:20px">Is this good advice?</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_9048771066172790359" pageid="adapt_001_6" qId="5" interactionId="QQ-lesson_9048771066172790359-5" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Devra overhears a customer, Hyun, asking her colleague Shireen to meet him at a bar one night. Shireen says no, and Hyun tells her that if she doesn’t go out with him, he will find another supplier. This customer’s business is important, but Devra decides to report the issue to her manager and compliance team.</span></p>
+<p><span style="font-size:20px">Did Devra do the right thing?</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_9048771066172790359" pageid="adapt_001_7">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>You’ve got it!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>Sorry, you’ll need to retake the assessment.</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_9048771066172790359" pageid="adapt_001_8">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="clickAndReveal" pageid="2892610208531262427" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Commitment to Integrity</title>
+<text>
+<div>
+<p><span style="font-size:20px">You are expected to do business the right way, consistent with Enviri Values. We are all responsible for promoting and maintaining an ethical business culture.</span></p>
+<p><span style="font-size:20px">Our company is passionate about doing the right thing and having a positive impact, and we believe that our values – how we do things, treat people, and work together – can make a real difference.</span></p>
+<p><span style="font-size:20px">Select each item to learn more about what our Code of Conduct can do for you.</span></p>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript>Remember these key points to help you in the future. </inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Living Our Values
+</text>
+</click>
+<reveal>
+<text>
+<p><span style="font-size:20px">Our Code of Conduct is designed to help you live our values.</span></p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Delivering Results
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">The choices you make and the actions you take can have far-reaching consequences.</span></p>
+<p><span style="font-size:20px">We know you want to have a positive impact with everything you do, and our Code of Conduct is there to support you. It can help you think broadly about risks and opportunities so that you can deliver results the right way.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Doing Business the Right Way
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">It can be tempting to take shortcuts or ignore requirements when focused on a business goal. Our Code of Conduct contains the basic principles that you should follow to conduct business the right way.</span></p>
+<p><span style="font-size:20px">If you encounter something that is not covered by our Code, there are several resources to assist you: your manager, Human Resources, Global Compliance &amp; Ethics, or the Integrity Line.</span></p>
+<p><span style="font-size:20px">Select the Next arrow to continue.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="contentPage" pageid="8777756639320211196" pageTime="0" showTitle="true" hidden="false">
+<title>Pause and Reflect</title>
+<text>
+<p><span style="font-size:20px">The next time you find yourself in a tough situation, remember that you can always turn to our Code of Conduct for help. If a policy, local law, or custom conflicts with our Code, follow the stricter requirement or contact Global Compliance &amp; Ethics for advice at compliance@enviri.com. </span></p>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>Here are some key points you need to remember.</p>
+</inspireTranscript>
+</audioTranscript>
+</page>
+</topic>
+<topic catname="Lesson_5937736156054356181" lessonId="lesson_5937736156054356181" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Conflicts of Interest</title>
+<adaptive passingCount="3" randomize="true">
+<landing lessonId="lesson_5937736156054356181" pageid="adapt_002_1">
+<title>Ready to put your knowledge to the test?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_5937736156054356181" pageid="adapt_002_2" qId="1" interactionId="QQ-lesson_5937736156054356181-1" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">There is no need to disclose potential conflicts of interest – only actual conflicts must be disclosed.</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">True</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">False</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_5937736156054356181" pageid="adapt_002_4" qId="3" interactionId="QQ-lesson_5937736156054356181-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">You are participating in the hiring process for a new team member, and your cousin applies for the position. You may interview her and do <u>not</u> need to disclose your relationship.</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">True</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">False</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_5937736156054356181" pageid="adapt_002_6" qId="5" interactionId="QQ-lesson_5937736156054356181-5" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px"> You work in the Procurement department, and your brother-in-law is a contractor bidding for a project in your company, what is the appropriate action?</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Disclose the relationship and avoid involvement in the selection process</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">Advocate for your brother-in-law's company during the selection process</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_2>
+<p><span style="font-size:20px">Pretend the relationship doesn't exist to avoid conflict</span></p>
+</adpAssessmentAnswer_2>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_5937736156054356181" pageid="adapt_002_7">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>Good job!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>You’re not there yet!</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_5937736156054356181" pageid="adapt_002_8">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="videoSlideShow" pageid="6869471868770194410" pageTime="0" showTitle="true" hidden="false">
+<title>The Power of Integrity</title>
+<text/>
+<panel catname="panel1">
+<text/>
+</panel>
+<audioTranscript>
+<inspireTranscript>
+<p>Let's explore the key areas of this topic.</p>
+<p>Conflicts of interest occur when our personal interests conflict with our organization’s interests.</p>
+<p>Any situation where something interferes with your ability to do your work or make unbiased decisions for our company could be a conflict of interest.</p>
+<p>Avoiding conflicts of interest is core to our integrity.</p>
+<p>And when we choose to act with integrity, we inspire others to do the same.</p>
+<p>So next time you find yourself facing a conflict of interest, remember the power of integrity and choose to do what’s right.</p>
+</inspireTranscript>
+</audioTranscript>
+</page>
+<page type="clickAndReveal" pageid="5957565958949533013" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Building Trust</title>
+<text>
+<p><span style="font-size:20px">Select each item to find out how to identify, understand, and manage conflicts of interest.</span></p>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>Let’s take a look at some key elements of this topic.</p>
+</inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Understanding Conflicts of Interest
+</text>
+</click>
+<reveal>
+<text>
+<p><span style="font-size:20px">A conflict of interest is any situation in which something – an activity or a relationship, for example – interferes with or appears to interfere with your ability to do your work or make unbiased decisions on behalf of our company.</span></p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Recognizing Conflicts of Interest
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">There are different types of conflicts of interest:</span></p>
+<ul>
+<li><span style="font-size:20px">Potential – A situation that may develop into, or has the potential to become, an actual conflict of interest</span></li>
+<li><span style="font-size:20px">Apparent – A situation in which a reasonable person would think someone’s judgment is likely to be compromised</span></li>
+<li><span style="font-size:20px">Actual – A situation where financial or other considerations compromise someone’s objectivity, professional judgment, integrity, or ability to do their job</span></li>
+</ul>
+<p> </p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Managing Conflicts of Interest
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">There are a few ways to manage a potential conflict of interest.</span></p>
+<ol>
+<li><span style="font-size:20px">Company policy: Start by checking our Code of Conduct or company policy for procedures on conflicts of interest.</span></li>
+<li><span style="font-size:20px">Disclosure: You should disclose, in writing, any conflicts or potential conflicts of interest as soon as possible, with a Disclosure Form.</span></li>
+<li><span style="font-size:20px">Guidance: Once Global Compliance is notified, they can offer guidance. Contact Global Compliance &amp; Ethics with any further questions.</span></li>
+</ol>
+<p> </p>
+<p><span style="font-size:20px">Select the Next arrow to continue.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_530876755414371595" lessonId="lesson_530876755414371595" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Bribery and Other Improper Payments</title>
+<adaptive passingCount="3" randomize="true">
+<landing lessonId="lesson_530876755414371595" pageid="adapt_003_1">
+<title>Ready for a quick assessment?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_530876755414371595" pageid="adapt_003_4" qId="3" interactionId="QQ-lesson_530876755414371595-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Roberta gives all her customers a coffee cup inscribed with her company’s logo as a holiday gift.</span></p>
+<p><span style="font-size:20px">Is this a potential bribe?</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_530876755414371595" pageid="adapt_003_5" qId="4" interactionId="QQ-lesson_530876755414371595-4" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">When you refuse a bribe request, it’s important to be clear and emphatic. Make sure the person asking for a bribe understands that no bribes will be paid.</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">True</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">False</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_530876755414371595" pageid="adapt_003_6" qId="5" interactionId="QQ-lesson_530876755414371595-5" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Sara is responsible for business development in a promising new market. A local consultant tells her that if she wants to win government contracts, she should contribute to a local charity run by the spouse of an important government official.</span></p>
+<p><span style="font-size:20px">Is this a potential bribe?</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_530876755414371595" pageid="adapt_003_7">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>Well done!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>You’ll need to review this assessment.</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_530876755414371595" pageid="adapt_003_8">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="clickAndReveal" pageid="9098676915776016828" pageTime="0" showTitle="true" count="" hidden="false">
+<title>We’re All at Risk</title>
+<text>
+<div>
+<p><span style="font-size:20px">Enviri has zero tolerance for any form of bribery or corruption, regardless of local business practices. Bribery and improper payments are always wrong and can hurt people, communities, and entire societies.</span></p>
+<p><span style="font-size:20px">Select each item for answers to six common questions about bribery.</span></p>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>We’ll begin by examining some important facts about this topic.</p>
+</inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Why Does Bribery Occur?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Bribery often occurs when people are under pressure to hit ambitious targets, or are fearful of losing their jobs.</span></p>
+<p><span style="font-size:20px">We all want to believe that we would never offer or take a bribe. But even good people with honorable intentions can find themselves in situations where they feel that paying or accepting a bribe is their only choice.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+What Is Bribery?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Bribery means giving, offering, or promising something of value to gain an unfair advantage. This can include a lot of different behaviors:</span></p>
+<ul>
+<li><span style="font-size:20px">Stephanie promises an all-expenses-paid trip to Paris to persuade a customer to renew a contract.</span></li>
+<li><span style="font-size:20px">Dieter offers a government official an envelope of cash to win a supply contract.</span></li>
+</ul>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Are "Facilitation Payments" Permitted?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Enviri prohibits "facilitation payments." Facilitation payments are small payments demanded by foreign government officials or agencies to perform routine functions such as inspecting goods or securing shipping permits. If you are asked to make a facilitation payment, you should decline the request and discuss the matter with Global Compliance &amp; Ethics.</span></p>
+<p> </p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item4">
+<click>
+<text>
+What Does the Law Say?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Bribery laws vary across different countries, but most have made bribery illegal, especially when it involves government officials. Many nations even have laws that extend beyond their borders. For example, the US Foreign Corrupt Practices Act (FCPA) and the UK Bribery Act apply to companies anywhere in the world, not just at home.</span></p>
+<p><span style="font-size:20px">It’s important to understand our anti-corruption policy and our Code of Conduct. If ever in doubt please contact Global Compliance &amp; Ethics.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item5">
+<click>
+<text>
+What About Gifts?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">It can be hard sometimes to tell the difference between a gift and a bribe.</span></p>
+<ul>
+<li><span style="font-size:20px">Gifts are modest, and not cash.</span></li>
+<li><span style="font-size:20px">Gifts have a legitimate business purpose.</span></li>
+<li><span style="font-size:20px">Gifts are never intended to influence someone.</span></li>
+<li><span style="font-size:20px">Gifts are given with no expectation of reward.</span></li>
+</ul>
+<p> </p>
+<p><span style="font-size:20px">If you are in any doubt, consult our Code of Conduct or Global Compliance &amp; Ethics.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item6">
+<click>
+<text>
+Why Are Government Officials Important?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Bribery is often most serious when it involves government officials. Bribes may be in the form of direct payments to government officials, indirect payments through their family members, or even payments through charities they favor or control. Bribes can result in severe penalties for both the individual and the organization.</span></p>
+<p><span style="font-size:20px">A government official is anyone who works in any branch of government or at state-owned enterprises.</span></p>
+<p><span style="font-size:20px">At our company, we never<strong> </strong>bribe anyone. If someone requests a bribe, you must decline the request and notify Global Compliance &amp; Ethics.</span></p>
+<p><span style="font-size:20px">Select the Next arrow to continue.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="clickAndReveal" pageid="4289356293698882843" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Anti -Bribery</title>
+<text>
+<div>
+<p><span style="font-size:20px">Dealing with a request for a bribe can be stressful, and when you’re under pressure, it can be easy to say yes without thinking. That’s why it’s important to have a plan.</span></p>
+<p><span style="font-size:20px">Select each item to learn ways to handle a request for a bribe.</span></p>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>Let’s find out how you can get it right.</p>
+</inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Be Prepared
+</text>
+</click>
+<reveal>
+<text>
+<p><span style="font-size:20px">Be realistic about the chances you’ll be asked for a bribe. In some regions, it can be quite common.</span></p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Be Clear
+</text>
+</click>
+<reveal>
+<text>
+<p><span style="font-size:20px">Our company never pays bribes, and you need to make that clear to anyone who asks. Regardless of local practice, make sure you avoid even the appearance of a bribe, kickback, or improper payment.</span></p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Report It
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">If you are uncertain about what to do, contact Global Compliance &amp; Ethics.</span></p>
+<p><span style="font-size:20px">Select the Next arrow to continue.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_1548075817880965425" lessonId="lesson_1548075817880965425" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Workplace Harassment</title>
+<adaptive passingCount="2" randomize="true">
+<landing lessonId="lesson_1548075817880965425" pageid="adapt_004_1">
+<title>Ready to put what you’ve learned into practice?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_1548075817880965425" pageid="adapt_004_3" qId="2" interactionId="QQ-lesson_1548075817880965425-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Saira has been working in a factory for the past six months. One day, Frank, a co-worker, puts several sexually suggestive pictures up on the factory walls. Saira feels uncomfortable and asks Frank to take down the pictures. He refuses and tells Saira that she is “jealous because she doesn’t look like the models in the pictures.”</span></p>
+<p><span style="font-size:20px">Could this be a case of harassment?</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_1548075817880965425" pageid="adapt_004_4" qId="3" interactionId="QQ-lesson_1548075817880965425-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Greta has just joined a new production team. One day, during an after-work pizza party at the office, the team is laughing and joking around. Greta joins in by making a joke about Dieter’s foreign accent. The next day, Greta discovers that Dieter was offended by the remark. Greta is surprised; she considers herself a progressive person and didn’t intend to offend Dieter.</span></p>
+<p><span style="font-size:20px">Since Greta didn’t intend to offend him, this is not considered harassment.</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">True</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">False</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_1548075817880965425" pageid="adapt_004_7">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>You’ve passed!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>You’re not there yet!</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_1548075817880965425" pageid="adapt_004_8">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="clickAndReveal" pageid="1939714516328762907" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Dignity and Respect</title>
+<text>
+<div>
+<p><span style="font-size:20px">All employees should be able to work in an environment free of harassment, bullying, and abusive conduct. At our company, we never tolerate harassment or discrimination. Instead, we treat every colleague with dignity and respect.</span></p>
+<p><span style="font-size:20px">Select each item to learn how to recognize and prevent harassment.</span></p>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript>Let’s consider some of the key concepts in this area.</inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+What Is Harassment?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Harassment is any unwelcome behavior, whether physical, verbal, or visual that creates an offensive, hostile, or intimidating environment.</span></p>
+<p><span style="font-size:20px">Our Code of Conduct has more detail on how to recognize harassment.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+How Can I Prevent Harassment?
+</text>
+</click>
+<reveal>
+<text>
+<ul>
+<li><span style="font-size:20px">Treat everyone around you as a human being worthy of respect.</span></li>
+<li><span style="font-size:20px">Communicate in ways that build trust and openness.</span></li>
+<li><span style="font-size:20px">Pause to think before you do or say anything that might be offensive.</span></li>
+<li><span style="font-size:20px">Avoid inappropriate behaviors and keep your actions professional.</span></li>
+<li><span style="font-size:20px">Speak up when you see inappropriate conduct.</span></li>
+</ul>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+What Should I Do If I See Something?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">If you see misconduct, you may be worried about the consequences of speaking up. Our company has a zero-tolerance policy when it comes to harassment. We will never allow retaliation against someone who makes or assists with a complaint in good faith. If you are ever in doubt, report it to Global Compliance &amp; Ethics or the <a href="https://app.convercent.com/en-us/LandingPage/361275d3-0a1a-e711-8111-000d3ab2feeb/">Integrity Line</a> immediately.</span></p>
+<p><span style="font-size:20px">Select the Next arrow to continue.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_4177433979779819685" lessonId="lesson_4177433979779819685" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Confidential and Proprietary Information</title>
+<adaptive passingCount="2" randomize="true">
+<landing lessonId="lesson_4177433979779819685" pageid="adapt_005_1">
+<title>Time for a quick assessment.</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_4177433979779819685" pageid="adapt_005_3" qId="2" interactionId="QQ-lesson_4177433979779819685-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Maria works remotely. She uses her company’s virtual private network (VPN) whenever she connects to her company servers, uses a strong password on her laptop, and keeps her laptop locked in her desk when she isn’t using it.</span></p>
+<p><span style="font-size:20px">Is Maria taking the right steps to protect her company’s IP?</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_4177433979779819685" pageid="adapt_005_4" qId="3" interactionId="QQ-lesson_4177433979779819685-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Ivan is at a conference. After a session on networking, he finds a document someone dropped. It’s on the letterhead of an important supplier and details the pricing the supplier offers to many of Ivan’s competitors.</span></p>
+<p><span style="font-size:20px">Should Ivan use this information to negotiate a better deal with the supplier?</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_4177433979779819685" pageid="adapt_005_7">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>Excellent work!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>Sorry, you didn’t pass!</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_4177433979779819685" pageid="adapt_005_8">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="clickAndReveal" pageid="4101419713157644131" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Keep Our Information Safe</title>
+<text>
+<div>
+<p><span style="font-size:20px">By protecting our confidential information, you protect our company.</span></p>
+<p><span style="font-size:20px">Select each item to learn more about the types of information that must be kept private and how to handle such information.</span></p>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>Here are some key considerations.</p>
+</inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+What Is Confidential and Proprietary Information?
+</text>
+</click>
+<reveal>
+<text>
+<p><span style="font-size:20px">Confidential information is private or secret data, and proprietary information is data that we own. Usually, our confidential and proprietary information is considered our intellectual property (IP). IP is information with material value, such as the code that makes up software or the marketing ideas that drive sales.</span></p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+What About Information That Belongs to Others?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">We can use others’ IP under some circumstances, such as using images once we’ve paid a royalty. Sometimes, however, you may come across confidential and proprietary information that belongs to other companies or individuals. Never use IP you don’t have a legitimate right to and always treat others’ IP with respect.</span></p>
+<p><span style="font-size:20px">Select the Next arrow to continue.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+What Is Personally Identifiable Information?
+</text>
+</click>
+<reveal>
+<text>
+<p><span style="font-size:20px">Personally Identifiable Information (PII) is data that can be linked to a specific individual. PII is considered sensitive information such as a home address, account number, phone number, or financial data. Everyone must take responsibility for safeguarding not only employee and customer information but also private company data. We do not release personal information except as permitted by applicable law.</span></p>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_4454649315291319611" lessonId="lesson_4454649315291319611" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Accurate Books and Records</title>
+<adaptive passingCount="4" randomize="true">
+<landing lessonId="lesson_4454649315291319611" pageid="adapt_006_1">
+<title>Time for a quick assessment.</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_4454649315291319611" pageid="adapt_006_2" qId="1" interactionId="QQ-lesson_4454649315291319611-1" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Tomas returned from a business trip and realized he lost his taxi receipts. For his expense report, he decides to copy his colleague Bettany’s taxi receipts – she was on the same trip and they often traveled together.</span></p>
+<p><span style="font-size:20px">Is Tomas doing his part to maintain accurate records?</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_4454649315291319611" pageid="adapt_006_4" qId="3" interactionId="QQ-lesson_4454649315291319611-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Accurate recordkeeping can play an important role in identifying and preventing money laundering.</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">True</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">False</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_4454649315291319611" pageid="adapt_006_5" qId="4" interactionId="QQ-lesson_4454649315291319611-4" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">It’s okay to create an unrecorded cash fund as long as you only use the fund to pay legitimate expenses.</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">True</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">False</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_4454649315291319611" pageid="adapt_006_6" qId="5" interactionId="QQ-lesson_4454649315291319611-5" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Michelle receives an invoice from a supplier that includes three small payments labeled “Miscellaneous.” Michelle tells the supplier that she’ll need details about who the payments went to and why.</span></p>
+<p><span style="font-size:20px">Is Michelle doing her part to maintain accurate records?</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_4454649315291319611" pageid="adapt_006_7">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>Good job!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>Sorry, you didn’t pass!</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_4454649315291319611" pageid="adapt_006_8">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="videoSlideShow" pageid="7252878642749686247" pageTime="0" showTitle="true" hidden="false">
+<title>Accuracy Is the Best Policy</title>
+<text/>
+<panel catname="panel1">
+<text/>
+</panel>
+<audioTranscript>
+<inspireTranscript>
+<p>We'll start by looking at why this topic is important.</p>
+<p>We believe in honesty, fairness, and transparency.</p>
+<p>Living these values means making sure our books reflect what’s really happening in our business.</p>
+<p>Poor recordkeeping makes us vulnerable to financial crime and makes it harder for us to identify threats to our business.</p>
+<p>Accurate books and records empower us to make informed decisions, to take calculated risks, and to seize opportunities with confidence.</p>
+</inspireTranscript>
+</audioTranscript>
+</page>
+<page type="clickAndReveal" pageid="4363762699718986905" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Keeping Our Records Clean</title>
+<text>
+<div>
+<p><span style="font-size:20px">Inaccurate records have consequences. By ensuring our books and records are accurate, we can protect ourselves and our stakeholders.</span></p>
+<p><span style="font-size:20px">Select each item to explore why accurate records matter and how you can help.</span></p>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>The first thing we’re going to do is explore this topic in a little more detail. </p>
+</inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Consequences of Poor Recordkeeping
+</text>
+</click>
+<reveal>
+<text>
+<ul>
+<li><span style="font-size:20px">Money laundering – Money laundering finances crime. Accurate bookkeeping helps us identify and prevent it.</span></li>
+<li><span style="font-size:20px">Bribery and corruption – Keeping accurate records in vulnerable areas of our business helps keep us and our stakeholders safe from corruption.</span></li>
+</ul>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Expense Reports and Timesheets
+</text>
+</click>
+<reveal>
+<text>
+<ul>
+<li><span style="font-size:20px">Never use legitimate receipts for non-business-related activities.</span></li>
+<li><span style="font-size:20px">Never overstate expenses by doctoring paperwork.</span></li>
+<li><span style="font-size:20px">Never record incorrect times on your timesheet or misreport how long you have worked.</span></li>
+</ul>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+Tax Evasion: A Serious Offense
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Tax evasion involves illegal actions to reduce tax liability by deliberately underreporting income or inflating deductions.</span></p>
+<ul>
+<li><span style="font-size:20px">Legal repercussions: Heavy fines, imprisonment, or both.</span></li>
+<li><span style="font-size:20px">Reputational damage: Loss of trust and credibility.</span></li>
+</ul>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item4">
+<click>
+<text>
+What You Can Do
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<ul>
+<li><span style="font-size:20px">Record all assets, liabilities, revenues, expenses, and business transactions completely, accurately, in the proper period, and on time.</span></li>
+<li><span style="font-size:20px">Never, for any reason, set up or maintain cash funds, other assets, or liabilities that are secret or unrecorded.</span></li>
+<li><span style="font-size:20px">Use thoughtful, appropriate, and accurate wording when creating records.</span></li>
+<li><span style="font-size:20px">Maintain and destroy company records in compliance with our records management policy and record retention protocols.</span></li>
+<li><span style="font-size:20px">Never conceal or destroy documents or records that are subject to investigation or that may be used in an official proceeding.</span></li>
+<li><span style="font-size:20px">Adhere to all local and international tax laws and regulations.</span></li>
+<li><span style="font-size:20px">Consult our Code of Conduct, your team leader, or Global Compliance &amp; Ethics when you have questions or concerns.</span></li>
+</ul>
+<p> </p>
+<p><span style="font-size:20px">Select the Next arrow to continue.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_2700748064040150311" lessonId="lesson_2700748064040150311" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Insider Trading</title>
+<adaptive passingCount="2" randomize="true">
+<landing lessonId="lesson_2700748064040150311" pageid="adapt_007_1">
+<title>Ready for a quick assessment?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_2700748064040150311" pageid="adapt_007_3" qId="2" interactionId="QQ-lesson_2700748064040150311-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Rafiq’s friend Tahir pulls him aside at dinner and tells him that a company they have both invested in has recently lost a huge contract. The information is not yet public. Tahir advises Rafiq to sell his shares before the news breaks.</span></p>
+<p><span style="font-size:20px">If Rafiq sells his shares, would that be insider trading?</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_2700748064040150311" pageid="adapt_007_4" qId="3" interactionId="QQ-lesson_2700748064040150311-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Material information is information a reasonable investor would consider important in deciding whether to buy, hold, or sell a security.</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">True</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">False</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_2700748064040150311" pageid="adapt_007_7">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>That’s it!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>You didn’t answer enough questions correctly!</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_2700748064040150311" pageid="adapt_007_8">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="clickAndReveal" pageid="2730492774825366503" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Acting with Integrity</title>
+<text>
+<div>
+<p><span style="font-size:20px">Insider trading doesn’t just conflict with our values; it also puts those involved at risk of prosecution and can have consequences for the financial system.</span></p>
+<p><span style="font-size:20px">Select each item to understand how to recognize and prevent insider trading.</span></p>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript>Here are some things you always need to consider.</inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+What Is Insider Trading?
+</text>
+</click>
+<reveal>
+<text>
+<p><span style="font-size:20px">Insider trading is buying or selling shares or other securities of a public company based on material, nonpublic information.</span></p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+What Is Material Information?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Information is material if a reasonable investor would consider it important in deciding whether to buy, hold, or sell a security. Examples may include:</span></p>
+<ul>
+<li><span style="font-size:20px">Projections of future earnings or losses.</span></li>
+<li><span style="font-size:20px">News of a joint venture, merger, or acquisition.</span></li>
+<li><span style="font-size:20px">A major sale of assets.</span></li>
+<li><span style="font-size:20px">A gain or loss of an important contract, customer, or supplier.</span></li>
+<li><span style="font-size:20px">Financial liquidity problems.</span></li>
+</ul>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+What Does Non-public Mean?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Non-public information is information that hasn’t been publicly released.</span></p>
+<p><span style="font-size:20px">Select the Next arrow to continue.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_186983835177886770" lessonId="lesson_186983835177886770" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Protecting Company Assets</title>
+<adaptive passingCount="2" randomize="true">
+<landing lessonId="lesson_186983835177886770" pageid="adapt_008_1">
+<title>Time for a quick assessment.</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_186983835177886770" pageid="adapt_008_3" qId="2" interactionId="QQ-lesson_186983835177886770-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">You accidentally discover sensitive financial documents left on a shared printer. What's the appropriate action?</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Return them to the appropriate department or manager</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">Leave them there for someone else to handle</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_2>
+<p><span style="font-size:20px">Dispose of them in the nearest trash bin</span></p>
+</adpAssessmentAnswer_2>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_186983835177886770" pageid="adapt_008_5" qId="4" interactionId="QQ-lesson_186983835177886770-4" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Hassan works in finance for Gro, a major retailer. He’s also starting a small marketing business. One day at work, he downloads a database of Gro’s suppliers and contacts the suppliers to offer his marketing services.</span></p>
+<p><span style="font-size:20px">Is this a misuse of company assets?</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_186983835177886770" pageid="adapt_008_6">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>Well done!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>You’ll need to review this assessment.</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_186983835177886770" pageid="adapt_008_7">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="clickAndReveal" pageid="578622529330716956" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Taking Care of Our Assets</title>
+<text>
+<div>
+<p><span style="font-size:20px">You are responsible for protecting our company assets as if they were your own.</span></p>
+<p><span style="font-size:20px">Select each item to find out what company assets are and how you can keep them safe.</span></p>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript>Here are some good points to keep in mind. </inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+What Are Company Assets?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Company assets can take many forms:</span></p>
+<ul>
+<li><span style="font-size:20px">Informational assets include data related to our business, such as a database of customer details.</span></li>
+<li><span style="font-size:20px">Financial assets include money and other financial instruments.</span></li>
+<li><span style="font-size:20px">Tangible or physical assets include material things that enable us to do our jobs, such as computers, company vehicles, or tools.</span></li>
+<li><span style="font-size:20px">Intangible assets include non-physical things such as designs, inventions, process flows, and know-how.</span></li>
+</ul>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+How Can You Protect Our Company Assets?
+</text>
+</click>
+<reveal>
+<text>
+<p><span style="font-size:20px">Look after the things you are entrusted with to ensure company assets aren’t damaged, lost, or misused.</span></p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item3">
+<click>
+<text>
+What Is Inappropriate Use?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Inappropriate use is the use of company assets without authorization or against company policy.</span></p>
+<p><span style="font-size:20px">Examples of inappropriate use:</span></p>
+<ul>
+<li><span style="font-size:20px">Sharing your company's pricing information with a friend who works for a competitor.</span></li>
+<li><span style="font-size:20px">Sharing your company laptop with a friend.</span></li>
+</ul>
+<p> </p>
+<p><span style="font-size:20px">If you have any questions, consult our Code of Conduct or email Global Compliance &amp; Ethics.</span></p>
+<p><span style="font-size:20px">Select the Next arrow to continue.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_112807635647882135" lessonId="lesson_112807635647882135" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>Speak Up</title>
+<adaptive passingCount="3" randomize="true">
+<landing lessonId="lesson_112807635647882135" pageid="adapt_009_1">
+<title>Ready to put your knowledge to the test?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_112807635647882135" pageid="adapt_009_2" qId="1" interactionId="QQ-lesson_112807635647882135-1" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">If there’s a serious problem in the workplace, it’s safe to assume that someone else has already reported it or will do so soon.</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">True</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">False</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_112807635647882135" pageid="adapt_009_4" qId="3" interactionId="QQ-lesson_112807635647882135-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Jabari sees a customer shouting at one of his colleagues in the lobby, and calling him insulting names. What the customer is saying doesn’t violate any laws. However, Jabari decides to bring it up with his manager.</span></p>
+<p><span style="font-size:20px">Is Jabari doing the right thing?</span></p>
+<p> </p>
+<p> </p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_112807635647882135" pageid="adapt_009_5" qId="4" interactionId="QQ-lesson_112807635647882135-4" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">It is only necessary to speak up when a behavior or action is illegal or conflicts with company policy.</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">True</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">False</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_112807635647882135" pageid="adapt_009_7">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>Great job!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>Not there yet!</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_112807635647882135" pageid="adapt_009_8">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="clickAndReveal" pageid="4205742967022861088" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Your Voice Matters</title>
+<text/>
+<audioTranscript>
+<inspireTranscript>
+<p>Are you ready to take action?</p>
+</inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Is what I’m seeing against our Code of Conduct?
+</text>
+</click>
+<reveal>
+<text>
+<p><span style="font-size:20px">If you’re seeing misconduct, you should report it right away. If you are ever in doubt, please contact Global Compliance &amp; Ethics.</span></p>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+Is what I'm seeing against our values?
+</text>
+</click>
+<reveal>
+<text>
+<div>
+<p><span style="font-size:20px">Remember, our values drive everything we do. If you see anything that conflicts with our values, talk to your manager or Global Compliance and Ethics.</span></p>
+<p><span style="font-size:20px">Select the Next arrow to continue.</span></p>
+</div>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+<page type="contentPage" pageid="7443680057201541805" pageTime="0" showTitle="true" hidden="false">
+<title>Speaking Up via The Integrity Line</title>
+<text>
+<p><span style="font-size:20px">The Integrity Line is available worldwide, 24 hours a day, 7 days a week, 365 days a year. Calls are not recorded and you can remain anonymous. Enviri will not tolerate retaliation against anyone who, in good faith, raises a concern, or reports misconduct. The Integrity Line offers, Phone Reporting, <a href="https://app.convercent.com/en-us/LandingPage/361275d3-0a1a-e711-8111-000d3ab2feeb/">Web Reporting</a>, and Text Reporting (U.S only 1-720-790-4489). You can also contact or email one of the Global Compliance &amp; Ethics team members directly or at compliance@enviri.com.</span></p>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>Consider this!</p>
+</inspireTranscript>
+</audioTranscript>
+</page>
+</topic>
+<topic catname="Lesson_6512426827893269723" lessonId="lesson_6512426827893269723" lessonType="adaptive" lessonTime="0" quizType="quickQuiz">
+<title>External Communications and Social Media</title>
+<adaptive passingCount="3" randomize="true">
+<landing lessonId="lesson_6512426827893269723" pageid="adapt_0010_1">
+<title>Ready to show what you know?</title>
+<text>
+<adpLandingPageContent/>
+</text>
+</landing>
+<question lessonId="lesson_6512426827893269723" pageid="adapt_0010_2" qId="1" interactionId="QQ-lesson_6512426827893269723-1" type="multipleChoice">
+<title>
+<adpQuestionTitle>Question title</adpQuestionTitle>
+</title>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Everyone should exercise good judgment and discretion on their personal and professional social networking platforms. </span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">True</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">False</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_6512426827893269723" pageid="adapt_0010_3" qId="2" interactionId="QQ-lesson_6512426827893269723-2" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">Can employees share confidential company information on their personal social media accounts?</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Yes</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">No</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<question lessonId="lesson_6512426827893269723" pageid="adapt_0010_4" qId="3" interactionId="QQ-lesson_6512426827893269723-3" type="multipleChoice">
+<title/>
+<questionText>
+<adpQuestionText>
+<adpAssessmentQuestion>
+<p><span style="font-size:20px">When communicating with external partners via email, what is the most appropriate action?</span></p>
+</adpAssessmentQuestion>
+</adpQuestionText>
+</questionText>
+<choice isCorrect="true">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_0>
+<p><span style="font-size:20px">Use professional language and tone</span></p>
+</adpAssessmentAnswer_0>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_1>
+<p><span style="font-size:20px">Share jokes and memes to lighten the mood</span></p>
+</adpAssessmentAnswer_1>
+</adpQuestionAnswer>
+</choice>
+<choice isCorrect="false">
+<adpQuestionAnswer>
+<adpAssessmentAnswer_2>
+<p><span style="font-size:20px">Discuss confidential company strategies openly</span></p>
+</adpAssessmentAnswer_2>
+</adpQuestionAnswer>
+</choice>
+<feedback/>
+</question>
+<result lessonId="lesson_6512426827893269723" pageid="adapt_0010_7">
+<feedback feedbackId="correct">
+<title> </title>
+<text>
+<adpPassMessageText>
+<p>You’ve got it!</p>
+</adpPassMessageText>
+</text>
+</feedback>
+<feedback feedbackId="incorrect">
+<title> </title>
+<text>
+<adpFailMessageText>
+<p>Sorry, you’ll need to retake the assessment.</p>
+</adpFailMessageText>
+</text>
+</feedback>
+</result>
+<wrapUp lessonId="lesson_6512426827893269723" pageid="adapt_0010_8">
+<title/>
+<text>
+<adpWrapUpPageContent/>
+</text>
+</wrapUp>
+</adaptive>
+<text/>
+<page type="clickAndReveal" pageid="3406939469031310787" pageTime="0" showTitle="true" count="" hidden="false">
+<title>Getting Your Communication Right</title>
+<text>
+<div>
+<p><span style="font-size:20px">Let's explore the essential principles guiding our social media and external communication policies.</span></p>
+<p> </p>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>Let’s take a look at some tips that can help you.</p>
+</inspireTranscript>
+</audioTranscript>
+<clickAndRevealItem catname="item1">
+<click>
+<text>
+Social Media
+</text>
+</click>
+<reveal>
+<text>
+<ul>
+<li><span style="font-size:20px">Be respectful and use mature judgment even when using social media for personal activities. Remember, your conduct may impact the way others view Enviri and what we stand for.</span></li>
+<li><span style="font-size:20px">Contact communications@enviri.com if you discover a social media post that is potentially damaging to Enviri's business, reputation, or public image.</span></li>
+</ul>
+</text>
+</reveal>
+</clickAndRevealItem>
+<clickAndRevealItem catname="item2">
+<click>
+<text>
+External Communications
+</text>
+</click>
+<reveal>
+<text>
+<p><span style="font-size:20px">To ensure accurate, timely, and complete information about our business is communicated to the public, regulatory authorities and others, we have designated individuals to serve as our official Company spokespersons. If you receive an information request from the media, you should not respond unless you are authorized to speak on behalf of Enviri. Refer all media inquiries to communications@enviri.com.</span></p>
+</text>
+</reveal>
+</clickAndRevealItem>
+</page>
+</topic>
+<topic catname="Lesson_2654320876247302849" lessonId="lesson_2654320876247302849" lessonType="lesson" lessonTime="0">
+<title>Conclusion</title>
+<text/>
+<page type="contentPage" pageid="2679108133087499361" pageTime="0" showTitle="true" hidden="false">
+<title>Living Our Values, Every Day</title>
+<text>
+<div>
+<p><span style="font-size:20px">Our Code of Conduct is your guide to make the right decisions and to understand that we do business the right way. Your manager and Global Compliance &amp; Ethics are available if you have questions or concerns.</span></p>
+<p><span style="font-size:20px">You should not be afraid to say something if you see something wrong – our company will never allow retaliation against someone for speaking up in good faith. If you have any questions on this training or any other compliance-related concerns, you can contact Global Compliance &amp; Ethics at compliance@enviri.com</span></p>
+<p><span style="font-size:20px">If you are seeking a confidential resource for reporting Code of Conduct violations please submit any good faith concerns to <a href="https://app.convercent.com/en-us/LandingPage/361275d3-0a1a-e711-8111-000d3ab2feeb/">The Integrity Line.</a> You may also use Phone Reporting<a href="https://hsconline.sharepoint.com/sites/GlobalComplianceEthicsPortal_Extranet/Lists/Integrity Line/AllItems.aspx?viewid=2a3d8078-aff0-4fc5-932c-4d06e3982098"> </a>or Text Reporting (U.S. only at 1-720-790-4489).</span></p>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript>Here are some key points to remember.</inspireTranscript>
+</audioTranscript>
+</page>
+<page type="consent" pageid="8978574376240427722" pageTime="0" showTitle="true" hidden="false">
+<title>Before You Go…</title>
+<text>
+<div>
+<p><span style="font-size:20px">Are you ready to speak up when you see something wrong and help us create a workplace that works for everyone?</span></p>
+<p><span style="font-size:20px">Confirm your commitment to each statement.</span></p>
+</div>
+</text>
+<audioTranscript>
+<inspireTranscript>
+<p>Now it’s time for you to put it into action!</p>
+</inspireTranscript>
+</audioTranscript>
+<consentText> </consentText>
+<item consentname="item1">
+<text>
+<p>I will continue to learn more about how I can help build a culture of integrity, transparency, and excellence.</p>
+</text>
+</item>
+<item consentname="item2">
+<text>
+I will be an ally to my colleagues, and I will speak up when I see misconduct in the workplace.
+</text>
+</item>
+<item consentname="item3">
+<text>
+<p>I will strive to live our values every day and make a difference to my team, my customers, and my community.</p>
+</text>
+</item>
+<bulletin pageid="89785" isMandatory="" type="">
+<bulletinText/>
+</bulletin>
+</page>
+</topic>
+<bulletins>
+<bulletin pageid="4887989369388476070" isMandatory="" type="update" catname="Bulletin_4811975107061267812">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="2892610208531262427" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="8777756639320211196" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="6869471868770194410" isMandatory="" type="bulletin" catname="Bulletin_6838074674768294090">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="5957565958949533013" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="9098676915776016828" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="4289356293698882843" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="1939714516328762907" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="4101419713157644131" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="7252878642749686247" isMandatory="" type="bulletin" catname="Bulletin_7267751000289777991">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="4363762699718986905" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="2730492774825366503" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="578622529330716956" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="4205742967022861088" isMandatory="" type="update" size="large" catname="Bulletin_4190870613777736640">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="7443680057201541805" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="3406939469031310787" isMandatory="" type="bulletin" catname="Bulletin_3421811822276435235">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="2679108133087499361" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+<bulletin pageid="8978574376240427722" isMandatory="" type="" catname="">
+<bulletinTitle> </bulletinTitle>
+<bulletinText> </bulletinText>
+</bulletin>
+</bulletins>
+<resultFeedback>
+<pass buttonState="show" buttonText="Print Certificate">
+<text>
+<p>This is an optional survey</p>
+</text>
+</pass>
+<attemptFail>
+<text/>
+</attemptFail>
+</resultFeedback>
+</course>
