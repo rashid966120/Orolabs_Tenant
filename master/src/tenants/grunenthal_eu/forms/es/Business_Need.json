@@ -1,0 +1,172 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Business Need Updated By Forms  Updated By Rashid 16-05-2024  Version 2",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 54,
+    "fieldName": null,
+    "name": "Requester Details  Updated By Rashid 16-05-2024  Version 2",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Category and Vendor Details Updated By Forms  Updated By Rashid 16-05-2024  Version 2",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 96,
+    "fieldName": "businessOwner",
+    "name": "Empresario",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 100,
+    "fieldName": "onBehalf",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Los formularios actualizados por favor proporcionan a la persona que usted está solicitando a nombre de</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 102,
+    "fieldName": "productDescription",
+    "name": "Breve descripción del producto o servicio prestado a Grünenthal",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 114,
+    "fieldName": "categoryNonNull",
+    "name": "La categoría no es nula (pregunta oculta ficticia para la condición)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 57,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : Esto puede requerir la aprobación del director de compras.\\n",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 116,
+    "fieldName": "isExtensionWorkflow",
+    "name": "¿Es este flujo de trabajo de prórroga del proveedor (oculto)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "estimatedSpend",
+    "name": "Gasto estimado",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 110,
+    "fieldName": "primaryCategory",
+    "name": "Categoría principal del servicio ofrecido por el proveedor",
+    "description": null,
+    "helpText": "Categoría que se espera que tenga el mayor gasto anual con el proveedor",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 94,
+    "fieldName": "applicableNaceCode",
+    "name": "Código NACE aplicable",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 112,
+    "fieldName": "additionalCategories",
+    "name": "Categorías adicionales del servicio ofrecido por el proveedor, si corresponde. (opcional)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 104,
+    "fieldName": "totalYearlySpend",
+    "name": "Gasto anual total estimado con el proveedor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 106,
+    "fieldName": "primaryEntity",
+    "name": "Entidad comercial principal de Grünenthal",
+    "description": null,
+    "helpText": "Entidad comercial que se espera que tenga el mayor gasto anual con el proveedor",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 98,
+    "fieldName": "isOnBehalf",
+    "name": "¿Lo solicita en nombre de alguien más?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 108,
+    "fieldName": "additionalCompanyEntities",
+    "name": "Otras entidades comerciales de Grünenthal  que deben incluirse, si corresponde. (Opcional)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
