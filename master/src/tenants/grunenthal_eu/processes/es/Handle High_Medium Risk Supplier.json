@@ -1,0 +1,22 @@
+[
+  {
+    "id": null,
+    "name": "Gestión de proveedores de riesgo alto o medio",
+    "type": "processTitle"
+  },
+  {
+    "id": 9,
+    "name": "Aprobación del superior jerárquico",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Aprobación de conformidad local",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Aprobación de conformidad global",
+    "type": null
+  }
+]
