@@ -1,0 +1,37 @@
+[
+  {
+    "id": null,
+    "name": "TPDD ligero",
+    "type": "processTitle"
+  },
+  {
+    "id": 71,
+    "name": "Coincidencia de nombre, país y banco",
+    "type": null
+  },
+  {
+    "id": 64,
+    "name": "Sanción y control de medios adversos",
+    "type": null
+  },
+  {
+    "id": 59,
+    "name": "Revisión de datos de proveedores - Centro de Adquisiciones",
+    "type": null
+  },
+  {
+    "id": 65,
+    "name": "Aprobación de conformidad global - Sanciones",
+    "type": null
+  },
+  {
+    "id": 66,
+    "name": "Puntuación del riesgo de TPDD",
+    "type": null
+  },
+  {
+    "id": 67,
+    "name": "Actualizar TPDD y Riesgo",
+    "type": null
+  }
+]
