@@ -1,0 +1,34 @@
+[
+  {
+    "id": "Supplier Onboarding Workflow",
+    "requestName": "New supplier onboarding Updated By Anne",
+    "shortDescription": "New supplier onboarding",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Need": "Need",
+      "Details": "Details Updated By Krishna",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "IT": "IT"
+    }
+  },
+  {
+    "id": "Test supplier notification",
+    "requestName": "Test supplier notification",
+    "shortDescription": "test supplier notification email content",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Review Process": "Review Process",
+      "Supplier": "Supplier",
+      "Onboarding details": "Onboarding details",
+      "IT": "IT"
+    }
+  }
+]
