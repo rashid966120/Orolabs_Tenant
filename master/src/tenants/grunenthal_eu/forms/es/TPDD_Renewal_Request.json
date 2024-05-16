@@ -1,0 +1,142 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Solicitud de renovación de TPDD",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 203,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Cumplimiento",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 144,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : Active el proceso de automatización de procesos digitales (DPA) en eContract.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 199,
+    "fieldName": "q199__p_Please_select_the_Business_",
+    "name": "Indique el contacto comercial de este proveedor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 217,
+    "fieldName": "isExtensionNeeded",
+    "name": "¿Desea prorrogar el proveedor a otras entidades?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_Will_personal_data_be_proce",
+    "name": "¿El tercero tratará los datos personales por cuenta de Grünenthal?",
+    "description": null,
+    "helpText": "<p>i - \"Datos personales\": toda información sobre una persona física identificada o identificable (\"interesado\"); se considerará identificable toda persona física cuya identidad pueda determinarse, directa o indirectamente, en particular mediante un identificador, como por ejemplo un nombre, un número de identificación, datos de localización, un identificador en línea o uno o varios elementos específicos, característicos de la identidad física, fisiológica, genética, psíquica, económica, cultural o social de dicha persona física.'</p><p><br></p><p>ii - '<span style=\"color: rgb(87, 95, 112);\">El término tratamiento es muy amplio y no sólo abarca el almacenamiento de datos personales, sino también su recogida, registro, estructuración, modificación, consulta, uso, difusión o destrucción. Esto significa que, en la práctica, todas las actividades realizadas con datos personales pueden implicar el \"tratamiento de datos personales\".",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 202,
+    "fieldName": "q202__p__span_style__color__rgb_62_",
+    "name": "Gasto anual total estimado con el proveedor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 219,
+    "fieldName": "companyEntities",
+    "name": "Seleccione la(s) entidad(es) adicional(es) que desea/n una prórroga.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 215,
+    "fieldName": "q215__p_Please_select_the_category_",
+    "name": "<p>Por favor, seleccione la categoría del proveedor (pregunta temporal - los datos vendrán de Qlik)</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 226,
+    "fieldName": "advancePayment",
+    "name": "¿Exige el proveedor un anticipo?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 177,
+    "fieldName": "q177__p__em_Does_the_vendor_have_th",
+    "name": "¿Tiene el proveedor capacidad para influir en la prescripción de medicamentos?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "q50__p__span_style__color__rgb_31_",
+    "name": "¿Este servicio requerirá que el proveedor interactúe con autoridades públicas, funcionarios públicos o profesionales sanitarios en nombre de Grünenthal?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 223,
+    "fieldName": "existingCompanyEntities",
+    "name": "Entidad/es de la empresa a las que se extiende actualmente este proveedor (rellenado previamente desde SAP)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
