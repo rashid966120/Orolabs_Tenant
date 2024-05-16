@@ -1,0 +1,260 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Revisión del Centro de Adquisiciones",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 138,
+    "fieldName": null,
+    "name": "Clasificación de proveedores",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 131,
+    "fieldName": null,
+    "name": "Ampliación del proveedor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 92,
+    "fieldName": null,
+    "name": "Revisión de los plazos de pago atípicos",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 88,
+    "fieldName": "q88__p_Reason_for_non_standard_pay",
+    "name": "Motivo del plazo de pago no estándar introducido por el solicitante",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 115,
+    "fieldName": "q115__p__span_style__color__rgb_62_",
+    "name": "Plazo de pago no estándar aplicable",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 130,
+    "fieldName": "q130__p__span_style__color__rgb_62_",
+    "name": "Es la demanda de TI (Oculta)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": "q144__p_Company_Entity_the_vendor_i",
+    "name": "Entidad empresarial para la que se solicita la prórroga del proveedor",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 26,
+    "fieldName": "_p_Confirm_the_category__p_",
+    "name": "Confirme la categoría primaria seleccionada",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 165,
+    "fieldName": "q165__p__span_style__color__rgb_255",
+    "name": "N.º",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Do not extend to the Purchase Organizations of the entities": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 137,
+    "fieldName": "q137__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Fecha de expiración TPDD</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 175,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : </strong>No se le permitirá enviar esta tarea antes de seleccionar confirmado arriba.&nbsp;Por favor, obtenga aclaraciones del solicitante siguiendo los siguientes pasos: </p><ol><li>Haga clic en '<em>Request info</em>' y seleccione '<em>Requester</em>' </li><li>Haga clic en '<em>Share Request Forms</em>' y seleccione el formulario '<em>Payment Term Details</em>' </li></ol>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 162,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : Por favor, inicie la renovación de TPDD para este proveedor antes de completar la Prórroga de Proveedor.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 156,
+    "fieldName": "q156__p_Would_you_like_to_continue_",
+    "name": "<p>Por favor, confirme si desea continuar con el Proceso de Extensión a Proveedores (<s>basado en la fecha de renovación de TPDD obtenida de SAP</s>)</p>",
+    "description": null,
+    "helpText": "<p>Por favor, haga clic en \"Denegar\" en la parte inferior del formulario si no desea continuar con esta Extensión de vendedor</p>",
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 168,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : Por defecto <span style=\\\"color: rgb(62, 68, 86);\\\">todas las extensiones se hacen a nivel de Entidad de la Compañía y Org de Compra</span></p><p><span style=\\\"color: rgb(34, 34, 34);\\\">Por favor apruebe si la información es correcta. Si alguno de los datos es incorrecto, deniéguelo o devuélvalo al solicitante para que lo corrija.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "_p_Update_business_need___p_",
+    "name": "Descripción del producto o servicio",
+    "description": "Nota: Puede 'Solicitar información' del Solicitante para actualizar la descripción del Producto/Servicio o puede actualizarla usted mismo a continuación.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p_Is_the_business_need_adequa",
+    "name": "<p></span>Confirme si la descripción del producto/servicio<span style=\"color: rgb(62, 68, 86);\"> proporcionada por el solicitante es completa.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 180,
+    "fieldName": "q180__p__span_style__color__rgb_62_",
+    "name": "<p><span style=\"color: rgb(62, 68, 86);\">Otras entidades de Grünenthal Business incluidas.</span></p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 185,
+    "fieldName": "q185__p_Please_confirm_the_Primary_",
+    "name": "<p>Confirme la entidad comercial principal seleccionada</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 82,
+    "fieldName": "q82__p_Is_the_reason_for_using_non",
+    "name": "<p>Por favor, confirme si la razón para utilizar un plazo de pago no estándar es <span style=\"color: rgb(62, 68, 86);\">válido</span>?</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Confirmed": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 109,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : La solicitud se someterá ahora a la aprobación del Jefe del Área de Adquisiciones/Jefe de Cuentas por pagar",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 172,
+    "fieldName": "applicablePaymentTerm",
+    "name": "Seleccione el plazo de pago aplicable.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 121,
+    "fieldName": "q121__p_Other_categories_selected__",
+    "name": "Categorías adicionales seleccionadas (opcional)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 170,
+    "fieldName": "vendorClassification",
+    "name": "Seleccione la clasificación de proveedores aplicable",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
