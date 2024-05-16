@@ -1,0 +1,232 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Datos del proveedor del solicitante",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 197,
+    "fieldName": null,
+    "name": "Divisa",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Cumplimiento",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 84,
+    "fieldName": null,
+    "name": "Bienestar animal",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 77,
+    "fieldName": null,
+    "name": "Medioambiente, salud y seguridad",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 145,
+    "fieldName": null,
+    "name": "Cumplimiento GxP",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 149,
+    "fieldName": null,
+    "name": "Tecnologías de la información",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 87,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : Si responde \\\"Sí\\\" a esta pregunta, se iniciará una acción para completar el proceso de incorporación a Bienestar Animal",
+    "helpText": "Nota para el solicitante: Debe cumplimentar el cuestionario sobre Bienestar animal antes de que se pueda crear el proveedor. Este proceso debe realizarse fuera de ORO. Para obtener más información, póngase en contacto con el grupo Bienestar Animal - AWWG@grunenthal.com",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 83,
+    "fieldName": "q83__p__strong_style__background_c",
+    "name": "Nota : Responder \"sí\" a esta pregunta desencadenará una acción para completar el proceso de incorporación a MSS.",
+    "description": "Nota : Si responde \\\"Sí\\\" a esta pregunta, se iniciará una acción para completar el proceso de incorporación a la empresa en materia de medioambiente, salud y seguridad.",
+    "helpText": "Nota para el solicitante: Debe completar el cuestionario de incorporación de MSS antes de que se pueda crear el proveedor. Este proceso debe realizarse fuera de ORO. Para obtener más información, póngase en contacto con el supervisor o con el propietario del trabajo que haya recibido formación sobre este proceso.",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 144,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : Active el proceso de automatización de procesos digitales (DPA) en eContract.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 186,
+    "fieldName": "q186__p__span_style__color__rgb_62_",
+    "name": "Demanda de TI#",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 196,
+    "fieldName": "isITDemand",
+    "name": "¿Hay demanda de TI? (Oculto)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 194,
+    "fieldName": "itBusinessPartner",
+    "name": "<p>Seleccione un equipo de socios comerciales de TI / socio comercial local de TI</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 148,
+    "fieldName": "_p_BD__p_",
+    "name": "¿Es el proveedor GxP relevante?",
+    "description": null,
+    "helpText": "Los proveedores GxP suelen suministrar productos o materiales que entran en contacto directo con el producto o productos o servicios que se utilizan en la sala limpia o para la producción de productos farmacéuticos.",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Are_the_studies_performed_b",
+    "name": "¿Incluyen los estudios realizados por el proveedor tejidos animales?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 80,
+    "fieldName": "q80__p__span_style__color__rgb_31_",
+    "name": "¿Va a realizar el proveedor alguna actividad en las instalaciones de Grünenthal?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 152,
+    "fieldName": "q152__p_Are_the_goods_services_you_",
+    "name": "¿Los productos o servicios que piensa comprar están relacionados con algún tipo de solución informática y/o servicios relacionados con las tecnologías de la información?",
+    "description": null,
+    "helpText": "<p>Un servicio informático puede ser software, software como servicio (SaaS), consultoría/soporte informático, pero también externalización de procesos empresariales que se apoyan en una solución informática o un SaaS. SaaS puede incluir servicios externos de alojamiento web (por ejemplo, IaaS, PaaS o cualquier tipo de servicio gestionado).</p>",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 155,
+    "fieldName": "q155__p_Is_there_an_IT_demand_relat",
+    "name": "¿Hay alguna demanda de TI relacionada con esto?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 200,
+    "fieldName": "q200__p_Please_select_the_currency_",
+    "name": "<p>Seleccione la moneda del proveedor </p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p_Will_personal_data_be_proce",
+    "name": "¿El tercero tratará los datos personales por cuenta de Grünenthal?",
+    "description": null,
+    "helpText": "<p>i - \"Datos personales\": toda información sobre una persona física identificada o identificable (\"interesado\"); se considerará identificable toda persona física cuya identidad pueda determinarse, directa o indirectamente, en particular mediante un identificador, como por ejemplo un nombre, un número de identificación, datos de localización, un identificador en línea o uno o varios elementos específicos, característicos de la identidad física, fisiológica, genética, psíquica, económica, cultural o social de dicha persona física.'</p><p><br></p><p>ii - '<span style=\"color: rgb(87, 95, 112);\">El término tratamiento es muy amplio y no sólo abarca el almacenamiento de datos personales, sino también su recogida, registro, estructuración, modificación, consulta, uso, difusión o destrucción. Esto significa que, en la práctica, todas las actividades realizadas con datos personales pueden implicar el \"tratamiento de datos personales\".",
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 50,
+    "fieldName": "q50__p__span_style__color__rgb_31_",
+    "name": "¿Este servicio requerirá que el proveedor interactúe con autoridades públicas, funcionarios públicos o profesionales sanitarios en nombre de Grünenthal?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 177,
+    "fieldName": "q177__p__em_Does_the_vendor_have_th",
+    "name": "¿Tiene el proveedor capacidad para influir en la prescripción de medicamentos?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Does_the_vendor_require_an_",
+    "name": "¿Exige el proveedor un anticipo?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
