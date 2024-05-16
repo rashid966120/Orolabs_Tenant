@@ -1,0 +1,62 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Revisión del plazo de pago no estándar por el Jefe del área de Adquisiciones",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p__span_style__color__rgb_87_",
+    "name": "Motivo del plazo de pago no estándar introducido por el solicitante",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": "q13__p__span_style__color__rgb_62_",
+    "name": "Plazo de pago no estándar solicitado.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "_p_Payment_term_chosen__p_",
+    "name": "Plazo de pago propuesto (Adquisición)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "Nota : Si el plazo de pago no puede aprobarse, la solicitud puede enviarse de nuevo al Centro de Adquisiciones para actualizar el plazo de pago, haciendo clic en \"Solicitar información\" y seleccionando \"Adquisiciones\".",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
