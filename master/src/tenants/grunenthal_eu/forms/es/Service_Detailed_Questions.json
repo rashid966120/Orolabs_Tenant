@@ -1,0 +1,82 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Control de conformidad",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Preguntas sobre el Servicio de Cumplimiento",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 19,
+    "fieldName": "q19__p_None_of_these_situations_ap",
+    "name": "<p>Ninguna de estas situaciones es aplicable.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": "q22__p_Services_that_exposes_the_v",
+    "name": "<p>Servicios que exponen al vendedor a cualquier situación potencial de notificación de Acontecimientos Adversos, como el Programa de Investigación de Mercado y Apoyo al Paciente (MAP), el Análisis Exploratorio de Datos (EDA), los Datos no relacionados con MAP/Otros Datos, el Estudio No Intervencional (NIS).</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": "q25__p_Commercial_activities_invol",
+    "name": "<p>Actividades comerciales relacionadas con la inteligencia competitiva, las relaciones públicas o la investigación primaria de mercado.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Sending_or_receiving_person",
+    "name": "<p>Envío o recepción de información de identificación personal (PII) (por ejemplo, información sanitaria protegida (PHI), o información relativa a información individual de empleados, proveedores o consultores.</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "iHCP_iROME",
+    "name": "<p>Servicios, pago/transferencia de valor(es), directa o indirectamente, con cualquier Proveedor de Asistencia Sanitaria, incluidos médicos, enfermeros, farmacéuticos, hospitales u otras organizaciones sanitarias, y pacientes o sus defensores, ya sea directa o indirectamente, a través de un proveedor o de otra forma (excepto US Commercial: M&amp;CS proveedores logísticos preferidos).</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "q10__p_Services_or_activities_rela",
+    "name": "<p>Servicios o actividades relacionados con (a) residuos o materiales peligrosos; (b) evaluaciones o estudios ecológicos, medioambientales, toxicológicos o de salud humana; o (c) otros asuntos relacionados con el medio ambiente, la salud y la seguridad (EHS).</p>",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
