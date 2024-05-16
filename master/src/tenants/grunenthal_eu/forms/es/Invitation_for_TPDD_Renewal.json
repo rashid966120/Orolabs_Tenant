@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Invitación para la renovación de la TPDD",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "asunto del correo electrónico",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailBody",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailInstrucción",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailPie de página",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "Invitación de Grünenthal a Due Diligence de Terceros",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 34,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(255, 255, 255);\\\">Grünenthal Invitación:</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 37,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p class=\\\"ql-align-justify\\\"><span style=\\\"color: rgb(68, 68, 68);\\\">Estimados ${supplierContactName}</span></p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\"><span style=\\\"color: rgb(68, 68, 68);\\\">Grünenthal concede gran importancia al fomento de una estrecha colaboración con sus proveedores. Para garantizar su continuidad, invitamos a ${supplierName} a participar en nuestro proceso de Diligencia Debida de Terceros.</span></p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\"><span style=\\\"color: rgb(68, 68, 68);\\\">Para que podamos completar todos los pasos necesarios de este proceso, le rogamos que rellene nuestro cuestionario de Diligencia Debida en línea, al que puede acceder haciendo clic en el siguiente botón.</span></p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\"><span style=\\\"color: rgb(68, 68, 68);\\\">Esto nos ayudará a revisar si nuestra relación comercial puede presentar algún riesgo ético y/o de reputación, garantizando al mismo tiempo el cumplimiento de la normativa local e internacional.</span></p><p class=\\\"ql-align-justify\\\"><br></p><p class=\\\"ql-align-justify\\\"><span style=\\\"color: rgb(68, 68, 68);\\\">Grünenthal ejecuta la Due Diligence de Terceros utilizando ORO una tecnología de ORO Labs. </span></p><p><br></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Cómo acceder a ORO</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">Al hacer clic en \"Comenzar\" se le redirigirá a ORO&nbsp;y se le enviará un correo electrónico automático, con una contraseña de un solo uso, a su bandeja de entrada. Verifique su dirección de correo electrónico para acceder al centro de colaboración de socios comerciales de Grünenthal. </span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">Rellenar y enviar los formularios</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">Encontrará una lista de los formularios que debe rellenar. Facilite la información necesaria y envíelos. Si lo necesita, puede invitar a otros colegas de ${supplierName} a rellenar los formularios en su nombre.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 25,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3><span style=\\\"color: rgb(68, 68, 68);\\\">¿Necesita ayuda?</span></h3><p><span style=\\\"color: rgb(68, 68, 68);\\\">En caso de que necesite ayuda para rellenar los formularios, podrá solicitarla directamente en la herramienta a través del botón \"solicitar información\". También puede ponerse en contacto con nosotros por correo electrónico en&nbsp;</span><a href=\\\"http://suppliermanagement@procurement.grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255); color: rgb(68, 68, 68);\\\">suppliermanagement@procurement.grunenthal.com</a><span style=\\\"color: rgb(68, 68, 68);\\\">&nbsp;para obtener más ayuda.</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(68, 68, 68);\\\">¡Gracias por su colaboración!</span></p><p><br></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">Saludos cordiales,</span></p><p><span style=\\\"color: rgb(68, 68, 68);\\\">${requester}</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
