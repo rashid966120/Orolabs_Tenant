@@ -1,0 +1,75 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "TPDD Renovación _ Revisión del Director de Compras",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 13,
+    "fieldName": null,
+    "name": null,
+    "description": "Se ha iniciado la renovación de la diligencia debidaa terceros (TPDD) para este proveedor, ya que se acerca la fecha de expiración de la TPDD. Como parte de este proceso, se le exigirá al proveedor que responda al cuestionario de diligencia debida a terceros. No obstante, se recomienda interrumpir este proceso si no está previsto utilizar al proveedor para ninguna compra de servicios o bienes.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 4,
+    "fieldName": "q4__p__span_style__color__rgb_62_",
+    "name": "¿Desea continuar con la renovación de la TPDD para este Proveedor?",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": {
+      "Deny": "",
+      "Approve": ""
+    },
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": "q7__p_Please_justify_your_answer_",
+    "name": "Justifique su respuesta.",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "Dado que ha optado por \"Detener\" el proceso de renovación de la TPDD, el Centro de Adquisiciones lo seguirá revisando. Si tiene previsto volver a trabajar con este proveedor más adelante, puede volver a iniciar manualmente el proceso de renovación de la TPDD.",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": "tpddDenial",
+    "name": "Denegación de TPDD (Oculto)",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
