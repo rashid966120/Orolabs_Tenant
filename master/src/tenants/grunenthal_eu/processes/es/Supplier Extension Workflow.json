@@ -1,0 +1,67 @@
+[
+  {
+    "id": null,
+    "name": "Flujo de trabajo de ampliación de proveedores",
+    "type": "processTitle"
+  },
+  {
+    "id": 37,
+    "name": "Elementos de revisión de la carga",
+    "type": null
+  },
+  {
+    "id": 47,
+    "name": "Cargar contactos",
+    "type": null
+  },
+  {
+    "id": 45,
+    "name": "Datos de contacto del proveedor",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Revisión del Centro de Adquisiciones",
+    "type": null
+  },
+  {
+    "id": 32,
+    "name": "Plazo de pago no estándar process_Prórroga",
+    "type": null
+  },
+  {
+    "id": 21,
+    "name": "Recopilación de documentos de proveedores",
+    "type": null
+  },
+  {
+    "id": 42,
+    "name": "Datos de pago",
+    "type": null
+  },
+  {
+    "id": 49,
+    "name": "Datos de contacto para la ampliación",
+    "type": null
+  },
+  {
+    "id": 38,
+    "name": "Revisión de datos de proveedores - Centro de Adquisiciones",
+    "type": null
+  },
+  {
+    "id": 50,
+    "name": "Recopilar resumen",
+    "type": null
+  },
+  {
+    "id": 16,
+    "name": "Revisión de datos maestros de proveedores",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Prórroga del proveedor",
+    "type": null
+  }
+]
