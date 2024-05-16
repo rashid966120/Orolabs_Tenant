@@ -1,0 +1,97 @@
+[
+  {
+    "id": null,
+    "name": "Renovación de la diligencia debida a terceros",
+    "type": "processTitle"
+  },
+  {
+    "id": 2,
+    "name": "Obtener datos de proveedores",
+    "type": null
+  },
+  {
+    "id": 3,
+    "name": "Revisión del director de compras",
+    "type": null
+  },
+  {
+    "id": 4,
+    "name": "Revisión del Centro de Adquisiciones",
+    "type": null
+  },
+  {
+    "id": 7,
+    "name": "Notificación de aprobación de la TPDD",
+    "type": null
+  },
+  {
+    "id": 5,
+    "name": "Al Director de Compras ",
+    "type": null
+  },
+  {
+    "id": 6,
+    "name": "Al Solicitante ",
+    "type": null
+  },
+  {
+    "id": 10,
+    "name": "Buscar TPDD aplicable",
+    "type": null
+  },
+  {
+    "id": 11,
+    "name": "Información sobre la empresa y diligencia debida a terceros",
+    "type": null
+  },
+  {
+    "id": 13,
+    "name": "Datos de pago",
+    "type": null
+  },
+  {
+    "id": 15,
+    "name": "Información para los accionistas",
+    "type": null
+  },
+  {
+    "id": 17,
+    "name": "Datos de contacto",
+    "type": null
+  },
+  {
+    "id": 19,
+    "name": "Cuestionario de diligencia debida a terceros",
+    "type": null
+  },
+  {
+    "id": 21,
+    "name": "Declaración",
+    "type": null
+  },
+  {
+    "id": 22,
+    "name": "Diligencia debida y calificación de riesgos",
+    "type": null
+  },
+  {
+    "id": 23,
+    "name": "Gestión de proveedores de riesgo alto o medio",
+    "type": null
+  },
+  {
+    "id": 24,
+    "name": "proveedor en bloque",
+    "type": null
+  },
+  {
+    "id": 25,
+    "name": "Revisión de datos maestros de proveedores",
+    "type": null
+  },
+  {
+    "id": 26,
+    "name": "Actualización del registro de evaluación en Syniti ",
+    "type": null
+  }
+]
