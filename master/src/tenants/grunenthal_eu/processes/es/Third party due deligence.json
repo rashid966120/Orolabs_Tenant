@@ -1,0 +1,52 @@
+[
+  {
+    "id": null,
+    "name": "Due deligence de terceros",
+    "type": "processTitle"
+  },
+  {
+    "id": 9,
+    "name": "Encontrar el proceso de diligencia debida aplicable",
+    "type": null
+  },
+  {
+    "id": 96,
+    "name": "Carga Contacto principal",
+    "type": null
+  },
+  {
+    "id": 181,
+    "name": "Recolectar Cuestionarios de proveedores",
+    "type": null
+  },
+  {
+    "id": 168,
+    "name": "Recopilación de documentos de proveedores",
+    "type": null
+  },
+  {
+    "id": 157,
+    "name": "Recopilación de documentos de proveedores",
+    "type": null
+  },
+  {
+    "id": 2,
+    "name": "Diligencia debida y calificación de riesgos",
+    "type": null
+  },
+  {
+    "id": 95,
+    "name": "Aprobación de conformidad para proveedores de riesgo",
+    "type": null
+  },
+  {
+    "id": 38,
+    "name": "Notificar al solicitante cuando el riesgo para el proveedor sea alto ",
+    "type": null
+  },
+  {
+    "id": 66,
+    "name": "Notificar al Centro de Adquisiciones cuando el riesgo para el proveedor sea alto  ",
+    "type": null
+  }
+]
