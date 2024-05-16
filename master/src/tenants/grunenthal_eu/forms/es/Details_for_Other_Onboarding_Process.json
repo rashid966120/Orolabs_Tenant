@@ -1,0 +1,42 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Detalles de otros procesos de incorporación",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": null,
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Por favor, confirme que todas las tareas se han completado para el <strong>Bienestar Animal</strong> <span style=\\\"color: rgb(62, 68, 86);\\\">necesario para un proveedor </span>proceso de incorporación.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 6,
+    "fieldName": "null_1_",
+    "name": "nula(1)",
+    "description": "\"<p>Confirme que se han completado todas las tareas para <strong>Medio ambiente, salud y seguridad</strong> necesarias para un proceso de incorporación de proveedores.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
