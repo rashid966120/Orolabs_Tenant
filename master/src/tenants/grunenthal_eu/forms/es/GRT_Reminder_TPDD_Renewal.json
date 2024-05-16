@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "GRT_Reminder Renovación TPDD",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle"
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "asunto del correo electrónico",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 2,
+    "fieldName": null,
+    "name": "emailBody",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 3,
+    "fieldName": null,
+    "name": "emailInstrucción",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 4,
+    "fieldName": null,
+    "name": "emailPie de página",
+    "description": null,
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section"
+  },
+  {
+    "id": 16,
+    "fieldName": null,
+    "name": null,
+    "description": "Grünenthal: Recordatorio para completar el proceso de diligencia debida",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 7,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Cómo acceder a ORO</h3><p>Al hacer clic en \"Comenzar\" se le redirigirá a ORO&nbsp;y se le enviará un correo electrónico automático, con una contraseña de un solo uso, a su bandeja de entrada. Verifique su dirección de correo electrónico para acceder al centro de colaboración de socios comerciales de Grünenthal. </p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 10,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>Rellenar y enviar los formularios</h3><p>Encontrará una lista de los formularios que debe rellenar. Facilite la información necesaria y envíelos. Si lo necesita, puede invitar a otros colegas de ${supplierName} a rellenar los formularios en su nombre.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 19,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<h3>¿Necesita ayuda?</h3><p>En caso de que necesite ayuda para rellenar los formularios, podrá solicitarla directamente en la herramienta a través del botón \"solicitar información\". También puede ponerse en contacto con nosotros por correo electrónico en&nbsp;<a href=\\\"http://suppliermanagement@procurement.grunenthal.com\\\" rel=\\\"noopener noreferrer\\\" target=\\\"_blank\\\" style=\\\"background-color: rgb(255, 255, 255);\\\">suppliermanagement@procurement.grunenthal.com</a>&nbsp;para obtener más ayuda.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 22,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>¡Gracias por su colaboración!</p><p><br></p><p>Saludos cordiales,</p><p>${requester}</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 28,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p><span style=\\\"color: rgb(255, 255, 255);\\\">Grünenthal Invitación:</span></p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  },
+  {
+    "id": 31,
+    "fieldName": null,
+    "name": null,
+    "description": "\"<p>Estimado ${supplierContactName},</p><p><br></p><p>Nos gustaría recordarle el proceso pendiente de Due Diligence de Terceros de Grünenthal para ${supplierName}. Su participación es esencial para mantener la integridad y el cumplimiento de nuestra relación comercial.</p><p><br></p><p>Para completar los pasos necesarios, rellene nuestro formulario de cuestionario de diligencia debida en línea lo antes posible. Este proceso es crucial para revisar cualquier posible riesgo ético o de reputación y garantizar el cumplimiento de todas las normativas pertinentes.</p><p><br></p><p>Grünenthal emplea&nbsp;ORO, una tecnología segura de ORO Labs, para llevar a cabo la diligencia debida de terceros. Su pronta respuesta nos ayudará en gran medida a mantener el alto nivel que nos hemos fijado para nuestras colaboraciones.</p>\"",
+    "helpText": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field"
+  }
+]
